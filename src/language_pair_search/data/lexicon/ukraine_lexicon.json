@@ -1,0 +1,5368 @@
+[
+ {
+  "id": "airstrike",
+  "label": "Airstrike",
+  "category": "attack",
+  "en": [
+   "airstrike",
+   "air strike",
+   "air raid",
+   "aerial bombing"
+  ],
+  "ru": [
+   "авиаудар",
+   "авианалет",
+   "авиабомб",
+   "бомбардировк"
+  ],
+  "uk": [
+   "авіаудар",
+   "авіаналіт",
+   "авіабомб",
+   "бомбардуван"
+  ]
+ },
+ {
+  "id": "shelling",
+  "label": "Shelling",
+  "category": "attack",
+  "en": [
+   "shelling",
+   "shelled",
+   "bombardment"
+  ],
+  "ru": [
+   "обстрел",
+   "артобстрел",
+   "обстреля"
+  ],
+  "uk": [
+   "обстріл",
+   "артобстріл",
+   "обстріля"
+  ]
+ },
+ {
+  "id": "artillery",
+  "label": "Artillery",
+  "category": "weapon",
+  "en": [
+   "artillery",
+   "artillery strike",
+   "artillerymen"
+  ],
+  "ru": [
+   "артиллер",
+   "артудар",
+   "артналет"
+  ],
+  "uk": [
+   "артилер",
+   "артудар",
+   "артналіт"
+  ]
+ },
+ {
+  "id": "drone",
+  "label": "Drone / UAV",
+  "category": "weapon",
+  "en": [
+   "drone",
+   "UAV",
+   "unmanned aerial vehicle"
+  ],
+  "ru": [
+   "беспилотник",
+   "дрон",
+   "БПЛА"
+  ],
+  "uk": [
+   "безпілотник",
+   "дрон",
+   "БПЛА",
+   "БпЛА"
+  ],
+  "notes": "'дрон' is a short stem but low-collision"
+ },
+ {
+  "id": "drone-strike",
+  "label": "Drone strike",
+  "category": "attack",
+  "en": [
+   "drone strike",
+   "drone attack"
+  ],
+  "ru": [
+   "удар дрона",
+   "удар беспилотника",
+   "атака дрона",
+   "атака беспилотник"
+  ],
+  "uk": [
+   "удар дрона",
+   "удар безпілотника",
+   "атака дрона",
+   "атака безпілотник"
+  ]
+ },
+ {
+  "id": "ambush",
+  "label": "Ambush",
+  "category": "attack",
+  "en": [
+   "ambush",
+   "ambushed"
+  ],
+  "ru": [
+   "засад"
+  ],
+  "uk": [
+   "засідк",
+   "засада",
+   "засади"
+  ]
+ },
+ {
+  "id": "siege",
+  "label": "Siege / blockade",
+  "category": "attack",
+  "en": [
+   "siege",
+   "besieged",
+   "blockade"
+  ],
+  "ru": [
+   "осада",
+   "осады",
+   "осаду",
+   "блокад"
+  ],
+  "uk": [
+   "облога",
+   "облоги",
+   "облогу",
+   "блокад"
+  ],
+  "notes": "ru 'осад' alone would match осадки (precipitation)"
+ },
+ {
+  "id": "looting",
+  "label": "Looting",
+  "category": "violation",
+  "en": [
+   "looting",
+   "looted",
+   "looters",
+   "plunder"
+  ],
+  "ru": [
+   "мародер",
+   "грабеж",
+   "разграбл"
+  ],
+  "uk": [
+   "мародер",
+   "грабіж",
+   "пограбув",
+   "розграбув"
+  ]
+ },
+ {
+  "id": "arson",
+  "label": "Arson / burning",
+  "category": "violation",
+  "en": [
+   "arson",
+   "set on fire",
+   "burned down",
+   "torched"
+  ],
+  "ru": [
+   "поджог",
+   "подожгл",
+   "сожгли",
+   "сожжен"
+  ],
+  "uk": [
+   "підпал",
+   "спалил",
+   "спален"
+  ]
+ },
+ {
+  "id": "massacre",
+  "label": "Massacre",
+  "category": "violation",
+  "en": [
+   "massacre",
+   "mass killing",
+   "slaughter"
+  ],
+  "ru": [
+   "резня",
+   "резни",
+   "бойня",
+   "бойни",
+   "массовое убийство",
+   "массовые убийства"
+  ],
+  "uk": [
+   "різанин",
+   "бійня",
+   "бійні",
+   "масове вбивство",
+   "масові вбивства"
+  ]
+ },
+ {
+  "id": "execution",
+  "label": "Execution / shooting of captives",
+  "category": "violation",
+  "en": [
+   "execution",
+   "executed",
+   "summary execution",
+   "shot dead"
+  ],
+  "ru": [
+   "расстрел",
+   "казнь",
+   "казни",
+   "казнен",
+   "казнил"
+  ],
+  "uk": [
+   "розстріл",
+   "страта",
+   "страчен",
+   "стратил",
+   "стратили"
+  ],
+  "notes": "uk 'страт' too short (стратегія)"
+ },
+ {
+  "id": "beheading",
+  "label": "Beheading",
+  "category": "violation",
+  "en": [
+   "beheading",
+   "beheaded",
+   "decapitated",
+   "decapitation"
+  ],
+  "ru": [
+   "обезглав",
+   "отрезал голову",
+   "отрезали голову",
+   "отрубил голову",
+   "отрубили голову"
+  ],
+  "uk": [
+   "обезголов",
+   "відрізав голову",
+   "відрізали голову",
+   "відрубав голову",
+   "відрубали голову"
+  ]
+ },
+ {
+  "id": "mutilation",
+  "label": "Mutilation / desecration of bodies",
+  "category": "violation",
+  "en": [
+   "mutilation",
+   "mutilated",
+   "desecration of bodies"
+  ],
+  "ru": [
+   "изувеч",
+   "надругател",
+   "надругались",
+   "увечь"
+  ],
+  "uk": [
+   "понівеч",
+   "покаліч",
+   "наруга",
+   "знущання над тілами"
+  ]
+ },
+ {
+  "id": "torture",
+  "label": "Torture",
+  "category": "violation",
+  "en": [
+   "torture",
+   "tortured",
+   "torturing"
+  ],
+  "ru": [
+   "пытк",
+   "пыток",
+   "пытал",
+   "истязан",
+   "истязал"
+  ],
+  "uk": [
+   "катуван",
+   "катував",
+   "тортур",
+   "катували"
+  ]
+ },
+ {
+  "id": "rape",
+  "label": "Rape",
+  "category": "violation",
+  "en": [
+   "rape",
+   "raped",
+   "rapist"
+  ],
+  "ru": [
+   "изнасил",
+   "насиловал"
+  ],
+  "uk": [
+   "зґвалтув",
+   "згвалтув",
+   "зґвалтован",
+   "згвалтован"
+  ],
+  "notes": "Ukrainian often written with г instead of ґ"
+ },
+ {
+  "id": "sexual-violence",
+  "label": "Sexual violence",
+  "category": "violation",
+  "en": [
+   "sexual violence",
+   "sexual abuse",
+   "conflict-related sexual violence",
+   "CRSV"
+  ],
+  "ru": [
+   "сексуальное насилие",
+   "сексуального насилия",
+   "сексуальном насилии",
+   "половое насилие"
+  ],
+  "uk": [
+   "сексуальне насильство",
+   "сексуального насильства",
+   "сексуальне насилля",
+   "сексуального насилля"
+  ]
+ },
+ {
+  "id": "detention",
+  "label": "Detention",
+  "category": "violation",
+  "en": [
+   "detention",
+   "detained",
+   "held captive",
+   "arbitrary detention"
+  ],
+  "ru": [
+   "задержан",
+   "задержал",
+   "удерживаем",
+   "незаконное задержание",
+   "незаконно удерживал"
+  ],
+  "uk": [
+   "затриман",
+   "затримал",
+   "утримуван",
+   "незаконне затримання"
+  ]
+ },
+ {
+  "id": "abduction",
+  "label": "Abduction / kidnapping",
+  "category": "violation",
+  "en": [
+   "abduction",
+   "abducted",
+   "kidnapped",
+   "kidnapping"
+  ],
+  "ru": [
+   "похищ",
+   "похитил"
+  ],
+  "uk": [
+   "викраден",
+   "викрал"
+  ]
+ },
+ {
+  "id": "enforced-disappearance",
+  "label": "Enforced disappearance",
+  "category": "violation",
+  "en": [
+   "enforced disappearance",
+   "forcibly disappeared",
+   "disappeared"
+  ],
+  "ru": [
+   "насильственное исчезновение",
+   "насильственных исчезновений",
+   "насильственно исчез",
+   "бесследно исчез"
+  ],
+  "uk": [
+   "насильницьке зникнення",
+   "насильницьких зникнень",
+   "насильницького зникнення",
+   "безслідно зник"
+  ]
+ },
+ {
+  "id": "forced-displacement",
+  "label": "Forced displacement",
+  "category": "violation",
+  "en": [
+   "forced displacement",
+   "forcibly displaced",
+   "forced transfer"
+  ],
+  "ru": [
+   "принудительное переселение",
+   "принудительного переселения",
+   "принудительное перемещение",
+   "принудительного перемещения"
+  ],
+  "uk": [
+   "примусове переміщення",
+   "примусового переміщення",
+   "примусове переселення",
+   "примусового переселення"
+  ]
+ },
+ {
+  "id": "deportation",
+  "label": "Deportation",
+  "category": "violation",
+  "en": [
+   "deportation",
+   "deported"
+  ],
+  "ru": [
+   "депортац",
+   "депортир"
+  ],
+  "uk": [
+   "депортац",
+   "депортув",
+   "депортова"
+  ]
+ },
+ {
+  "id": "ethnic-cleansing",
+  "label": "Ethnic cleansing",
+  "category": "violation",
+  "en": [
+   "ethnic cleansing"
+  ],
+  "ru": [
+   "этническая чистка",
+   "этнической чистки",
+   "этнические чистки",
+   "этнических чисток"
+  ],
+  "uk": [
+   "етнічна чистка",
+   "етнічної чистки",
+   "етнічні чистки",
+   "етнічних чисток"
+  ]
+ },
+ {
+  "id": "genocide",
+  "label": "Genocide",
+  "category": "violation",
+  "en": [
+   "genocide",
+   "genocidal"
+  ],
+  "ru": [
+   "геноцид"
+  ],
+  "uk": [
+   "геноцид"
+  ]
+ },
+ {
+  "id": "starvation",
+  "label": "Starvation / hunger",
+  "category": "humanitarian",
+  "en": [
+   "starvation",
+   "hunger",
+   "famine",
+   "starved"
+  ],
+  "ru": [
+   "голод",
+   "истощени",
+   "морили голодом"
+  ],
+  "uk": [
+   "голод",
+   "виснажен",
+   "морили голодом"
+  ],
+  "notes": "'голод' catches голодомор, голодный"
+ },
+ {
+  "id": "child-soldiers",
+  "label": "Child soldiers",
+  "category": "violation",
+  "en": [
+   "child soldiers",
+   "child soldier",
+   "recruitment of children",
+   "minors recruited"
+  ],
+  "ru": [
+   "дети-солдаты",
+   "детей-солдат",
+   "вербовка детей",
+   "вербовки детей",
+   "несовершеннолетних бойцов"
+  ],
+  "uk": [
+   "діти-солдати",
+   "дітей-солдатів",
+   "вербування дітей",
+   "вербування неповнолітніх"
+  ]
+ },
+ {
+  "id": "human-shield",
+  "label": "Human shield",
+  "category": "violation",
+  "en": [
+   "human shield",
+   "human shields"
+  ],
+  "ru": [
+   "живой щит",
+   "живым щитом",
+   "живого щита",
+   "живые щиты"
+  ],
+  "uk": [
+   "живий щит",
+   "живим щитом",
+   "живого щита",
+   "живі щити"
+  ]
+ },
+ {
+  "id": "prisoner-of-war",
+  "label": "Prisoner of war",
+  "category": "military",
+  "en": [
+   "prisoner of war",
+   "prisoners of war",
+   "POW",
+   "POWs",
+   "captive soldiers"
+  ],
+  "ru": [
+   "военнопленн",
+   "пленн",
+   "взяли в плен",
+   "взят в плен",
+   "попал в плен"
+  ],
+  "uk": [
+   "військовополонен",
+   "полонен",
+   "взяли в полон",
+   "потрапив у полон",
+   "у полоні"
+  ],
+  "notes": "ru 'пленн' catches пленные/пленных/пленного without matching пленка"
+ },
+ {
+  "id": "mass-grave",
+  "label": "Mass grave",
+  "category": "violation",
+  "en": [
+   "mass grave",
+   "mass graves",
+   "mass burial"
+  ],
+  "ru": [
+   "массовое захоронение",
+   "массового захоронения",
+   "массовых захоронений",
+   "братская могила",
+   "братские могилы",
+   "братской могиле"
+  ],
+  "uk": [
+   "масове поховання",
+   "масового поховання",
+   "масових поховань",
+   "братська могила",
+   "братські могили",
+   "братській могилі"
+  ]
+ },
+ {
+  "id": "corpses",
+  "label": "Corpses / bodies",
+  "category": "violation",
+  "en": [
+   "corpses",
+   "bodies",
+   "dead bodies",
+   "body of"
+  ],
+  "ru": [
+   "трупы",
+   "трупов",
+   "трупами",
+   "тела погибших",
+   "тел погибших",
+   "тела убитых"
+  ],
+  "uk": [
+   "трупи",
+   "трупів",
+   "тіла загиблих",
+   "тіл загиблих",
+   "тіла вбитих"
+  ],
+  "notes": "'труп' alone would also match труппа (troupe)"
+ },
+ {
+  "id": "civilians",
+  "label": "Civilians",
+  "category": "humanitarian",
+  "en": [
+   "civilians",
+   "civilian population",
+   "non-combatants",
+   "residents"
+  ],
+  "ru": [
+   "мирные жители",
+   "мирных жителей",
+   "мирного населения",
+   "мирное население",
+   "гражданских лиц",
+   "гражданское население"
+  ],
+  "uk": [
+   "мирні жителі",
+   "мирних жителів",
+   "цивільн",
+   "мирне населення",
+   "мирного населення"
+  ],
+  "notes": "uk 'цивільн' also matches цивільний кодекс etc."
+ },
+ {
+  "id": "checkpoint",
+  "label": "Checkpoint",
+  "category": "place-type",
+  "en": [
+   "checkpoint",
+   "roadblock",
+   "entry-exit checkpoint"
+  ],
+  "ru": [
+   "блокпост",
+   "контрольно-пропускн",
+   "КПВВ"
+  ],
+  "uk": [
+   "блокпост",
+   "контрольно-пропускн",
+   "КПВВ"
+  ],
+  "notes": "КПВВ = entry-exit checkpoint on the 2014–2022 contact line"
+ },
+ {
+  "id": "headquarters",
+  "label": "Headquarters / command post",
+  "category": "military",
+  "en": [
+   "headquarters",
+   "HQ",
+   "command post"
+  ],
+  "ru": [
+   "штаб",
+   "командный пункт",
+   "командного пункта"
+  ],
+  "uk": [
+   "штаб",
+   "командний пункт",
+   "командного пункту"
+  ],
+  "notes": "'штаб' also matches штабель (stack) rarely"
+ },
+ {
+  "id": "brigade",
+  "label": "Brigade",
+  "category": "unit",
+  "en": [
+   "brigade"
+  ],
+  "ru": [
+   "бригад"
+  ],
+  "uk": [
+   "бригад"
+  ],
+  "notes": "also matches бригадир (foreman)"
+ },
+ {
+  "id": "battalion",
+  "label": "Battalion",
+  "category": "unit",
+  "en": [
+   "battalion",
+   "batallion"
+  ],
+  "ru": [
+   "батальон"
+  ],
+  "uk": [
+   "батальйон"
+  ]
+ },
+ {
+  "id": "division",
+  "label": "Division",
+  "category": "unit",
+  "en": [
+   "division"
+  ],
+  "ru": [
+   "дивизи"
+  ],
+  "uk": [
+   "дивізі"
+  ]
+ },
+ {
+  "id": "withdrawal",
+  "label": "Withdrawal / retreat",
+  "category": "military",
+  "en": [
+   "withdrawal",
+   "retreat",
+   "pulled back",
+   "withdrew"
+  ],
+  "ru": [
+   "отступил",
+   "отступлени",
+   "отвод войск",
+   "отошли"
+  ],
+  "uk": [
+   "відступ",
+   "відступил",
+   "відхід",
+   "відведення військ"
+  ],
+  "notes": "ru 'отход' avoided (also = waste)"
+ },
+ {
+  "id": "advance",
+  "label": "Advance / offensive",
+  "category": "military",
+  "en": [
+   "advance",
+   "offensive",
+   "advancing",
+   "push"
+  ],
+  "ru": [
+   "наступлени",
+   "наступают",
+   "наступал",
+   "продвижени",
+   "продвинул"
+  ],
+  "uk": [
+   "наступу",
+   "наступом",
+   "наступальн",
+   "просуван",
+   "просунул"
+  ],
+  "notes": "uk 'наступ' alone would match наступний (next)"
+ },
+ {
+  "id": "captured",
+  "label": "Captured / seized",
+  "category": "military",
+  "en": [
+   "captured",
+   "seized",
+   "took control",
+   "taken"
+  ],
+  "ru": [
+   "захвачен",
+   "захватил",
+   "взяли под контроль",
+   "взят под контроль"
+  ],
+  "uk": [
+   "захоплен",
+   "захопил",
+   "взяли під контроль",
+   "взято під контроль"
+  ],
+  "notes": "ambiguous between captured territory/equipment and captured people"
+ },
+ {
+  "id": "mortar",
+  "label": "Mortar",
+  "category": "weapon",
+  "en": [
+   "mortar",
+   "mortars",
+   "mortar fire"
+  ],
+  "ru": [
+   "миномет"
+  ],
+  "uk": [
+   "міномет"
+  ]
+ },
+ {
+  "id": "rpg",
+  "label": "RPG / grenade launcher",
+  "category": "weapon",
+  "en": [
+   "RPG",
+   "RPG-7",
+   "grenade launcher",
+   "rocket-propelled grenade"
+  ],
+  "ru": [
+   "гранатомет",
+   "РПГ-7",
+   "РПГ-26"
+  ],
+  "uk": [
+   "гранатомет",
+   "РПГ-7",
+   "РПГ-26"
+  ]
+ },
+ {
+  "id": "landmine",
+  "label": "Landmine / mining",
+  "category": "weapon",
+  "en": [
+   "landmine",
+   "landmines",
+   "mines",
+   "minefield",
+   "tripwire"
+  ],
+  "ru": [
+   "мины",
+   "минирован",
+   "заминирован",
+   "противопехотн",
+   "растяжк",
+   "минное поле"
+  ],
+  "uk": [
+   "мінне поле",
+   "мінуван",
+   "замінован",
+   "протипіхотн",
+   "розтяжк",
+   "мінних"
+  ],
+  "notes": "uk 'міни' avoided (matches міністр)"
+ },
+ {
+  "id": "thermobaric",
+  "label": "Thermobaric weapon",
+  "category": "weapon",
+  "en": [
+   "thermobaric",
+   "vacuum bomb",
+   "fuel-air explosive"
+  ],
+  "ru": [
+   "термобарич",
+   "вакуумн"
+  ],
+  "uk": [
+   "термобаричн",
+   "вакуумн"
+  ]
+ },
+ {
+  "id": "manpads",
+  "label": "MANPADS",
+  "category": "weapon",
+  "en": [
+   "MANPADS",
+   "man-portable air defense"
+  ],
+  "ru": [
+   "ПЗРК",
+   "переносной зенитный"
+  ],
+  "uk": [
+   "ПЗРК",
+   "переносний зенітний"
+  ]
+ },
+ {
+  "id": "tank",
+  "label": "Tank",
+  "category": "weapon",
+  "en": [
+   "tank",
+   "tanks",
+   "T-72",
+   "T-90"
+  ],
+  "ru": [
+   "танк",
+   "Т-72",
+   "Т-80",
+   "Т-90"
+  ],
+  "uk": [
+   "танк",
+   "Т-72",
+   "Т-80",
+   "Т-64"
+  ],
+  "notes": "'танк' also matches танкер"
+ },
+ {
+  "id": "armored-vehicle",
+  "label": "Armored vehicle (BMP/BTR)",
+  "category": "weapon",
+  "en": [
+   "armored vehicle",
+   "armoured vehicle",
+   "IFV",
+   "APC",
+   "BMP"
+  ],
+  "ru": [
+   "бронетехник",
+   "бронемашин",
+   "бронированн",
+   "БМП-",
+   "БТР-"
+  ],
+  "uk": [
+   "бронетехнік",
+   "бронемашин",
+   "броньован",
+   "БМП-",
+   "БТР-"
+  ]
+ },
+ {
+  "id": "mercenaries",
+  "label": "Mercenaries",
+  "category": "actor",
+  "en": [
+   "mercenaries",
+   "mercenary",
+   "hired fighters"
+  ],
+  "ru": [
+   "наемник",
+   "наемничеств"
+  ],
+  "uk": [
+   "найманц",
+   "найманець",
+   "найманств"
+  ]
+ },
+ {
+  "id": "war-crime",
+  "label": "War crime",
+  "category": "violation",
+  "en": [
+   "war crime",
+   "war crimes",
+   "war criminal"
+  ],
+  "ru": [
+   "военное преступление",
+   "военные преступления",
+   "военных преступлений",
+   "военный преступник",
+   "военных преступников"
+  ],
+  "uk": [
+   "воєнний злочин",
+   "воєнні злочини",
+   "воєнних злочинів",
+   "військовий злочин",
+   "воєнний злочинець",
+   "воєнних злочинців"
+  ]
+ },
+ {
+  "id": "filtration",
+  "label": "Filtration",
+  "category": "violation",
+  "en": [
+   "filtration",
+   "filtration process",
+   "filtered"
+  ],
+  "ru": [
+   "фильтрац"
+  ],
+  "uk": [
+   "фільтрац"
+  ]
+ },
+ {
+  "id": "refugees",
+  "label": "Refugees",
+  "category": "humanitarian",
+  "en": [
+   "refugees",
+   "refugee"
+  ],
+  "ru": [
+   "беженц",
+   "беженец"
+  ],
+  "uk": [
+   "біженц",
+   "біженець"
+  ]
+ },
+ {
+  "id": "humanitarian-aid",
+  "label": "Humanitarian aid",
+  "category": "humanitarian",
+  "en": [
+   "humanitarian aid",
+   "humanitarian assistance",
+   "aid convoy"
+  ],
+  "ru": [
+   "гуманитарная помощь",
+   "гуманитарной помощи",
+   "гуманитарк",
+   "гумпомощ"
+  ],
+  "uk": [
+   "гуманітарна допомога",
+   "гуманітарної допомоги",
+   "гуманітарк",
+   "гумдопомог"
+  ]
+ },
+ {
+  "id": "hospital",
+  "label": "Hospital / medical facility",
+  "category": "place-type",
+  "en": [
+   "hospital",
+   "maternity hospital",
+   "clinic"
+  ],
+  "ru": [
+   "больниц",
+   "госпитал",
+   "роддом",
+   "медучрежден"
+  ],
+  "uk": [
+   "лікарн",
+   "госпітал",
+   "пологов",
+   "медзаклад"
+  ]
+ },
+ {
+  "id": "school",
+  "label": "School",
+  "category": "place-type",
+  "en": [
+   "school",
+   "schools"
+  ],
+  "ru": [
+   "школ"
+  ],
+  "uk": [
+   "школ"
+  ]
+ },
+ {
+  "id": "mosque-church",
+  "label": "Church",
+  "category": "place-type",
+  "en": [
+   "church",
+   "cathedral",
+   "monastery",
+   "temple"
+  ],
+  "ru": [
+   "церкв",
+   "церковь",
+   "храм",
+   "собор",
+   "монастыр"
+  ],
+  "uk": [
+   "церкв",
+   "храм",
+   "собор",
+   "монастир"
+  ],
+  "notes": "id kept as mosque-church to merge with the Arabic lexicon; in this lexicon it means church/place of worship"
+ },
+ {
+  "id": "evacuation",
+  "label": "Evacuation",
+  "category": "humanitarian",
+  "en": [
+   "evacuation",
+   "evacuated",
+   "evacuate"
+  ],
+  "ru": [
+   "эвакуац",
+   "эвакуир"
+  ],
+  "uk": [
+   "евакуац",
+   "евакуйов",
+   "евакуюва"
+  ]
+ },
+ {
+  "id": "occupation",
+  "label": "Occupation",
+  "category": "military",
+  "en": [
+   "occupation",
+   "occupied",
+   "occupiers",
+   "occupying forces"
+  ],
+  "ru": [
+   "оккупац",
+   "оккупант",
+   "оккупирован"
+  ],
+  "uk": [
+   "окупац",
+   "окупант",
+   "окупован"
+  ]
+ },
+ {
+  "id": "liberation",
+  "label": "Liberation",
+  "category": "military",
+  "en": [
+   "liberation",
+   "liberated",
+   "de-occupation"
+  ],
+  "ru": [
+   "освобожд",
+   "освободил",
+   "деоккупац"
+  ],
+  "uk": [
+   "звільнен",
+   "звільнил",
+   "визволен",
+   "деокупац"
+  ],
+  "notes": "Russian sources use 'освобождение' for Russian captures of Ukrainian towns; uk 'звільнен' also = dismissed from a job"
+ },
+ {
+  "id": "sniper",
+  "label": "Sniper",
+  "category": "military",
+  "en": [
+   "sniper",
+   "snipers",
+   "sniper fire"
+  ],
+  "ru": [
+   "снайпер"
+  ],
+  "uk": [
+   "снайпер"
+  ]
+ },
+ {
+  "id": "cluster-munition",
+  "label": "Cluster munition",
+  "category": "weapon",
+  "en": [
+   "cluster munition",
+   "cluster bomb",
+   "cluster munitions",
+   "submunitions"
+  ],
+  "ru": [
+   "кассетн"
+  ],
+  "uk": [
+   "касетн"
+  ]
+ },
+ {
+  "id": "missile",
+  "label": "Missile / rocket",
+  "category": "weapon",
+  "en": [
+   "missile",
+   "rocket",
+   "missile strike"
+  ],
+  "ru": [
+   "ракет"
+  ],
+  "uk": [
+   "ракет"
+  ]
+ },
+ {
+  "id": "ballistic-missile",
+  "label": "Ballistic missile",
+  "category": "weapon",
+  "en": [
+   "ballistic missile",
+   "ballistic"
+  ],
+  "ru": [
+   "баллистическ"
+  ],
+  "uk": [
+   "балістичн"
+  ]
+ },
+ {
+  "id": "cruise-missile",
+  "label": "Cruise missile",
+  "category": "weapon",
+  "en": [
+   "cruise missile",
+   "cruise missiles"
+  ],
+  "ru": [
+   "крылатая ракета",
+   "крылатые ракеты",
+   "крылатых ракет",
+   "крылатой ракет"
+  ],
+  "uk": [
+   "крилата ракета",
+   "крилаті ракети",
+   "крилатих ракет",
+   "крилатої ракети"
+  ]
+ },
+ {
+  "id": "kamikaze-drone",
+  "label": "Kamikaze drone / loitering munition",
+  "category": "weapon",
+  "en": [
+   "kamikaze drone",
+   "loitering munition",
+   "suicide drone"
+  ],
+  "ru": [
+   "дрон-камикадзе",
+   "дроны-камикадзе",
+   "камикадзе",
+   "барражирующ"
+  ],
+  "uk": [
+   "дрон-камікадзе",
+   "дрони-камікадзе",
+   "камікадзе",
+   "баражуюч"
+  ]
+ },
+ {
+  "id": "fpv-drone",
+  "label": "FPV drone",
+  "category": "weapon",
+  "en": [
+   "FPV",
+   "FPV drone",
+   "first-person view drone"
+  ],
+  "ru": [
+   "FPV-дрон",
+   "ФПВ-дрон",
+   "дрон FPV",
+   "FPV-дроны",
+   "фпвшк"
+  ],
+  "uk": [
+   "FPV-дрон",
+   "ФПВ-дрон",
+   "дрон FPV",
+   "FPV-дрони",
+   "фпвшк"
+  ]
+ },
+ {
+  "id": "wagner",
+  "label": "Wagner Group (PMC Wagner)",
+  "category": "actor",
+  "en": [
+   "Wagner",
+   "Wagner Group",
+   "PMC Wagner",
+   "Vagner",
+   "Wagnerites"
+  ],
+  "ru": [
+   "Вагнер",
+   "ЧВК Вагнер",
+   "ЧВК «Вагнер»",
+   "вагнеровц",
+   "вагнеров",
+   "вагнерят"
+  ],
+  "uk": [
+   "Вагнер",
+   "ПВК Вагнер",
+   "ПВК «Вагнер»",
+   "вагнерівц",
+   "вагнерів"
+  ]
+ },
+ {
+  "id": "wagner-musicians",
+  "label": "'Musicians' / 'orchestra' (Wagner nicknames)",
+  "category": "slang",
+  "en": [
+   "musicians",
+   "orchestra",
+   "the orchestra"
+  ],
+  "ru": [
+   "музыкант",
+   "оркестр"
+  ],
+  "uk": [
+   "музикант",
+   "оркестр"
+  ],
+  "notes": "Wagner self-nicknames; generic words, high false-positive rate outside Wagner channels"
+ },
+ {
+  "id": "rusich",
+  "label": "Rusich (DShRG Rusich)",
+  "category": "unit",
+  "en": [
+   "Rusich",
+   "Rusych",
+   "DShRG Rusich",
+   "Task Force Rusich",
+   "Rusich group"
+  ],
+  "ru": [
+   "Русич",
+   "ДШРГ Русич",
+   "ДШРГ «Русич»",
+   "русичей"
+  ],
+  "uk": [
+   "Русич",
+   "ДШРГ Русич",
+   "ДШРГ «Русич»",
+   "русичів"
+  ],
+  "notes": "neo-Nazi sabotage-assault reconnaissance group linked to Wagner; 'русич' is also a poetic word for an ancient Rus person"
+ },
+ {
+  "id": "dshrg",
+  "label": "Sabotage-assault reconnaissance group (DShRG)",
+  "category": "unit",
+  "en": [
+   "DShRG",
+   "sabotage-assault reconnaissance group"
+  ],
+  "ru": [
+   "ДШРГ",
+   "диверсионно-штурмов"
+  ],
+  "uk": [
+   "ДШРГ",
+   "диверсійно-штурмов"
+  ]
+ },
+ {
+  "id": "africa-corps",
+  "label": "Africa Corps",
+  "category": "actor",
+  "en": [
+   "Africa Corps",
+   "Afrika Korps",
+   "Russian Africa Corps"
+  ],
+  "ru": [
+   "Африканский корпус",
+   "Африканского корпуса",
+   "Африканском корпусе"
+  ],
+  "uk": [
+   "Африканський корпус",
+   "Африканського корпусу",
+   "Африканському корпусі"
+  ],
+  "notes": "Russian MoD-controlled successor to Wagner in Africa"
+ },
+ {
+  "id": "akhmat",
+  "label": "Akhmat forces",
+  "category": "unit",
+  "en": [
+   "Akhmat",
+   "Akhmat special forces",
+   "Akhmat battalion",
+   "Akhmat-Chechnya"
+  ],
+  "ru": [
+   "Ахмат",
+   "спецназ Ахмат",
+   "спецназ «Ахмат»"
+  ],
+  "uk": [
+   "Ахмат",
+   "спецназ Ахмат",
+   "спецназ «Ахмат»"
+  ],
+  "notes": "'Ахмат' is also a personal name and a football club"
+ },
+ {
+  "id": "kadyrovtsy",
+  "label": "Kadyrovites",
+  "category": "actor",
+  "en": [
+   "Kadyrovites",
+   "Kadyrovtsy",
+   "Kadyrovtsi"
+  ],
+  "ru": [
+   "кадыровц"
+  ],
+  "uk": [
+   "кадирівц"
+  ]
+ },
+ {
+  "id": "kadyrov",
+  "label": "Ramzan Kadyrov",
+  "category": "actor",
+  "en": [
+   "Kadyrov",
+   "Ramzan Kadyrov"
+  ],
+  "ru": [
+   "Кадыров"
+  ],
+  "uk": [
+   "Кадиров"
+  ]
+ },
+ {
+  "id": "alaudinov",
+  "label": "Apti Alaudinov",
+  "category": "actor",
+  "en": [
+   "Alaudinov",
+   "Apti Alaudinov"
+  ],
+  "ru": [
+   "Алаудинов"
+  ],
+  "uk": [
+   "Алаудінов"
+  ],
+  "notes": "Akhmat special forces commander"
+ },
+ {
+  "id": "storm-z",
+  "label": "Storm-Z (convict assault units)",
+  "category": "unit",
+  "en": [
+   "Storm-Z",
+   "Storm Z",
+   "Shtorm Z",
+   "Shtorm-Z"
+  ],
+  "ru": [
+   "Шторм Z",
+   "Шторм-Z",
+   "Шторм-Зет",
+   "штурмовики Z"
+  ],
+  "uk": [
+   "Шторм Z",
+   "Шторм-Z",
+   "Шторм-Зет"
+  ],
+  "notes": "Russian MoD penal assault companies formed from convicts"
+ },
+ {
+  "id": "storm-v",
+  "label": "Storm-V (MoD convict units)",
+  "category": "unit",
+  "en": [
+   "Storm-V",
+   "Storm V",
+   "Shtorm V"
+  ],
+  "ru": [
+   "Шторм V",
+   "Шторм-V"
+  ],
+  "uk": [
+   "Шторм V",
+   "Шторм-V"
+  ],
+  "notes": "successor MoD convict recruitment program; confidence medium on usage frequency"
+ },
+ {
+  "id": "convicts",
+  "label": "Convict recruits",
+  "category": "actor",
+  "en": [
+   "convicts",
+   "prisoner recruits",
+   "Project K",
+   "kashniki"
+  ],
+  "ru": [
+   "зэки",
+   "зеки",
+   "заключенн",
+   "кашник",
+   "помилован"
+  ],
+  "uk": [
+   "зеки",
+   "ув'язнен",
+   "в'язн",
+   "помилуван"
+  ],
+  "notes": "'кашник' = Wagner's 'K' prisoner recruits"
+ },
+ {
+  "id": "redut",
+  "label": "PMC Redut",
+  "category": "actor",
+  "en": [
+   "Redut",
+   "PMC Redut"
+  ],
+  "ru": [
+   "Редут",
+   "ЧВК Редут",
+   "ЧВК «Редут»"
+  ],
+  "uk": [
+   "Редут",
+   "ПВК Редут",
+   "ПВК «Редут»"
+  ],
+  "notes": "'редут' also = redoubt (generic)"
+ },
+ {
+  "id": "espanola",
+  "label": "Española volunteer unit",
+  "category": "unit",
+  "en": [
+   "Espanola",
+   "Española",
+   "Hispaniola"
+  ],
+  "ru": [
+   "Эспаньола",
+   "Испаньола"
+  ],
+  "uk": [
+   "Еспаньйола",
+   "Іспаньйола",
+   "Еспаньола"
+  ],
+  "notes": "football-ultras volunteer unit; Ukrainian spelling varies"
+ },
+ {
+  "id": "sparta",
+  "label": "Sparta Battalion",
+  "category": "unit",
+  "en": [
+   "Sparta",
+   "Sparta Battalion"
+  ],
+  "ru": [
+   "Спарта",
+   "батальон Спарта",
+   "батальон «Спарта»"
+  ],
+  "uk": [
+   "Спарта",
+   "батальйон Спарта",
+   "батальйон «Спарта»"
+  ],
+  "notes": "DPR unit (Motorola); 'Спарта' also generic/football"
+ },
+ {
+  "id": "somali",
+  "label": "Somali Battalion",
+  "category": "unit",
+  "en": [
+   "Somali",
+   "Somali Battalion",
+   "Somalia Battalion"
+  ],
+  "ru": [
+   "батальон Сомали",
+   "батальон «Сомали»",
+   "Сомали"
+  ],
+  "uk": [
+   "батальйон Сомалі",
+   "батальйон «Сомалі»",
+   "Сомалі"
+  ],
+  "notes": "DPR unit (Givi); bare 'Сомали' also = the country"
+ },
+ {
+  "id": "pyatnashka",
+  "label": "Pyatnashka brigade",
+  "category": "unit",
+  "en": [
+   "Pyatnashka",
+   "Pyatnashka Brigade",
+   "International Brigade Pyatnashka"
+  ],
+  "ru": [
+   "Пятнашк"
+  ],
+  "uk": [
+   "П'ятнашк",
+   "Пятнашк"
+  ],
+  "notes": "'пятнашки' also = the game tag"
+ },
+ {
+  "id": "vostok",
+  "label": "Vostok Battalion / Brigade",
+  "category": "unit",
+  "en": [
+   "Vostok",
+   "Vostok Battalion",
+   "Vostok Brigade"
+  ],
+  "ru": [
+   "батальон Восток",
+   "батальон «Восток»",
+   "бригада Восток",
+   "бригада «Восток»"
+  ],
+  "uk": [
+   "батальйон Восток",
+   "батальйон «Восток»",
+   "бригада Восток",
+   "бригада «Восток»"
+  ],
+  "notes": "bare 'Восток' = east; use phrase forms"
+ },
+ {
+  "id": "vdv",
+  "label": "Russian Airborne Forces (VDV)",
+  "category": "unit",
+  "en": [
+   "VDV",
+   "Russian Airborne Forces",
+   "paratroopers",
+   "airborne troops"
+  ],
+  "ru": [
+   "ВДВ",
+   "десантник",
+   "воздушно-десантн"
+  ],
+  "uk": [
+   "ВДВ",
+   "десантник",
+   "повітряно-десантн"
+  ],
+  "notes": "3-letter acronym kept deliberately; match as whole word"
+ },
+ {
+  "id": "rosgvardia",
+  "label": "Rosgvardia (National Guard of Russia)",
+  "category": "actor",
+  "en": [
+   "Rosgvardia",
+   "Rosgvardiya",
+   "Russian National Guard"
+  ],
+  "ru": [
+   "росгвард"
+  ],
+  "uk": [
+   "росгвард"
+  ]
+ },
+ {
+  "id": "fsb",
+  "label": "FSB",
+  "category": "actor",
+  "en": [
+   "FSB",
+   "Federal Security Service"
+  ],
+  "ru": [
+   "ФСБ",
+   "фсбшн",
+   "Федеральной службы безопасности",
+   "Федеральная служба безопасности"
+  ],
+  "uk": [
+   "ФСБ",
+   "фсбшн",
+   "Федеральної служби безпеки"
+  ],
+  "notes": "3-letter acronym kept deliberately; match as whole word"
+ },
+ {
+  "id": "gru",
+  "label": "GRU (Russian military intelligence)",
+  "category": "actor",
+  "en": [
+   "GRU",
+   "Russian military intelligence",
+   "GU"
+  ],
+  "ru": [
+   "ГРУ",
+   "ГРУ Генштаба",
+   "ГРУ ГШ"
+  ],
+  "uk": [
+   "ГРУ",
+   "ГРУ Генштабу"
+  ],
+  "notes": "3-letter acronym kept deliberately"
+ },
+ {
+  "id": "prigozhin",
+  "label": "Yevgeny Prigozhin",
+  "category": "actor",
+  "en": [
+   "Prigozhin",
+   "Prigojine",
+   "Prigozhyn",
+   "Yevgeny Prigozhin",
+   "Evgeny Prigozhin"
+  ],
+  "ru": [
+   "Пригожин"
+  ],
+  "uk": [
+   "Пригожин"
+  ]
+ },
+ {
+  "id": "utkin",
+  "label": "Dmitry Utkin",
+  "category": "actor",
+  "en": [
+   "Utkin",
+   "Dmitry Utkin",
+   "Dmitriy Utkin"
+  ],
+  "ru": [
+   "Уткин"
+  ],
+  "uk": [
+   "Уткін"
+  ],
+  "notes": "Wagner co-founder, callsign 'Wagner'"
+ },
+ {
+  "id": "milchakov",
+  "label": "Alexey Milchakov",
+  "category": "actor",
+  "en": [
+   "Milchakov",
+   "Alexey Milchakov",
+   "Aleksei Milchakov"
+  ],
+  "ru": [
+   "Мильчаков"
+  ],
+  "uk": [
+   "Мільчаков"
+  ],
+  "notes": "Rusich co-founder"
+ },
+ {
+  "id": "petrovsky",
+  "label": "Yan Petrovsky (Voislav Torden)",
+  "category": "actor",
+  "en": [
+   "Petrovsky",
+   "Petrovskiy",
+   "Yan Petrovsky",
+   "Voislav Torden",
+   "Jan Petrovsky"
+  ],
+  "ru": [
+   "Петровский",
+   "Петровского",
+   "Торден"
+  ],
+  "uk": [
+   "Петровський",
+   "Петровського",
+   "Торден"
+  ],
+  "notes": "Rusich co-founder, callsign 'Slavyan'; 'Петровский' is also a common surname and district name"
+ },
+ {
+  "id": "troshev",
+  "label": "Andrei Troshev",
+  "category": "actor",
+  "en": [
+   "Troshev",
+   "Andrei Troshev",
+   "Sedoy"
+  ],
+  "ru": [
+   "Трошев"
+  ],
+  "uk": [
+   "Трошев"
+  ],
+  "notes": "Wagner executive, callsign 'Седой' (not included: generic word)"
+ },
+ {
+  "id": "girkin",
+  "label": "Igor Girkin (Strelkov)",
+  "category": "actor",
+  "en": [
+   "Girkin",
+   "Strelkov",
+   "Igor Girkin",
+   "Igor Strelkov"
+  ],
+  "ru": [
+   "Гиркин",
+   "Стрелков"
+  ],
+  "uk": [
+   "Гіркін",
+   "Стрєлков",
+   "Стрелков"
+  ]
+ },
+ {
+  "id": "russian-mod",
+  "label": "Russian Ministry of Defence",
+  "category": "actor",
+  "en": [
+   "Russian MoD",
+   "Russian Ministry of Defence",
+   "Russian Defense Ministry",
+   "Minoborony"
+  ],
+  "ru": [
+   "Минобороны",
+   "Министерство обороны",
+   "Министерства обороны",
+   "МО РФ"
+  ],
+  "uk": [
+   "Міноборони РФ",
+   "Міноборони Росії",
+   "Міністерство оборони Росії",
+   "МО РФ"
+  ]
+ },
+ {
+  "id": "shoigu",
+  "label": "Sergei Shoigu",
+  "category": "actor",
+  "en": [
+   "Shoigu",
+   "Sergei Shoigu"
+  ],
+  "ru": [
+   "Шойгу"
+  ],
+  "uk": [
+   "Шойгу"
+  ]
+ },
+ {
+  "id": "gerasimov",
+  "label": "Valery Gerasimov",
+  "category": "actor",
+  "en": [
+   "Gerasimov",
+   "Valery Gerasimov"
+  ],
+  "ru": [
+   "Герасимов"
+  ],
+  "uk": [
+   "Герасимов"
+  ],
+  "notes": "also a common surname"
+ },
+ {
+  "id": "surovikin",
+  "label": "Sergei Surovikin",
+  "category": "actor",
+  "en": [
+   "Surovikin",
+   "Sergei Surovikin",
+   "General Armageddon"
+  ],
+  "ru": [
+   "Суровикин"
+  ],
+  "uk": [
+   "Суровікін"
+  ]
+ },
+ {
+  "id": "belousov",
+  "label": "Andrei Belousov",
+  "category": "actor",
+  "en": [
+   "Belousov",
+   "Andrei Belousov"
+  ],
+  "ru": [
+   "Белоусов"
+  ],
+  "uk": [
+   "Білоусов"
+  ],
+  "notes": "Russian defence minister from 2024; common surname"
+ },
+ {
+  "id": "putin",
+  "label": "Vladimir Putin",
+  "category": "actor",
+  "en": [
+   "Putin",
+   "Vladimir Putin"
+  ],
+  "ru": [
+   "Путин"
+  ],
+  "uk": [
+   "Путін"
+  ]
+ },
+ {
+  "id": "zelensky",
+  "label": "Volodymyr Zelensky",
+  "category": "actor",
+  "en": [
+   "Zelensky",
+   "Zelenskyy",
+   "Zelenskiy",
+   "Volodymyr Zelensky"
+  ],
+  "ru": [
+   "Зеленский",
+   "Зеленского",
+   "Зеленским"
+  ],
+  "uk": [
+   "Зеленський",
+   "Зеленського",
+   "Зеленським"
+  ]
+ },
+ {
+  "id": "pushilin",
+  "label": "Denis Pushilin",
+  "category": "actor",
+  "en": [
+   "Pushilin",
+   "Denis Pushilin"
+  ],
+  "ru": [
+   "Пушилин"
+  ],
+  "uk": [
+   "Пушилін"
+  ],
+  "notes": "head of Russian-installed DPR"
+ },
+ {
+  "id": "pasechnik",
+  "label": "Leonid Pasechnik",
+  "category": "actor",
+  "en": [
+   "Pasechnik",
+   "Leonid Pasechnik"
+  ],
+  "ru": [
+   "Пасечник"
+  ],
+  "uk": [
+   "Пасічник"
+  ],
+  "notes": "head of Russian-installed LPR; also = beekeeper"
+ },
+ {
+  "id": "saldo",
+  "label": "Vladimir Saldo",
+  "category": "actor",
+  "en": [
+   "Saldo",
+   "Volodymyr Saldo",
+   "Vladimir Saldo"
+  ],
+  "ru": [
+   "Сальдо"
+  ],
+  "uk": [
+   "Сальдо"
+  ],
+  "notes": "Russian-installed Kherson head; 'сальдо' = balance (accounting)"
+ },
+ {
+  "id": "balitsky",
+  "label": "Yevgeny Balitsky",
+  "category": "actor",
+  "en": [
+   "Balitsky",
+   "Yevhen Balytskyi",
+   "Yevgeny Balitsky"
+  ],
+  "ru": [
+   "Балицкий"
+  ],
+  "uk": [
+   "Балицький"
+  ],
+  "notes": "Russian-installed Zaporizhzhia head"
+ },
+ {
+  "id": "afu",
+  "label": "Armed Forces of Ukraine",
+  "category": "actor",
+  "en": [
+   "AFU",
+   "Armed Forces of Ukraine",
+   "ZSU",
+   "VSU",
+   "Ukrainian army"
+  ],
+  "ru": [
+   "ВСУ",
+   "Вооруженные силы Украины",
+   "Вооруженных сил Украины",
+   "украинская армия"
+  ],
+  "uk": [
+   "ЗСУ",
+   "Збройні сили України",
+   "Збройних сил України",
+   "українська армія"
+  ],
+  "notes": "3-letter acronyms kept deliberately; match as whole word"
+ },
+ {
+  "id": "vsushniki",
+  "label": "'VSU-shniki' (Ukrainian soldiers)",
+  "category": "slang",
+  "en": [
+   "VSU-shniki",
+   "vsushniki"
+  ],
+  "ru": [
+   "всушник",
+   "ВСУшник"
+  ],
+  "uk": [
+   "всушник",
+   "ЗСУшник"
+  ],
+  "notes": "Russian colloquial/derogatory term for Ukrainian soldiers"
+ },
+ {
+  "id": "tro",
+  "label": "Territorial Defence (TrO)",
+  "category": "unit",
+  "en": [
+   "Territorial Defense",
+   "TrO",
+   "TDF",
+   "territorial defence"
+  ],
+  "ru": [
+   "тероборон",
+   "ТрО"
+  ],
+  "uk": [
+   "тероборон",
+   "ТрО"
+  ]
+ },
+ {
+  "id": "sbu",
+  "label": "SBU (Security Service of Ukraine)",
+  "category": "actor",
+  "en": [
+   "SBU",
+   "Security Service of Ukraine"
+  ],
+  "ru": [
+   "СБУ",
+   "Служба безопасности Украины",
+   "Службы безопасности Украины"
+  ],
+  "uk": [
+   "СБУ",
+   "Служба безпеки України",
+   "Служби безпеки України"
+  ]
+ },
+ {
+  "id": "hur",
+  "label": "HUR (Ukrainian military intelligence)",
+  "category": "actor",
+  "en": [
+   "HUR",
+   "GUR",
+   "Ukrainian military intelligence",
+   "Defence Intelligence of Ukraine"
+  ],
+  "ru": [
+   "ГУР",
+   "ГУР МО",
+   "ГУР Минобороны"
+  ],
+  "uk": [
+   "ГУР",
+   "ГУР МО",
+   "ГУР Міноборони"
+  ]
+ },
+ {
+  "id": "budanov",
+  "label": "Kyrylo Budanov",
+  "category": "actor",
+  "en": [
+   "Budanov",
+   "Kyrylo Budanov"
+  ],
+  "ru": [
+   "Буданов"
+  ],
+  "uk": [
+   "Буданов"
+  ]
+ },
+ {
+  "id": "zaluzhnyi",
+  "label": "Valerii Zaluzhnyi",
+  "category": "actor",
+  "en": [
+   "Zaluzhnyi",
+   "Zaluzhny",
+   "Valerii Zaluzhnyi"
+  ],
+  "ru": [
+   "Залужный",
+   "Залужного"
+  ],
+  "uk": [
+   "Залужний",
+   "Залужного"
+  ]
+ },
+ {
+  "id": "syrskyi",
+  "label": "Oleksandr Syrskyi",
+  "category": "actor",
+  "en": [
+   "Syrskyi",
+   "Syrsky",
+   "Oleksandr Syrskyi"
+  ],
+  "ru": [
+   "Сырский",
+   "Сырского"
+  ],
+  "uk": [
+   "Сирський",
+   "Сирського"
+  ]
+ },
+ {
+  "id": "azov",
+  "label": "Azov",
+  "category": "unit",
+  "en": [
+   "Azov",
+   "Azov Regiment",
+   "Azov Brigade",
+   "Azovites"
+  ],
+  "ru": [
+   "Азов",
+   "азовц",
+   "полк Азов",
+   "полк «Азов»"
+  ],
+  "uk": [
+   "Азов",
+   "азовц",
+   "полк Азов",
+   "бригада «Азов»"
+  ],
+  "notes": "'Азов' also matches Азовское море, Азовсталь"
+ },
+ {
+  "id": "national-guard-ua",
+  "label": "National Guard of Ukraine",
+  "category": "actor",
+  "en": [
+   "National Guard of Ukraine",
+   "NGU"
+  ],
+  "ru": [
+   "Нацгвард"
+  ],
+  "uk": [
+   "Нацгвард",
+   "НГУ"
+  ],
+  "notes": "ru 'Нацгвард' also used for Rosgvardia in some texts"
+ },
+ {
+  "id": "rdk",
+  "label": "Russian Volunteer Corps (RDK)",
+  "category": "unit",
+  "en": [
+   "Russian Volunteer Corps",
+   "RDK",
+   "RVC"
+  ],
+  "ru": [
+   "Русский добровольческий корпус",
+   "РДК"
+  ],
+  "uk": [
+   "Російський добровольчий корпус",
+   "РДК"
+  ]
+ },
+ {
+  "id": "freedom-of-russia-legion",
+  "label": "Freedom of Russia Legion",
+  "category": "unit",
+  "en": [
+   "Freedom of Russia Legion",
+   "Legion Freedom of Russia"
+  ],
+  "ru": [
+   "Легион Свобода России",
+   "Легион «Свобода России»",
+   "Свобода России"
+  ],
+  "uk": [
+   "Легіон Свобода Росії",
+   "Легіон «Свобода Росії»",
+   "Свобода Росії"
+  ]
+ },
+ {
+  "id": "bars",
+  "label": "BARS (Combat Army Reserve)",
+  "category": "unit",
+  "en": [
+   "BARS",
+   "Combat Army Reserve"
+  ],
+  "ru": [
+   "БАРС",
+   "Боевой армейский резерв"
+  ],
+  "uk": [
+   "БАРС",
+   "Бойовий армійський резерв"
+  ],
+  "notes": "'барс' also = snow leopard"
+ },
+ {
+  "id": "dpr-lpr-militia",
+  "label": "DPR/LPR militia",
+  "category": "actor",
+  "en": [
+   "DPR militia",
+   "LPR militia",
+   "people's militia",
+   "separatists",
+   "opolchentsy"
+  ],
+  "ru": [
+   "народная милиция",
+   "народной милиции",
+   "ополченц",
+   "армия ДНР",
+   "армии ДНР",
+   "сепаратист"
+  ],
+  "uk": [
+   "народна міліція",
+   "ополченц",
+   "армія ДНР",
+   "сепаратист",
+   "сепари"
+  ]
+ },
+ {
+  "id": "russian-army",
+  "label": "Russian armed forces",
+  "category": "actor",
+  "en": [
+   "Russian army",
+   "Russian forces",
+   "Russian troops",
+   "Russian military"
+  ],
+  "ru": [
+   "российская армия",
+   "российские войска",
+   "российских войск",
+   "ВС РФ",
+   "Вооруженные силы России"
+  ],
+  "uk": [
+   "російська армія",
+   "російські війська",
+   "російських військ",
+   "ЗС РФ"
+  ]
+ },
+ {
+  "id": "64th-brigade",
+  "label": "64th Separate Motor Rifle Brigade",
+  "category": "unit",
+  "en": [
+   "64th Motor Rifle Brigade",
+   "64th Separate Motor Rifle Brigade",
+   "64 OMSBr"
+  ],
+  "ru": [
+   "64-я отдельная мотострелковая",
+   "64 ОМСБр",
+   "64-й ОМСБр"
+  ],
+  "uk": [
+   "64-та окрема мотострілецька",
+   "64 ОМСБр"
+  ],
+  "notes": "Russian unit accused over Bucha killings"
+ },
+ {
+  "id": "motor-rifle",
+  "label": "Motor rifle troops",
+  "category": "unit",
+  "en": [
+   "motor rifle",
+   "motorized rifle",
+   "motor rifle brigade"
+  ],
+  "ru": [
+   "мотострелк",
+   "мотострелков"
+  ],
+  "uk": [
+   "мотостріл"
+  ]
+ },
+ {
+  "id": "naval-infantry",
+  "label": "Marines / naval infantry",
+  "category": "unit",
+  "en": [
+   "marines",
+   "naval infantry",
+   "marine brigade"
+  ],
+  "ru": [
+   "морпех",
+   "морская пехота",
+   "морской пехоты"
+  ],
+  "uk": [
+   "морпіх",
+   "морська піхота",
+   "морської піхоти"
+  ]
+ },
+ {
+  "id": "spetsnaz",
+  "label": "Spetsnaz / special forces",
+  "category": "unit",
+  "en": [
+   "spetsnaz",
+   "special forces",
+   "special operations forces"
+  ],
+  "ru": [
+   "спецназ"
+  ],
+  "uk": [
+   "спецназ",
+   "спецпризначен",
+   "ССО"
+  ]
+ },
+ {
+  "id": "omon-sobr",
+  "label": "OMON / SOBR riot police",
+  "category": "unit",
+  "en": [
+   "OMON",
+   "SOBR",
+   "riot police"
+  ],
+  "ru": [
+   "ОМОН",
+   "СОБР"
+  ],
+  "uk": [
+   "ОМОН",
+   "СОБР"
+  ]
+ },
+ {
+  "id": "regiment",
+  "label": "Regiment",
+  "category": "unit",
+  "en": [
+   "regiment"
+  ],
+  "ru": [
+   "полк",
+   "полка",
+   "полку"
+  ],
+  "uk": [
+   "полк",
+   "полку"
+  ],
+  "notes": "'полк' also matches полка (shelf), полковник"
+ },
+ {
+  "id": "general-staff",
+  "label": "General Staff",
+  "category": "actor",
+  "en": [
+   "General Staff"
+  ],
+  "ru": [
+   "Генштаб",
+   "Генеральный штаб",
+   "Генерального штаба"
+  ],
+  "uk": [
+   "Генштаб",
+   "Генеральний штаб",
+   "Генерального штабу"
+  ]
+ },
+ {
+  "id": "occupation-administration",
+  "label": "Occupation administration",
+  "category": "actor",
+  "en": [
+   "occupation administration",
+   "occupation authorities",
+   "military-civilian administration",
+   "puppet authorities"
+  ],
+  "ru": [
+   "оккупационн",
+   "военно-гражданская администрация",
+   "военно-гражданской администрации"
+  ],
+  "uk": [
+   "окупаційн",
+   "окупаційна адміністрація",
+   "окупаційної влади"
+  ]
+ },
+ {
+  "id": "gauleiter",
+  "label": "'Gauleiter' (occupation official)",
+  "category": "slang",
+  "en": [
+   "gauleiter"
+  ],
+  "ru": [
+   "гауляйтер"
+  ],
+  "uk": [
+   "гауляйтер"
+  ],
+  "notes": "Ukrainian term for Russian-installed officials"
+ },
+ {
+  "id": "collaborators",
+  "label": "Collaborators",
+  "category": "actor",
+  "en": [
+   "collaborator",
+   "collaborators",
+   "collaboration"
+  ],
+  "ru": [
+   "коллаборант",
+   "коллаборац",
+   "пособник"
+  ],
+  "uk": [
+   "колаборант",
+   "колаборац",
+   "пособник",
+   "зрадник"
+  ],
+  "notes": "uk 'зрадник' = traitor (broader)"
+ },
+ {
+  "id": "partisans",
+  "label": "Partisans / resistance",
+  "category": "actor",
+  "en": [
+   "partisans",
+   "partisan",
+   "resistance movement",
+   "underground resistance"
+  ],
+  "ru": [
+   "партизан",
+   "подполь"
+  ],
+  "uk": [
+   "партизан",
+   "підпіл"
+  ]
+ },
+ {
+  "id": "volunteer-fighters",
+  "label": "Volunteer fighters",
+  "category": "actor",
+  "en": [
+   "volunteers",
+   "volunteer fighters",
+   "volunteer battalion"
+  ],
+  "ru": [
+   "доброволец",
+   "добровольц",
+   "добробат"
+  ],
+  "uk": [
+   "доброволець",
+   "добровольц",
+   "добробат"
+  ]
+ },
+ {
+  "id": "conscripts",
+  "label": "Conscripts",
+  "category": "actor",
+  "en": [
+   "conscripts",
+   "conscript",
+   "draftees"
+  ],
+  "ru": [
+   "срочник",
+   "призывник",
+   "срочной службы"
+  ],
+  "uk": [
+   "строковик",
+   "призовник",
+   "строкової служби"
+  ]
+ },
+ {
+  "id": "contract-soldiers",
+  "label": "Contract soldiers",
+  "category": "actor",
+  "en": [
+   "contract soldiers",
+   "contract soldier",
+   "kontraktniki"
+  ],
+  "ru": [
+   "контрактник"
+  ],
+  "uk": [
+   "контрактник"
+  ]
+ },
+ {
+  "id": "war-correspondent",
+  "label": "War correspondent / milblogger",
+  "category": "actor",
+  "en": [
+   "war correspondent",
+   "milblogger",
+   "voenkor",
+   "war blogger"
+  ],
+  "ru": [
+   "военкор",
+   "военный корреспондент",
+   "военного корреспондента",
+   "Z-блогер",
+   "военблогер"
+  ],
+  "uk": [
+   "воєнкор",
+   "військкор",
+   "Z-блогер",
+   "мілблогер"
+  ]
+ },
+ {
+  "id": "fighter",
+  "label": "Fighter / militant",
+  "category": "actor",
+  "en": [
+   "fighter",
+   "fighters",
+   "militant",
+   "combatant"
+  ],
+  "ru": [
+   "боевик",
+   "бойц",
+   "боец"
+  ],
+  "uk": [
+   "бойовик",
+   "бійц",
+   "боєць"
+  ]
+ },
+ {
+  "id": "call-sign",
+  "label": "Call sign",
+  "category": "other",
+  "en": [
+   "call sign",
+   "callsign",
+   "nom de guerre"
+  ],
+  "ru": [
+   "позывн"
+  ],
+  "uk": [
+   "позивн"
+  ],
+  "notes": "useful for identifying perpetrators by callsign"
+ },
+ {
+  "id": "deserters",
+  "label": "Deserters / AWOL",
+  "category": "military",
+  "en": [
+   "deserters",
+   "desertion",
+   "AWOL",
+   "refuseniks"
+  ],
+  "ru": [
+   "дезертир",
+   "СОЧ",
+   "самовольное оставление",
+   "самовольного оставления",
+   "отказник"
+  ],
+  "uk": [
+   "дезертир",
+   "СЗЧ",
+   "самовільне залишення",
+   "самовільного залишення",
+   "відмовник"
+  ]
+ },
+ {
+  "id": "barrier-troops",
+  "label": "Barrier troops / blocking detachments",
+  "category": "military",
+  "en": [
+   "barrier troops",
+   "blocking detachment",
+   "blocking units"
+  ],
+  "ru": [
+   "заградотряд",
+   "заградител"
+  ],
+  "uk": [
+   "загороджувальн",
+   "загонів загородження",
+   "загороджувальних загонів"
+  ]
+ },
+ {
+  "id": "lancet",
+  "label": "Lancet loitering munition",
+  "category": "weapon",
+  "en": [
+   "Lancet",
+   "ZALA Lancet",
+   "Lancet drone"
+  ],
+  "ru": [
+   "Ланцет"
+  ],
+  "uk": [
+   "Ланцет"
+  ],
+  "notes": "also a surgical instrument"
+ },
+ {
+  "id": "shahed",
+  "label": "Shahed / Geran drone",
+  "category": "weapon",
+  "en": [
+   "Shahed",
+   "Shahed-136",
+   "Geran",
+   "Geran-2",
+   "Geranium"
+  ],
+  "ru": [
+   "Шахед",
+   "Герань",
+   "Герани",
+   "Герань-2"
+  ],
+  "uk": [
+   "Шахед",
+   "Герань",
+   "Герань-2",
+   "шахедів"
+  ],
+  "notes": "'Герань' also = geranium flower"
+ },
+ {
+  "id": "orlan",
+  "label": "Orlan-10 recon drone",
+  "category": "weapon",
+  "en": [
+   "Orlan-10",
+   "Orlan"
+  ],
+  "ru": [
+   "Орлан"
+  ],
+  "uk": [
+   "Орлан"
+  ]
+ },
+ {
+  "id": "mavic",
+  "label": "Mavic quadcopter",
+  "category": "weapon",
+  "en": [
+   "Mavic",
+   "DJI Mavic"
+  ],
+  "ru": [
+   "Мавик"
+  ],
+  "uk": [
+   "Мавік",
+   "Мавик"
+  ]
+ },
+ {
+  "id": "baba-yaga",
+  "label": "'Baba Yaga' heavy bomber drone",
+  "category": "slang",
+  "en": [
+   "Baba Yaga",
+   "heavy bomber drone"
+  ],
+  "ru": [
+   "Баба Яга",
+   "Бабу Ягу",
+   "Бабы Яги",
+   "бабы-яги"
+  ],
+  "uk": [
+   "Баба Яга",
+   "Бабу Ягу",
+   "Баби Яги"
+  ],
+  "notes": "Russian nickname for Ukrainian heavy multicopter bombers"
+ },
+ {
+  "id": "fiber-optic-drone",
+  "label": "Fiber-optic drone",
+  "category": "weapon",
+  "en": [
+   "fiber-optic drone",
+   "fibre-optic drone",
+   "fiber optic FPV"
+  ],
+  "ru": [
+   "оптоволокн"
+  ],
+  "uk": [
+   "оптоволокн"
+  ]
+ },
+ {
+  "id": "drone-drop",
+  "label": "Drone munition drop",
+  "category": "attack",
+  "en": [
+   "drone drop",
+   "munition drop",
+   "grenade drop"
+  ],
+  "ru": [
+   "сброс с дрона",
+   "сбросы с дрон",
+   "сброс гранат"
+  ],
+  "uk": [
+   "скид з дрона",
+   "скиди з дрон",
+   "скид гранат"
+  ]
+ },
+ {
+  "id": "grad",
+  "label": "Grad MLRS",
+  "category": "weapon",
+  "en": [
+   "Grad",
+   "BM-21",
+   "BM-21 Grad"
+  ],
+  "ru": [
+   "Град",
+   "РСЗО Град",
+   "БМ-21"
+  ],
+  "uk": [
+   "Град",
+   "РСЗВ Град",
+   "БМ-21"
+  ],
+  "notes": "'град' also = hail and matches градус"
+ },
+ {
+  "id": "mlrs",
+  "label": "Multiple rocket launcher (MLRS)",
+  "category": "weapon",
+  "en": [
+   "MLRS",
+   "multiple rocket launcher",
+   "rocket artillery"
+  ],
+  "ru": [
+   "РСЗО",
+   "реактивная система залпового огня",
+   "реактивной артиллери"
+  ],
+  "uk": [
+   "РСЗВ",
+   "реактивна система залпового вогню",
+   "реактивної артилері"
+  ]
+ },
+ {
+  "id": "uragan",
+  "label": "Uragan MLRS",
+  "category": "weapon",
+  "en": [
+   "Uragan",
+   "BM-27"
+  ],
+  "ru": [
+   "Ураган",
+   "БМ-27"
+  ],
+  "uk": [
+   "Ураган",
+   "БМ-27"
+  ],
+  "notes": "also = hurricane"
+ },
+ {
+  "id": "smerch",
+  "label": "Smerch MLRS",
+  "category": "weapon",
+  "en": [
+   "Smerch",
+   "BM-30"
+  ],
+  "ru": [
+   "Смерч",
+   "БМ-30"
+  ],
+  "uk": [
+   "Смерч",
+   "БМ-30"
+  ],
+  "notes": "also = tornado"
+ },
+ {
+  "id": "tornado-s",
+  "label": "Tornado-S MLRS",
+  "category": "weapon",
+  "en": [
+   "Tornado-S",
+   "Tornado S"
+  ],
+  "ru": [
+   "Торнадо-С",
+   "Торнадо-Г"
+  ],
+  "uk": [
+   "Торнадо-С",
+   "Торнадо-Г"
+  ]
+ },
+ {
+  "id": "tos-1",
+  "label": "TOS-1 thermobaric launcher",
+  "category": "weapon",
+  "en": [
+   "TOS-1",
+   "TOS-1A",
+   "Solntsepyok",
+   "Buratino"
+  ],
+  "ru": [
+   "ТОС-1",
+   "Солнцепек",
+   "Буратино"
+  ],
+  "uk": [
+   "ТОС-1",
+   "Солнцепьок",
+   "Солнцепек",
+   "Буратіно"
+  ],
+  "notes": "'Буратино' also the Pinocchio character"
+ },
+ {
+  "id": "iskander",
+  "label": "Iskander missile",
+  "category": "weapon",
+  "en": [
+   "Iskander",
+   "Iskander-M",
+   "Iskander-K"
+  ],
+  "ru": [
+   "Искандер"
+  ],
+  "uk": [
+   "Іскандер"
+  ]
+ },
+ {
+  "id": "kinzhal",
+  "label": "Kinzhal missile",
+  "category": "weapon",
+  "en": [
+   "Kinzhal",
+   "Kh-47M2",
+   "Kinzhal hypersonic"
+  ],
+  "ru": [
+   "Кинжал"
+  ],
+  "uk": [
+   "Кинджал"
+  ],
+  "notes": "also = dagger"
+ },
+ {
+  "id": "kalibr",
+  "label": "Kalibr cruise missile",
+  "category": "weapon",
+  "en": [
+   "Kalibr",
+   "3M-54"
+  ],
+  "ru": [
+   "Калибр"
+  ],
+  "uk": [
+   "Калібр"
+  ],
+  "notes": "also = calibre"
+ },
+ {
+  "id": "kh-101",
+  "label": "Kh-101 / Kh-555 cruise missiles",
+  "category": "weapon",
+  "en": [
+   "Kh-101",
+   "Kh-555",
+   "Kh-22",
+   "Kh-59"
+  ],
+  "ru": [
+   "Х-101",
+   "Х-555",
+   "Х-22",
+   "Х-59"
+  ],
+  "uk": [
+   "Х-101",
+   "Х-555",
+   "Х-22",
+   "Х-59"
+  ]
+ },
+ {
+  "id": "s-300",
+  "label": "S-300/S-400 (used in ground attack)",
+  "category": "weapon",
+  "en": [
+   "S-300",
+   "S-400"
+  ],
+  "ru": [
+   "С-300",
+   "С-400"
+  ],
+  "uk": [
+   "С-300",
+   "С-400"
+  ]
+ },
+ {
+  "id": "tochka-u",
+  "label": "Tochka-U missile",
+  "category": "weapon",
+  "en": [
+   "Tochka-U",
+   "Tochka U",
+   "Tochka"
+  ],
+  "ru": [
+   "Точка-У",
+   "Точка У"
+  ],
+  "uk": [
+   "Точка-У",
+   "Точка У"
+  ]
+ },
+ {
+  "id": "oniks",
+  "label": "Oniks missile",
+  "category": "weapon",
+  "en": [
+   "Oniks",
+   "P-800"
+  ],
+  "ru": [
+   "Оникс"
+  ],
+  "uk": [
+   "Онікс"
+  ]
+ },
+ {
+  "id": "oreshnik",
+  "label": "Oreshnik missile",
+  "category": "weapon",
+  "en": [
+   "Oreshnik"
+  ],
+  "ru": [
+   "Орешник"
+  ],
+  "uk": [
+   "Орешнік",
+   "Орєшнік",
+   "Орешник"
+  ],
+  "notes": "Ukrainian spelling varies"
+ },
+ {
+  "id": "glide-bomb",
+  "label": "Guided glide bomb (KAB/UMPK)",
+  "category": "weapon",
+  "en": [
+   "KAB",
+   "glide bomb",
+   "guided aerial bomb",
+   "UMPK",
+   "guided bomb"
+  ],
+  "ru": [
+   "КАБ",
+   "КАБы",
+   "корректируемая авиабомба",
+   "корректируемых авиабомб",
+   "УМПК",
+   "планирующая бомба"
+  ],
+  "uk": [
+   "КАБ",
+   "КАБи",
+   "керована авіабомба",
+   "керованих авіабомб",
+   "УМПК",
+   "плануюча бомба"
+  ]
+ },
+ {
+  "id": "fab",
+  "label": "FAB aerial bombs",
+  "category": "weapon",
+  "en": [
+   "FAB-500",
+   "FAB-1500",
+   "FAB-3000",
+   "FAB"
+  ],
+  "ru": [
+   "ФАБ-",
+   "ФАБами",
+   "фугасная авиабомба",
+   "фугасных авиабомб"
+  ],
+  "uk": [
+   "ФАБ-",
+   "ФАБами",
+   "фугасна авіабомба",
+   "фугасних авіабомб"
+  ]
+ },
+ {
+  "id": "himars",
+  "label": "HIMARS",
+  "category": "weapon",
+  "en": [
+   "HIMARS",
+   "M142"
+  ],
+  "ru": [
+   "HIMARS",
+   "Хаймарс",
+   "Хаймерс"
+  ],
+  "uk": [
+   "HIMARS",
+   "Хаймарс"
+  ]
+ },
+ {
+  "id": "atacms",
+  "label": "ATACMS",
+  "category": "weapon",
+  "en": [
+   "ATACMS"
+  ],
+  "ru": [
+   "ATACMS",
+   "Атакамс"
+  ],
+  "uk": [
+   "ATACMS",
+   "Атакамс"
+  ]
+ },
+ {
+  "id": "storm-shadow",
+  "label": "Storm Shadow / SCALP",
+  "category": "weapon",
+  "en": [
+   "Storm Shadow",
+   "SCALP"
+  ],
+  "ru": [
+   "Storm Shadow",
+   "Сторм Шэдоу",
+   "Шторм Шэдоу"
+  ],
+  "uk": [
+   "Storm Shadow",
+   "Сторм Шедоу",
+   "Шторм Шедоу"
+  ]
+ },
+ {
+  "id": "javelin",
+  "label": "Javelin ATGM",
+  "category": "weapon",
+  "en": [
+   "Javelin",
+   "FGM-148"
+  ],
+  "ru": [
+   "Джавелин"
+  ],
+  "uk": [
+   "Джавелін"
+  ]
+ },
+ {
+  "id": "nlaw",
+  "label": "NLAW",
+  "category": "weapon",
+  "en": [
+   "NLAW"
+  ],
+  "ru": [
+   "NLAW"
+  ],
+  "uk": [
+   "NLAW"
+  ]
+ },
+ {
+  "id": "stinger",
+  "label": "Stinger MANPADS",
+  "category": "weapon",
+  "en": [
+   "Stinger"
+  ],
+  "ru": [
+   "Стингер"
+  ],
+  "uk": [
+   "Стінгер"
+  ]
+ },
+ {
+  "id": "kornet",
+  "label": "Kornet ATGM",
+  "category": "weapon",
+  "en": [
+   "Kornet",
+   "9M133"
+  ],
+  "ru": [
+   "Корнет"
+  ],
+  "uk": [
+   "Корнет"
+  ],
+  "notes": "also = cornet"
+ },
+ {
+  "id": "atgm",
+  "label": "Anti-tank guided missile (ATGM)",
+  "category": "weapon",
+  "en": [
+   "ATGM",
+   "anti-tank missile",
+   "anti-tank guided missile"
+  ],
+  "ru": [
+   "ПТУР",
+   "ПТРК",
+   "противотанков"
+  ],
+  "uk": [
+   "ПТУР",
+   "ПТРК",
+   "протитанков"
+  ]
+ },
+ {
+  "id": "bayraktar",
+  "label": "Bayraktar TB2",
+  "category": "weapon",
+  "en": [
+   "Bayraktar",
+   "TB2",
+   "Bayraktar TB2"
+  ],
+  "ru": [
+   "Байрактар"
+  ],
+  "uk": [
+   "Байрактар"
+  ]
+ },
+ {
+  "id": "western-tanks",
+  "label": "Western tanks & IFVs",
+  "category": "weapon",
+  "en": [
+   "Leopard",
+   "Abrams",
+   "Bradley",
+   "Challenger",
+   "Marder"
+  ],
+  "ru": [
+   "Леопард",
+   "Абрамс",
+   "Брэдли",
+   "Бредли",
+   "Челленджер",
+   "Мардер"
+  ],
+  "uk": [
+   "Леопард",
+   "Абрамс",
+   "Бредлі",
+   "Челленджер",
+   "Мардер"
+  ]
+ },
+ {
+  "id": "howitzer",
+  "label": "Howitzer",
+  "category": "weapon",
+  "en": [
+   "howitzer",
+   "M777",
+   "D-30",
+   "gun-howitzer"
+  ],
+  "ru": [
+   "гаубиц",
+   "М777",
+   "Д-30",
+   "Д-20"
+  ],
+  "uk": [
+   "гаубиц",
+   "М777",
+   "Д-30",
+   "Д-20"
+  ]
+ },
+ {
+  "id": "self-propelled-artillery",
+  "label": "Self-propelled artillery",
+  "category": "weapon",
+  "en": [
+   "self-propelled gun",
+   "SPG",
+   "Msta",
+   "Giatsint",
+   "Gvozdika"
+  ],
+  "ru": [
+   "САУ",
+   "самоходн",
+   "Мста-С",
+   "Гиацинт",
+   "Гвоздик"
+  ],
+  "uk": [
+   "САУ",
+   "самохідн",
+   "Мста-С",
+   "Гіацинт",
+   "Гвоздик"
+  ]
+ },
+ {
+  "id": "helicopter",
+  "label": "Attack helicopter",
+  "category": "weapon",
+  "en": [
+   "helicopter",
+   "Ka-52",
+   "Mi-8",
+   "Mi-24",
+   "Mi-28"
+  ],
+  "ru": [
+   "вертолет",
+   "Ка-52",
+   "Ми-8",
+   "Ми-24",
+   "Ми-28"
+  ],
+  "uk": [
+   "вертоліт",
+   "гелікоптер",
+   "Ка-52",
+   "Мі-8",
+   "Мі-24"
+  ]
+ },
+ {
+  "id": "combat-aircraft",
+  "label": "Combat aircraft",
+  "category": "weapon",
+  "en": [
+   "Su-25",
+   "Su-34",
+   "Su-35",
+   "fighter jet",
+   "warplane"
+  ],
+  "ru": [
+   "Су-25",
+   "Су-34",
+   "Су-35",
+   "штурмовик Су",
+   "истребител"
+  ],
+  "uk": [
+   "Су-25",
+   "Су-34",
+   "Су-35",
+   "винищувач"
+  ]
+ },
+ {
+  "id": "white-phosphorus",
+  "label": "White phosphorus / incendiary",
+  "category": "weapon",
+  "en": [
+   "white phosphorus",
+   "phosphorus",
+   "incendiary munitions"
+  ],
+  "ru": [
+   "фосфор",
+   "зажигательн"
+  ],
+  "uk": [
+   "фосфор",
+   "запалювальн"
+  ]
+ },
+ {
+  "id": "chemical-weapons",
+  "label": "Chemical weapons / riot-control agents",
+  "category": "weapon",
+  "en": [
+   "chemical weapons",
+   "chloropicrin",
+   "tear gas",
+   "CS gas",
+   "poison gas"
+  ],
+  "ru": [
+   "химическое оружие",
+   "химического оружия",
+   "хлорпикрин",
+   "слезоточив",
+   "отравляющ"
+  ],
+  "uk": [
+   "хімічна зброя",
+   "хімічної зброї",
+   "хлорпікрин",
+   "сльозогін",
+   "отруйн"
+  ]
+ },
+ {
+  "id": "grenade",
+  "label": "Grenade",
+  "category": "weapon",
+  "en": [
+   "grenade",
+   "grenades",
+   "VOG"
+  ],
+  "ru": [
+   "гранат",
+   "ВОГ-"
+  ],
+  "uk": [
+   "гранат",
+   "ВОГ-"
+  ],
+  "notes": "'гранат' also = pomegranate and matches гранатомет"
+ },
+ {
+  "id": "ammunition",
+  "label": "Ammunition / shells",
+  "category": "weapon",
+  "en": [
+   "ammunition",
+   "shells",
+   "munitions",
+   "ammo"
+  ],
+  "ru": [
+   "боеприпас",
+   "снаряд"
+  ],
+  "uk": [
+   "боєприпас",
+   "снаряд"
+  ]
+ },
+ {
+  "id": "electronic-warfare",
+  "label": "Electronic warfare",
+  "category": "military",
+  "en": [
+   "electronic warfare",
+   "EW",
+   "jamming"
+  ],
+  "ru": [
+   "РЭБ",
+   "радиоэлектронной борьбы",
+   "радиоэлектронная борьба",
+   "глушилк"
+  ],
+  "uk": [
+   "РЕБ",
+   "радіоелектронної боротьби",
+   "радіоелектронна боротьба",
+   "глушилк"
+  ]
+ },
+ {
+  "id": "air-defense",
+  "label": "Air defense",
+  "category": "military",
+  "en": [
+   "air defense",
+   "air defence",
+   "anti-aircraft",
+   "SAM"
+  ],
+  "ru": [
+   "ПВО",
+   "противовоздушн",
+   "зенитн"
+  ],
+  "uk": [
+   "ППО",
+   "протиповітрян",
+   "зенітн"
+  ]
+ },
+ {
+  "id": "mobilization",
+  "label": "Mobilization / mobilized soldiers",
+  "category": "military",
+  "en": [
+   "mobilization",
+   "mobilisation",
+   "mobilized",
+   "mobiks"
+  ],
+  "ru": [
+   "мобилизац",
+   "мобилизов",
+   "мобик"
+  ],
+  "uk": [
+   "мобілізац",
+   "мобілізов",
+   "мобік"
+  ]
+ },
+ {
+  "id": "forced-mobilization",
+  "label": "Forced mobilization / conscription",
+  "category": "violation",
+  "en": [
+   "forced mobilization",
+   "forced conscription",
+   "forcible conscription",
+   "busification"
+  ],
+  "ru": [
+   "принудительная мобилизация",
+   "принудительной мобилизации",
+   "бусификац"
+  ],
+  "uk": [
+   "примусова мобілізація",
+   "примусової мобілізації",
+   "бусифікац"
+  ],
+  "notes": "'бусификация' = Ukrainian slang for street press-ganging into vans; also used by Russian propaganda"
+ },
+ {
+  "id": "chmobik",
+  "label": "'Chmobik' (mobilized soldier, derogatory)",
+  "category": "slang",
+  "en": [
+   "chmobik",
+   "chmobiks"
+  ],
+  "ru": [
+   "чмобик"
+  ],
+  "uk": [
+   "чмобік",
+   "чмобик"
+  ],
+  "notes": "derogatory term for mobilised Russian soldiers"
+ },
+ {
+  "id": "sweep",
+  "label": "Clearing operation / zachistka",
+  "category": "violation",
+  "en": [
+   "clearing operation",
+   "mop-up",
+   "cleansing sweep",
+   "sweep",
+   "zachistka"
+  ],
+  "ru": [
+   "зачистк",
+   "зачищ"
+  ],
+  "uk": [
+   "зачистк",
+   "зачищ"
+  ],
+  "notes": "in Russian military usage can cover killing of detainees/civilians during sweeps"
+ },
+ {
+  "id": "zeroing",
+  "label": "'Zeroing' (killing, slang)",
+  "category": "slang",
+  "en": [
+   "zeroing",
+   "zeroed",
+   "nullified"
+  ],
+  "ru": [
+   "обнул"
+  ],
+  "uk": [
+   "обнулил",
+   "обнулен",
+   "обнуля"
+  ],
+  "notes": "'обнулить' = kill; also used neutrally (reset, e.g. Putin's term 'обнуление')"
+ },
+ {
+  "id": "cargo-200",
+  "label": "'200' / cargo 200 (killed)",
+  "category": "slang",
+  "en": [
+   "cargo 200",
+   "200s",
+   "KIA",
+   "killed in action"
+  ],
+  "ru": [
+   "двухсот",
+   "задвухсот",
+   "груз 200",
+   "груз-200"
+  ],
+  "uk": [
+   "двохсот",
+   "задвохсот",
+   "вантаж 200",
+   "груз 200"
+  ],
+  "notes": "'двухсотый' = killed soldier"
+ },
+ {
+  "id": "cargo-300",
+  "label": "'300' (wounded)",
+  "category": "slang",
+  "en": [
+   "cargo 300",
+   "300s",
+   "wounded in action",
+   "WIA"
+  ],
+  "ru": [
+   "трехсот",
+   "затрехсот",
+   "груз 300"
+  ],
+  "uk": [
+   "трьохсот",
+   "затрьохсот",
+   "вантаж 300"
+  ],
+  "notes": "'трехсотый' = wounded soldier"
+ },
+ {
+  "id": "500-refusenik",
+  "label": "'500' (refusenik)",
+  "category": "slang",
+  "en": [
+   "500s",
+   "refusenik"
+  ],
+  "ru": [
+   "пятисот"
+  ],
+  "uk": [
+   "п'ятисот",
+   "пятисот"
+  ],
+  "notes": "'пятисотый' = soldier refusing to fight"
+ },
+ {
+  "id": "killed",
+  "label": "Killed / dead",
+  "category": "violation",
+  "en": [
+   "killed",
+   "dead",
+   "died",
+   "fatalities"
+  ],
+  "ru": [
+   "погиб",
+   "убит",
+   "убили"
+  ],
+  "uk": [
+   "загибл",
+   "загину",
+   "вбит",
+   "вбили"
+  ]
+ },
+ {
+  "id": "wounded",
+  "label": "Wounded / injured",
+  "category": "humanitarian",
+  "en": [
+   "wounded",
+   "injured",
+   "casualties"
+  ],
+  "ru": [
+   "ранен",
+   "пострадавш"
+  ],
+  "uk": [
+   "поранен",
+   "ранен",
+   "постраждал"
+  ]
+ },
+ {
+  "id": "civilian-casualties",
+  "label": "Civilian casualties",
+  "category": "humanitarian",
+  "en": [
+   "civilian casualties",
+   "civilian deaths",
+   "civilians killed"
+  ],
+  "ru": [
+   "погибли мирные",
+   "погибших мирных",
+   "жертвы среди мирного населения",
+   "жертв среди мирного населения"
+  ],
+  "uk": [
+   "загинули цивільні",
+   "загиблих цивільних",
+   "жертви серед цивільних",
+   "жертв серед цивільного населення"
+  ]
+ },
+ {
+  "id": "child-casualties",
+  "label": "Child casualties",
+  "category": "humanitarian",
+  "en": [
+   "children killed",
+   "child casualties",
+   "killed children"
+  ],
+  "ru": [
+   "погибли дети",
+   "погибших детей",
+   "гибель детей",
+   "погиб ребенок"
+  ],
+  "uk": [
+   "загинули діти",
+   "загиблих дітей",
+   "загибель дітей",
+   "загинула дитина"
+  ]
+ },
+ {
+  "id": "assault",
+  "label": "Assault / storming",
+  "category": "military",
+  "en": [
+   "assault",
+   "storming",
+   "assault troops",
+   "stormtroopers"
+  ],
+  "ru": [
+   "штурм"
+  ],
+  "uk": [
+   "штурм"
+  ],
+  "notes": "catches штурмовик/штурмовать"
+ },
+ {
+  "id": "nakat",
+  "label": "'Nakat' rolling assault",
+  "category": "slang",
+  "en": [
+   "rolling assault",
+   "wave attack",
+   "nakat"
+  ],
+  "ru": [
+   "накат",
+   "накатыва"
+  ],
+  "uk": [
+   "накат"
+  ],
+  "notes": "military slang for an assault wave; 'накат' also = log roof layer / rolling"
+ },
+ {
+  "id": "meat-assault",
+  "label": "Meat assault / human wave",
+  "category": "slang",
+  "en": [
+   "meat assault",
+   "meat wave",
+   "meat grinder",
+   "human wave"
+  ],
+  "ru": [
+   "мясной штурм",
+   "мясные штурмы",
+   "мясных штурм",
+   "мясорубк"
+  ],
+  "uk": [
+   "м'ясний штурм",
+   "м'ясні штурми",
+   "м'ясних штурм",
+   "м'ясорубк",
+   "мясорубк"
+  ]
+ },
+ {
+  "id": "position",
+  "label": "Position",
+  "category": "military",
+  "en": [
+   "position",
+   "positions"
+  ],
+  "ru": [
+   "позиц"
+  ],
+  "uk": [
+   "позиц"
+  ]
+ },
+ {
+  "id": "strongpoint",
+  "label": "Strongpoint (opornik)",
+  "category": "military",
+  "en": [
+   "strongpoint",
+   "stronghold",
+   "opornik"
+  ],
+  "ru": [
+   "опорник",
+   "опорный пункт",
+   "опорного пункта",
+   "опорных пунктов"
+  ],
+  "uk": [
+   "опорник",
+   "опорний пункт",
+   "опорного пункту",
+   "опорних пунктів"
+  ]
+ },
+ {
+  "id": "treeline",
+  "label": "Treeline / forest belt (posadka)",
+  "category": "place-type",
+  "en": [
+   "treeline",
+   "tree line",
+   "forest belt",
+   "windbreak"
+  ],
+  "ru": [
+   "посадк",
+   "лесополос"
+  ],
+  "uk": [
+   "посадк",
+   "лісосмуг"
+  ],
+  "notes": "'посадка' also = landing/planting/boarding"
+ },
+ {
+  "id": "basement",
+  "label": "Basement / detention cellar",
+  "category": "place-type",
+  "en": [
+   "basement",
+   "cellar",
+   "detention cellar"
+  ],
+  "ru": [
+   "подвал",
+   "на подвал"
+  ],
+  "uk": [
+   "підвал",
+   "на підвал"
+  ],
+  "notes": "'на подвал' = taken for detention/torture"
+ },
+ {
+  "id": "filtration-camp",
+  "label": "Filtration camp",
+  "category": "place-type",
+  "en": [
+   "filtration camp",
+   "filtration point",
+   "filtration centre"
+  ],
+  "ru": [
+   "фильтрационный лагерь",
+   "фильтрационного лагеря",
+   "фильтрационн",
+   "фильтрационный пункт"
+  ],
+  "uk": [
+   "фільтраційний табір",
+   "фільтраційного табору",
+   "фільтраційн"
+  ]
+ },
+ {
+  "id": "torture-chamber",
+  "label": "Torture chamber",
+  "category": "place-type",
+  "en": [
+   "torture chamber",
+   "torture room",
+   "torture site"
+  ],
+  "ru": [
+   "пыточн",
+   "пыточная",
+   "пыточной камер"
+  ],
+  "uk": [
+   "катівн",
+   "катівня",
+   "катівні"
+  ]
+ },
+ {
+  "id": "dugout",
+  "label": "Dugout / bunker",
+  "category": "place-type",
+  "en": [
+   "dugout",
+   "bunker",
+   "blindage"
+  ],
+  "ru": [
+   "блиндаж",
+   "бункер"
+  ],
+  "uk": [
+   "бліндаж",
+   "бункер"
+  ]
+ },
+ {
+  "id": "trench",
+  "label": "Trench",
+  "category": "place-type",
+  "en": [
+   "trench",
+   "trenches",
+   "foxhole"
+  ],
+  "ru": [
+   "окоп",
+   "транше"
+  ],
+  "uk": [
+   "окоп",
+   "транше"
+  ]
+ },
+ {
+  "id": "front-line",
+  "label": "Front line",
+  "category": "military",
+  "en": [
+   "front line",
+   "frontline",
+   "line of contact",
+   "zero line"
+  ],
+  "ru": [
+   "линия фронта",
+   "линии фронта",
+   "передок",
+   "передк",
+   "на нуле",
+   "ЛБС"
+  ],
+  "uk": [
+   "лінія фронту",
+   "лінії фронту",
+   "передок",
+   "передк",
+   "на нулі",
+   "ЛБЗ"
+  ],
+  "notes": "'ноль'/'на нуле' = the forward-most positions"
+ },
+ {
+  "id": "grey-zone",
+  "label": "Grey zone",
+  "category": "military",
+  "en": [
+   "grey zone",
+   "gray zone",
+   "no man's land"
+  ],
+  "ru": [
+   "серая зона",
+   "серой зоне",
+   "серую зону",
+   "серой зоны"
+  ],
+  "uk": [
+   "сіра зона",
+   "сірій зоні",
+   "сіру зону",
+   "сірої зони"
+  ]
+ },
+ {
+  "id": "rotation",
+  "label": "Rotation",
+  "category": "military",
+  "en": [
+   "rotation",
+   "rotated out"
+  ],
+  "ru": [
+   "ротац"
+  ],
+  "uk": [
+   "ротац"
+  ]
+ },
+ {
+  "id": "encirclement",
+  "label": "Encirclement / cauldron",
+  "category": "military",
+  "en": [
+   "encirclement",
+   "encircled",
+   "cauldron",
+   "pocket"
+  ],
+  "ru": [
+   "окружени",
+   "в котле",
+   "котла",
+   "котел"
+  ],
+  "uk": [
+   "оточен",
+   "в котлі",
+   "котел"
+  ],
+  "notes": "'котел' also = boiler"
+ },
+ {
+  "id": "counteroffensive",
+  "label": "Counteroffensive / counterattack",
+  "category": "military",
+  "en": [
+   "counteroffensive",
+   "counter-offensive",
+   "counterattack"
+  ],
+  "ru": [
+   "контрнаступлени",
+   "контратак"
+  ],
+  "uk": [
+   "контрнаступ",
+   "контратак"
+  ]
+ },
+ {
+  "id": "breakthrough",
+  "label": "Breakthrough",
+  "category": "military",
+  "en": [
+   "breakthrough",
+   "broke through"
+  ],
+  "ru": [
+   "прорыв",
+   "прорвал"
+  ],
+  "uk": [
+   "прорив",
+   "прорвал"
+  ]
+ },
+ {
+  "id": "bridgehead",
+  "label": "Bridgehead",
+  "category": "military",
+  "en": [
+   "bridgehead",
+   "foothold"
+  ],
+  "ru": [
+   "плацдарм"
+  ],
+  "uk": [
+   "плацдарм"
+  ]
+ },
+ {
+  "id": "reconnaissance",
+  "label": "Reconnaissance",
+  "category": "military",
+  "en": [
+   "reconnaissance",
+   "recon",
+   "scouts"
+  ],
+  "ru": [
+   "развед"
+  ],
+  "uk": [
+   "розвід"
+  ]
+ },
+ {
+  "id": "sabotage",
+  "label": "Sabotage / sabotage group (DRG)",
+  "category": "military",
+  "en": [
+   "sabotage",
+   "saboteurs",
+   "DRG",
+   "sabotage group"
+  ],
+  "ru": [
+   "диверс",
+   "ДРГ"
+  ],
+  "uk": [
+   "диверс",
+   "ДРГ"
+  ]
+ },
+ {
+  "id": "demining",
+  "label": "Demining",
+  "category": "humanitarian",
+  "en": [
+   "demining",
+   "mine clearance",
+   "sappers"
+  ],
+  "ru": [
+   "разминирован",
+   "сапер"
+  ],
+  "uk": [
+   "розмінуван",
+   "сапер"
+  ]
+ },
+ {
+  "id": "surrender",
+  "label": "Surrender",
+  "category": "military",
+  "en": [
+   "surrender",
+   "surrendered",
+   "capitulation"
+  ],
+  "ru": [
+   "сдался",
+   "сдались",
+   "сдаться",
+   "сдачи в плен",
+   "капитуляц"
+  ],
+  "uk": [
+   "здався",
+   "здалися",
+   "здатися",
+   "здачі в полон",
+   "капітуляц"
+  ]
+ },
+ {
+  "id": "pow-execution",
+  "label": "Execution of POWs",
+  "category": "violation",
+  "en": [
+   "execution of POWs",
+   "POW execution",
+   "executed prisoners",
+   "killing of prisoners"
+  ],
+  "ru": [
+   "расстрел пленных",
+   "расстреляли пленных",
+   "расстрел военнопленных",
+   "убийство пленных"
+  ],
+  "uk": [
+   "розстріл полонених",
+   "розстріляли полонених",
+   "розстріл військовополонених",
+   "вбивство полонених"
+  ]
+ },
+ {
+  "id": "sledgehammer",
+  "label": "Sledgehammer execution",
+  "category": "violation",
+  "en": [
+   "sledgehammer",
+   "sledgehammer execution"
+  ],
+  "ru": [
+   "кувалд"
+  ],
+  "uk": [
+   "кувалд"
+  ],
+  "notes": "Wagner's execution-by-sledgehammer videos (e.g. Nuzhin)"
+ },
+ {
+  "id": "castration",
+  "label": "Castration",
+  "category": "violation",
+  "en": [
+   "castration",
+   "castrated"
+  ],
+  "ru": [
+   "кастрац",
+   "кастрир"
+  ],
+  "uk": [
+   "кастрац",
+   "каструв"
+  ]
+ },
+ {
+  "id": "extrajudicial-killing",
+  "label": "Extrajudicial killing",
+  "category": "violation",
+  "en": [
+   "extrajudicial killing",
+   "extrajudicial execution",
+   "unlawful killing"
+  ],
+  "ru": [
+   "внесудебн"
+  ],
+  "uk": [
+   "позасудов"
+  ]
+ },
+ {
+  "id": "hostage",
+  "label": "Hostage",
+  "category": "violation",
+  "en": [
+   "hostage",
+   "hostages",
+   "hostage-taking"
+  ],
+  "ru": [
+   "заложник"
+  ],
+  "uk": [
+   "заручник"
+  ]
+ },
+ {
+  "id": "forced-labour",
+  "label": "Forced labour",
+  "category": "violation",
+  "en": [
+   "forced labour",
+   "forced labor",
+   "slave labour"
+  ],
+  "ru": [
+   "принудительный труд",
+   "принудительного труда",
+   "принудительных работ"
+  ],
+  "uk": [
+   "примусова праця",
+   "примусової праці",
+   "примусових робіт"
+  ]
+ },
+ {
+  "id": "child-deportation",
+  "label": "Deportation of children",
+  "category": "violation",
+  "en": [
+   "child deportation",
+   "deported children",
+   "abducted children",
+   "forcibly transferred children"
+  ],
+  "ru": [
+   "вывоз детей",
+   "вывезли детей",
+   "депортация детей",
+   "депортации детей",
+   "похищение детей"
+  ],
+  "uk": [
+   "депортація дітей",
+   "депортації дітей",
+   "вивезення дітей",
+   "вивезли дітей",
+   "викрадення дітей"
+  ]
+ },
+ {
+  "id": "passportization",
+  "label": "Passportization",
+  "category": "violation",
+  "en": [
+   "passportization",
+   "passportisation",
+   "forced Russian passports"
+  ],
+  "ru": [
+   "паспортизац"
+  ],
+  "uk": [
+   "паспортизац"
+  ]
+ },
+ {
+  "id": "referendum",
+  "label": "Referendum (sham)",
+  "category": "other",
+  "en": [
+   "referendum",
+   "sham referendum"
+  ],
+  "ru": [
+   "референдум"
+  ],
+  "uk": [
+   "референдум",
+   "псевдореферендум"
+  ]
+ },
+ {
+  "id": "annexation",
+  "label": "Annexation",
+  "category": "other",
+  "en": [
+   "annexation",
+   "annexed",
+   "accession"
+  ],
+  "ru": [
+   "аннекс",
+   "присоединение к России"
+  ],
+  "uk": [
+   "анекс",
+   "приєднання до Росії"
+  ]
+ },
+ {
+  "id": "special-military-operation",
+  "label": "'Special military operation' (SVO)",
+  "category": "slang",
+  "en": [
+   "special military operation",
+   "SMO",
+   "SVO"
+  ],
+  "ru": [
+   "СВО",
+   "спецоперац",
+   "специальной военной операции",
+   "специальная военная операция"
+  ],
+  "uk": [
+   "СВО",
+   "спецоперац",
+   "спеціальної військової операції"
+  ],
+  "notes": "Russian official euphemism for the invasion"
+ },
+ {
+  "id": "denazification",
+  "label": "'Denazification' / 'demilitarization'",
+  "category": "slang",
+  "en": [
+   "denazification",
+   "demilitarization",
+   "demilitarisation"
+  ],
+  "ru": [
+   "денацификац",
+   "демилитаризац"
+  ],
+  "uk": [
+   "денацифікац",
+   "демілітаризац"
+  ],
+  "notes": "Russian propaganda war aims"
+ },
+ {
+  "id": "kyiv-regime",
+  "label": "'Kyiv regime' / 'junta'",
+  "category": "slang",
+  "en": [
+   "Kyiv regime",
+   "Kiev regime",
+   "junta"
+  ],
+  "ru": [
+   "киевский режим",
+   "киевского режима",
+   "киевским режимом",
+   "хунт"
+  ],
+  "uk": [
+   "київський режим",
+   "київського режиму",
+   "хунт"
+  ],
+  "notes": "Russian propaganda term for the Ukrainian government"
+ },
+ {
+  "id": "ukropy",
+  "label": "'Ukropy' (slur for Ukrainians)",
+  "category": "slang",
+  "en": [
+   "ukrop",
+   "ukropy",
+   "ukrops"
+  ],
+  "ru": [
+   "укроп",
+   "укропск"
+  ],
+  "uk": [
+   "укроп"
+  ],
+  "notes": "Russian slur; 'укроп' literally = dill, so culinary false positives occur"
+ },
+ {
+  "id": "khokhly",
+  "label": "'Khokhly' (slur for Ukrainians)",
+  "category": "slang",
+  "en": [
+   "khokhol",
+   "khokhly",
+   "khokhols"
+  ],
+  "ru": [
+   "хохл",
+   "хохол"
+  ],
+  "uk": [
+   "хохл",
+   "хохол"
+  ],
+  "notes": "ethnic slur used in Russian channels"
+ },
+ {
+  "id": "natsiki",
+  "label": "'Natsiki' / 'natsbaty' (Nazis — propaganda)",
+  "category": "slang",
+  "en": [
+   "natsiki",
+   "Nazis",
+   "neo-Nazis",
+   "natsbat"
+  ],
+  "ru": [
+   "нацик",
+   "нацбат",
+   "неонацист",
+   "нацистск"
+  ],
+  "uk": [
+   "нацик",
+   "нацбат",
+   "неонацист"
+  ],
+  "notes": "Russian propaganda label for Ukrainian soldiers/units; 'нацист' also used literally"
+ },
+ {
+  "id": "banderovtsy",
+  "label": "'Banderites' (propaganda)",
+  "category": "slang",
+  "en": [
+   "Banderites",
+   "Banderovtsy",
+   "banderovets"
+  ],
+  "ru": [
+   "бандеровц",
+   "бандеровск"
+  ],
+  "uk": [
+   "бандерівц",
+   "бандерівськ"
+  ],
+  "notes": "Russian propaganda label for Ukrainians/Ukrainian forces"
+ },
+ {
+  "id": "karateli",
+  "label": "'Punishers' (karateli)",
+  "category": "slang",
+  "en": [
+   "punishers",
+   "punitive forces",
+   "karateli"
+  ],
+  "ru": [
+   "карател",
+   "карательн"
+  ],
+  "uk": [
+   "карател",
+   "каральн"
+  ],
+  "notes": "used by both sides for the enemy's forces"
+ },
+ {
+  "id": "rashist",
+  "label": "'Rashist' / 'ruscist' (Ukrainian term for Russian forces)",
+  "category": "slang",
+  "en": [
+   "rashist",
+   "ruscist",
+   "rashism",
+   "ruscism"
+  ],
+  "ru": [
+   "рашист",
+   "рашизм"
+  ],
+  "uk": [
+   "рашист",
+   "рашизм"
+  ]
+ },
+ {
+  "id": "orcs",
+  "label": "'Orcs' (Ukrainian term for Russian soldiers)",
+  "category": "slang",
+  "en": [
+   "orcs",
+   "orc"
+  ],
+  "ru": [
+   "орки",
+   "орков",
+   "орками"
+  ],
+  "uk": [
+   "орки",
+   "орків",
+   "орками",
+   "орчин"
+  ],
+  "notes": "'орк' alone would match оркестр"
+ },
+ {
+  "id": "katsap",
+  "label": "'Katsap' / 'moskal' (slurs for Russians)",
+  "category": "slang",
+  "en": [
+   "katsap",
+   "katsaps",
+   "moskal",
+   "moskals"
+  ],
+  "ru": [
+   "кацап",
+   "москал"
+  ],
+  "uk": [
+   "кацап",
+   "москал"
+  ]
+ },
+ {
+  "id": "rusnya",
+  "label": "'Rusnya' (slur for Russians)",
+  "category": "slang",
+  "en": [
+   "rusnya"
+  ],
+  "ru": [
+   "русня",
+   "русни"
+  ],
+  "uk": [
+   "русня",
+   "русні"
+  ]
+ },
+ {
+  "id": "vatnik",
+  "label": "'Vatnik' (slur for pro-Kremlin Russians)",
+  "category": "slang",
+  "en": [
+   "vatnik",
+   "vatniks",
+   "vata"
+  ],
+  "ru": [
+   "ватник",
+   "ватн"
+  ],
+  "uk": [
+   "ватник",
+   "ватн"
+  ],
+  "notes": "'ватн' also matches ватный (cotton-wool)"
+ },
+ {
+  "id": "prilet",
+  "label": "'Prilet' (incoming hit)",
+  "category": "slang",
+  "en": [
+   "incoming",
+   "impact",
+   "arrival"
+  ],
+  "ru": [
+   "прилет"
+  ],
+  "uk": [
+   "приліт",
+   "прильот"
+  ],
+  "notes": "slang for an incoming strike landing; also matches прилетел (flew in)"
+ },
+ {
+  "id": "minusanut",
+  "label": "'Minusanut' (destroyed/killed)",
+  "category": "slang",
+  "en": [
+   "minused",
+   "taken out",
+   "destroyed"
+  ],
+  "ru": [
+   "минусанул",
+   "минусовал",
+   "в минус"
+  ],
+  "uk": [
+   "мінуснул",
+   "мінусанул",
+   "в мінус"
+  ]
+ },
+ {
+  "id": "otrabotka",
+  "label": "'Otrabotka' (strike on a target)",
+  "category": "slang",
+  "en": [
+   "worked over",
+   "engaged",
+   "target engaged"
+  ],
+  "ru": [
+   "отработал",
+   "отработк",
+   "отработан"
+  ],
+  "uk": [
+   "відпрацювал",
+   "відпрацюва",
+   "відпрацьован"
+  ],
+  "notes": "slang for striking a target; generic word elsewhere"
+ },
+ {
+  "id": "korobochka",
+  "label": "'Korobochka' (armored vehicle)",
+  "category": "slang",
+  "en": [
+   "korobochka"
+  ],
+  "ru": [
+   "коробочк"
+  ],
+  "uk": [
+   "коробочк"
+  ],
+  "notes": "slang for armored vehicles"
+ },
+ {
+  "id": "ptichka",
+  "label": "'Ptichka' (drone)",
+  "category": "slang",
+  "en": [
+   "bird",
+   "birdie"
+  ],
+  "ru": [
+   "птичк"
+  ],
+  "uk": [
+   "пташк"
+  ],
+  "notes": "slang for drones"
+ },
+ {
+  "id": "i-want-to-live",
+  "label": "'I Want to Live' surrender project",
+  "category": "other",
+  "en": [
+   "I Want to Live",
+   "Khochu Zhit"
+  ],
+  "ru": [
+   "Хочу жить"
+  ],
+  "uk": [
+   "Хочу жити"
+  ]
+ },
+ {
+  "id": "prisoner-exchange",
+  "label": "Prisoner exchange",
+  "category": "military",
+  "en": [
+   "prisoner exchange",
+   "prisoner swap",
+   "POW exchange"
+  ],
+  "ru": [
+   "обмен пленными",
+   "обмена пленными",
+   "обмене пленными"
+  ],
+  "uk": [
+   "обмін полоненими",
+   "обміну полоненими",
+   "обміні полоненими"
+  ]
+ },
+ {
+  "id": "body-exchange",
+  "label": "Repatriation of bodies",
+  "category": "humanitarian",
+  "en": [
+   "body exchange",
+   "repatriation of bodies",
+   "return of bodies"
+  ],
+  "ru": [
+   "обмен телами",
+   "репатриация тел",
+   "передача тел"
+  ],
+  "uk": [
+   "обмін тілами",
+   "репатріація тіл",
+   "репатріації тіл",
+   "повернення тіл"
+  ]
+ },
+ {
+  "id": "missing-in-action",
+  "label": "Missing in action",
+  "category": "humanitarian",
+  "en": [
+   "missing in action",
+   "MIA",
+   "missing persons",
+   "missing"
+  ],
+  "ru": [
+   "пропал без вести",
+   "пропавших без вести",
+   "без вести пропавш",
+   "пропавш"
+  ],
+  "uk": [
+   "зник безвісти",
+   "зниклих безвісти",
+   "зниклий безвісти",
+   "зникл"
+  ]
+ },
+ {
+  "id": "exhumation",
+  "label": "Exhumation",
+  "category": "humanitarian",
+  "en": [
+   "exhumation",
+   "exhumed"
+  ],
+  "ru": [
+   "эксгумац"
+  ],
+  "uk": [
+   "ексгумац"
+  ]
+ },
+ {
+  "id": "burial",
+  "label": "Burial / grave",
+  "category": "humanitarian",
+  "en": [
+   "burial",
+   "grave",
+   "graves",
+   "buried"
+  ],
+  "ru": [
+   "захоронен",
+   "похорон",
+   "могил"
+  ],
+  "uk": [
+   "поховання",
+   "похорон",
+   "могил"
+  ]
+ },
+ {
+  "id": "ceasefire",
+  "label": "Ceasefire / truce",
+  "category": "other",
+  "en": [
+   "ceasefire",
+   "truce",
+   "armistice"
+  ],
+  "ru": [
+   "перемири",
+   "прекращение огня",
+   "прекращения огня"
+  ],
+  "uk": [
+   "перемир'я",
+   "перемир",
+   "припинення вогню",
+   "режим тиші"
+  ]
+ },
+ {
+  "id": "humanitarian-corridor",
+  "label": "Humanitarian corridor",
+  "category": "humanitarian",
+  "en": [
+   "humanitarian corridor",
+   "green corridor",
+   "safe passage"
+  ],
+  "ru": [
+   "гуманитарный коридор",
+   "гуманитарного коридора",
+   "зеленый коридор",
+   "гумкоридор"
+  ],
+  "uk": [
+   "гуманітарний коридор",
+   "гуманітарного коридору",
+   "зелений коридор"
+  ]
+ },
+ {
+  "id": "idps",
+  "label": "Internally displaced persons",
+  "category": "humanitarian",
+  "en": [
+   "IDPs",
+   "internally displaced",
+   "displaced persons"
+  ],
+  "ru": [
+   "переселенц",
+   "вынужденные переселенцы"
+  ],
+  "uk": [
+   "переселенц",
+   "ВПО",
+   "внутрішньо переміщен"
+  ]
+ },
+ {
+  "id": "bomb-shelter",
+  "label": "Bomb shelter",
+  "category": "place-type",
+  "en": [
+   "bomb shelter",
+   "air-raid shelter",
+   "shelter"
+  ],
+  "ru": [
+   "бомбоубежищ",
+   "укрыти"
+  ],
+  "uk": [
+   "бомбосховищ",
+   "укритт",
+   "сховищ"
+  ]
+ },
+ {
+  "id": "power-outage",
+  "label": "Power outage / blackout",
+  "category": "humanitarian",
+  "en": [
+   "power outage",
+   "blackout",
+   "without electricity"
+  ],
+  "ru": [
+   "обесточ",
+   "без света",
+   "отключения света",
+   "блэкаут"
+  ],
+  "uk": [
+   "знеструмл",
+   "без світла",
+   "відключення світла",
+   "блекаут"
+  ]
+ },
+ {
+  "id": "energy-infrastructure",
+  "label": "Energy infrastructure strikes",
+  "category": "attack",
+  "en": [
+   "energy infrastructure",
+   "power grid",
+   "power plant strike",
+   "critical infrastructure"
+  ],
+  "ru": [
+   "энергетическ",
+   "энергосистем",
+   "инфраструктур",
+   "ТЭЦ"
+  ],
+  "uk": [
+   "енергетичн",
+   "енергосистем",
+   "інфраструктур",
+   "ТЕЦ"
+  ]
+ },
+ {
+  "id": "double-tap",
+  "label": "Double-tap strike",
+  "category": "attack",
+  "en": [
+   "double tap",
+   "double-tap",
+   "repeat strike"
+  ],
+  "ru": [
+   "двойной удар",
+   "повторный удар",
+   "повторным ударом"
+  ],
+  "uk": [
+   "подвійний удар",
+   "повторний удар",
+   "повторним ударом"
+  ]
+ },
+ {
+  "id": "dam-flooding",
+  "label": "Dam destruction / flooding",
+  "category": "attack",
+  "en": [
+   "dam breach",
+   "dam destruction",
+   "flooding",
+   "dam blown up"
+  ],
+  "ru": [
+   "подрыв дамбы",
+   "подрыв ГЭС",
+   "подрыва плотины",
+   "наводнени",
+   "затоплени"
+  ],
+  "uk": [
+   "підрив дамби",
+   "підрив ГЕС",
+   "підриву греблі",
+   "затоплен",
+   "повінь"
+  ]
+ },
+ {
+  "id": "village",
+  "label": "Village / settlement",
+  "category": "place-type",
+  "en": [
+   "village",
+   "settlement",
+   "hamlet"
+  ],
+  "ru": [
+   "село",
+   "поселок",
+   "деревн",
+   "населенный пункт",
+   "населенного пункта"
+  ],
+  "uk": [
+   "село",
+   "селище",
+   "населений пункт",
+   "населеного пункту"
+  ]
+ },
+ {
+  "id": "industrial-zone",
+  "label": "Industrial zone",
+  "category": "place-type",
+  "en": [
+   "industrial zone",
+   "industrial area",
+   "promzona"
+  ],
+  "ru": [
+   "промзон",
+   "промк"
+  ],
+  "uk": [
+   "промзон",
+   "промк"
+  ]
+ },
+ {
+  "id": "apartment-block",
+  "label": "Apartment block / high-rise",
+  "category": "place-type",
+  "en": [
+   "apartment block",
+   "high-rise",
+   "residential building",
+   "apartment building"
+  ],
+  "ru": [
+   "многоэтажк",
+   "высотк",
+   "жилой дом",
+   "жилого дома",
+   "жилые дома"
+  ],
+  "uk": [
+   "багатоповерхівк",
+   "висотк",
+   "житловий будинок",
+   "житлового будинку",
+   "житлові будинки"
+  ]
+ },
+ {
+  "id": "railway-station",
+  "label": "Railway station",
+  "category": "place-type",
+  "en": [
+   "railway station",
+   "train station",
+   "railway"
+  ],
+  "ru": [
+   "вокзал",
+   "железнодорожн",
+   "ж/д станц"
+  ],
+  "uk": [
+   "вокзал",
+   "залізничн"
+  ]
+ },
+ {
+  "id": "bridge",
+  "label": "Bridge / crossing",
+  "category": "place-type",
+  "en": [
+   "bridge",
+   "crossing",
+   "pontoon"
+  ],
+  "ru": [
+   "мост",
+   "переправ",
+   "понтон"
+  ],
+  "uk": [
+   "мосту",
+   "мостів",
+   "мостом",
+   "переправ",
+   "понтон"
+  ],
+  "notes": "uk 'міст' avoided (matches місто, містить)"
+ },
+ {
+  "id": "airfield",
+  "label": "Airfield / airbase",
+  "category": "place-type",
+  "en": [
+   "airfield",
+   "airbase",
+   "air base",
+   "airport"
+  ],
+  "ru": [
+   "аэродром",
+   "аэропорт",
+   "авиабаз"
+  ],
+  "uk": [
+   "аеродром",
+   "аеропорт",
+   "авіабаз"
+  ]
+ },
+ {
+  "id": "ammo-depot",
+  "label": "Ammunition depot",
+  "category": "place-type",
+  "en": [
+   "ammunition depot",
+   "ammo depot",
+   "arms depot",
+   "warehouse"
+  ],
+  "ru": [
+   "склад боеприпасов",
+   "складов боеприпасов",
+   "склад БК",
+   "арсенал"
+  ],
+  "uk": [
+   "склад боєприпасів",
+   "складів боєприпасів",
+   "склад БК",
+   "арсенал"
+  ]
+ },
+ {
+  "id": "military-unit",
+  "label": "Military unit / base",
+  "category": "place-type",
+  "en": [
+   "military unit",
+   "military base",
+   "garrison"
+  ],
+  "ru": [
+   "воинская часть",
+   "воинской части",
+   "военная часть",
+   "военной части"
+  ],
+  "uk": [
+   "військова частина",
+   "військової частини",
+   "гарнізон"
+  ]
+ },
+ {
+  "id": "kindergarten",
+  "label": "Kindergarten",
+  "category": "place-type",
+  "en": [
+   "kindergarten",
+   "nursery school"
+  ],
+  "ru": [
+   "детский сад",
+   "детского сада",
+   "детсад"
+  ],
+  "uk": [
+   "дитячий садок",
+   "дитячого садка",
+   "дитсад",
+   "садочок"
+  ]
+ },
+ {
+  "id": "cemetery",
+  "label": "Cemetery",
+  "category": "place-type",
+  "en": [
+   "cemetery",
+   "graveyard"
+  ],
+  "ru": [
+   "кладбищ"
+  ],
+  "uk": [
+   "кладовищ",
+   "цвинтар"
+  ]
+ },
+ {
+  "id": "nuclear-plant",
+  "label": "Nuclear power plant",
+  "category": "place-type",
+  "en": [
+   "nuclear power plant",
+   "NPP",
+   "nuclear plant"
+  ],
+  "ru": [
+   "АЭС",
+   "атомная электростанция",
+   "атомной электростанции"
+  ],
+  "uk": [
+   "АЕС",
+   "атомна електростанція",
+   "атомної електростанції"
+  ]
+ },
+ {
+  "id": "dam",
+  "label": "Dam / hydroelectric plant",
+  "category": "place-type",
+  "en": [
+   "dam",
+   "hydroelectric plant",
+   "HPP"
+  ],
+  "ru": [
+   "дамб",
+   "плотин",
+   "ГЭС"
+  ],
+  "uk": [
+   "дамб",
+   "гребл",
+   "ГЕС"
+  ]
+ },
+ {
+  "id": "border",
+  "label": "Border",
+  "category": "place-type",
+  "en": [
+   "border",
+   "border area",
+   "cross-border"
+  ],
+  "ru": [
+   "границ",
+   "погранич",
+   "приграничн"
+  ],
+  "uk": [
+   "кордон",
+   "прикордон"
+  ]
+ },
+ {
+  "id": "prison",
+  "label": "Prison / penal colony",
+  "category": "place-type",
+  "en": [
+   "prison",
+   "penal colony",
+   "detention centre",
+   "SIZO"
+  ],
+  "ru": [
+   "тюрьм",
+   "колони",
+   "СИЗО",
+   "исправительн"
+  ],
+  "uk": [
+   "в'язниц",
+   "колонія",
+   "колонії",
+   "СІЗО",
+   "виправн"
+  ]
+ }
+]

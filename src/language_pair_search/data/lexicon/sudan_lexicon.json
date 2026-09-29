@@ -1,0 +1,3798 @@
+[
+ {
+  "id": "airstrike",
+  "label": "Airstrike",
+  "category": "attack",
+  "en": [
+   "airstrike",
+   "air strike",
+   "air raid",
+   "aerial bombardment",
+   "warplane"
+  ],
+  "ar": [
+   "غارة جوية",
+   "غارات جوية",
+   "قصف جوي",
+   "طيران حربي",
+   "الطيران الحربي"
+  ]
+ },
+ {
+  "id": "shelling",
+  "label": "Shelling",
+  "category": "attack",
+  "en": [
+   "shelling",
+   "bombardment",
+   "shells",
+   "shelled"
+  ],
+  "ar": [
+   "قصف",
+   "دانة",
+   "دانات",
+   "قذائف",
+   "قذيفة"
+  ],
+  "notes": "دانة/دانات is the usual Sudanese word for artillery shells"
+ },
+ {
+  "id": "indiscriminate_shelling",
+  "label": "Indiscriminate shelling",
+  "category": "attack",
+  "en": [
+   "indiscriminate shelling",
+   "random shelling",
+   "indiscriminate bombardment"
+  ],
+  "ar": [
+   "قصف عشوائي",
+   "القصف العشوائي"
+  ]
+ },
+ {
+  "id": "artillery",
+  "label": "Artillery",
+  "category": "weapon",
+  "en": [
+   "artillery",
+   "howitzer",
+   "artillery fire",
+   "cannon"
+  ],
+  "ar": [
+   "مدفعية",
+   "قصف مدفعي",
+   "مدافع",
+   "هاوتزر"
+  ]
+ },
+ {
+  "id": "drone_strike",
+  "label": "Drone strike",
+  "category": "attack",
+  "en": [
+   "drone strike",
+   "drone attack",
+   "UAV strike",
+   "drone"
+  ],
+  "ar": [
+   "مسيرة",
+   "مسيرات",
+   "طائرة مسيرة",
+   "طائرات مسيرة",
+   "درون",
+   "درونات"
+  ],
+  "notes": "مسيرة also means 'march/procession' in MSA"
+ },
+ {
+  "id": "suicide_drone",
+  "label": "Suicide / kamikaze drone",
+  "category": "weapon",
+  "en": [
+   "suicide drone",
+   "kamikaze drone",
+   "loitering munition",
+   "FPV drone"
+  ],
+  "ar": [
+   "مسيرة انتحارية",
+   "مسيرات انتحارية",
+   "مسيرات انقضاضية",
+   "كوادكوبتر"
+  ]
+ },
+ {
+  "id": "ambush",
+  "label": "Ambush",
+  "category": "attack",
+  "en": [
+   "ambush",
+   "ambushed"
+  ],
+  "ar": [
+   "كمين",
+   "كمائن"
+  ]
+ },
+ {
+  "id": "siege",
+  "label": "Siege",
+  "category": "attack",
+  "en": [
+   "siege",
+   "besieged",
+   "encirclement",
+   "blockade"
+  ],
+  "ar": [
+   "حصار",
+   "محاصرة",
+   "محاصر",
+   "تطويق",
+   "مطوقة"
+  ]
+ },
+ {
+  "id": "looting",
+  "label": "Looting",
+  "category": "attack",
+  "en": [
+   "looting",
+   "looted",
+   "pillage",
+   "plunder"
+  ],
+  "ar": [
+   "نهب",
+   "سلب",
+   "شفشفة",
+   "منهوبات"
+  ],
+  "notes": "شفشفة is Sudanese slang for looting"
+ },
+ {
+  "id": "looters",
+  "label": "Looters (shafshafa)",
+  "category": "slang",
+  "en": [
+   "looters",
+   "shafshafa",
+   "shefshafa"
+  ],
+  "ar": [
+   "شفشافة",
+   "شفشافين",
+   "نهابين"
+  ],
+  "notes": "Sudanese slang for looters, often applied to RSF and opportunists"
+ },
+ {
+  "id": "burning_villages",
+  "label": "Burning villages / arson",
+  "category": "attack",
+  "en": [
+   "burning villages",
+   "burned village",
+   "arson",
+   "torched",
+   "set on fire"
+  ],
+  "ar": [
+   "حرق القرى",
+   "احراق القرى",
+   "حرق المنازل",
+   "احراق",
+   "حريق",
+   "حرائق"
+  ]
+ },
+ {
+  "id": "massacre",
+  "label": "Massacre",
+  "category": "attack",
+  "en": [
+   "massacre",
+   "slaughter",
+   "mass killing"
+  ],
+  "ar": [
+   "مجزرة",
+   "مجازر",
+   "مذبحة",
+   "مذابح"
+  ]
+ },
+ {
+  "id": "execution",
+  "label": "Execution",
+  "category": "attack",
+  "en": [
+   "execution",
+   "executed",
+   "liquidation"
+  ],
+  "ar": [
+   "اعدام",
+   "اعدامات",
+   "تصفية",
+   "تصفيات"
+  ]
+ },
+ {
+  "id": "summary_killing",
+  "label": "Summary / field execution",
+  "category": "violation",
+  "en": [
+   "summary execution",
+   "summary killing",
+   "field execution",
+   "extrajudicial killing"
+  ],
+  "ar": [
+   "اعدام ميداني",
+   "اعدامات ميدانية",
+   "تصفية ميدانية",
+   "قتل خارج القانون",
+   "تصفية جسدية"
+  ]
+ },
+ {
+  "id": "beheading",
+  "label": "Beheading",
+  "category": "violation",
+  "en": [
+   "beheading",
+   "beheaded",
+   "decapitation",
+   "throat cut"
+  ],
+  "ar": [
+   "قطع الرأس",
+   "قطع رؤوس",
+   "ذبح",
+   "نحر"
+  ],
+  "notes": "ذبح also covers animal slaughter"
+ },
+ {
+  "id": "mutilation",
+  "label": "Mutilation / desecration of bodies",
+  "category": "violation",
+  "en": [
+   "mutilation",
+   "mutilated",
+   "desecration of bodies"
+  ],
+  "ar": [
+   "تمثيل بالجثث",
+   "التمثيل بالجثث",
+   "تمثيل بالجثة",
+   "تشويه الجثث",
+   "بقر البطون"
+  ]
+ },
+ {
+  "id": "killing",
+  "label": "Killing",
+  "category": "attack",
+  "en": [
+   "killing",
+   "killed",
+   "dead",
+   "death toll"
+  ],
+  "ar": [
+   "قتل",
+   "مقتل",
+   "قتلى",
+   "مصرع"
+  ]
+ },
+ {
+  "id": "assault",
+  "label": "Attack / assault",
+  "category": "attack",
+  "en": [
+   "attack",
+   "assault",
+   "offensive"
+  ],
+  "ar": [
+   "هجوم",
+   "هجمات",
+   "هجوما",
+   "هجمة"
+  ]
+ },
+ {
+  "id": "storming",
+  "label": "Storming / incursion",
+  "category": "attack",
+  "en": [
+   "storming",
+   "stormed",
+   "incursion",
+   "overran"
+  ],
+  "ar": [
+   "اقتحام",
+   "اقتحم",
+   "اجتياح",
+   "توغل"
+  ]
+ },
+ {
+  "id": "counterattack",
+  "label": "Counterattack",
+  "category": "military",
+  "en": [
+   "counterattack",
+   "counter-attack",
+   "counteroffensive"
+  ],
+  "ar": [
+   "هجوم مضاد",
+   "هجوم معاكس"
+  ]
+ },
+ {
+  "id": "infiltration",
+  "label": "Infiltration",
+  "category": "military",
+  "en": [
+   "infiltration",
+   "infiltrated"
+  ],
+  "ar": [
+   "تسلل",
+   "متسللين"
+  ]
+ },
+ {
+  "id": "clashes",
+  "label": "Clashes / fighting",
+  "category": "attack",
+  "en": [
+   "clashes",
+   "fighting",
+   "battle",
+   "battles",
+   "combat"
+  ],
+  "ar": [
+   "اشتباكات",
+   "اشتباك",
+   "معارك",
+   "معركة",
+   "قتال",
+   "مواجهات"
+  ]
+ },
+ {
+  "id": "sniper",
+  "label": "Sniper",
+  "category": "attack",
+  "en": [
+   "sniper",
+   "snipers",
+   "sniping",
+   "sniper fire"
+  ],
+  "ar": [
+   "قناص",
+   "قناصة",
+   "قنص"
+  ]
+ },
+ {
+  "id": "gunfire",
+  "label": "Gunfire / shooting",
+  "category": "attack",
+  "en": [
+   "gunfire",
+   "shooting",
+   "live ammunition",
+   "shot"
+  ],
+  "ar": [
+   "اطلاق نار",
+   "اطلاق النار",
+   "رصاص",
+   "ذخيرة حية",
+   "الرصاص الحي"
+  ]
+ },
+ {
+  "id": "explosion",
+  "label": "Explosion / bombing",
+  "category": "attack",
+  "en": [
+   "explosion",
+   "blast",
+   "bombing",
+   "detonation"
+  ],
+  "ar": [
+   "انفجار",
+   "انفجارات",
+   "تفجير"
+  ]
+ },
+ {
+  "id": "targeting",
+  "label": "Targeting",
+  "category": "attack",
+  "en": [
+   "targeting",
+   "targeted",
+   "strike on"
+  ],
+  "ar": [
+   "استهداف",
+   "استهدف",
+   "استهدفت"
+  ]
+ },
+ {
+  "id": "hospital_attack",
+  "label": "Attack on hospital",
+  "category": "violation",
+  "en": [
+   "hospital attack",
+   "attack on hospital",
+   "hospital shelled",
+   "hospital bombed"
+  ],
+  "ar": [
+   "استهداف مستشفى",
+   "قصف مستشفى",
+   "قصف المستشفى",
+   "اقتحام مستشفى",
+   "استهداف المستشفيات"
+  ]
+ },
+ {
+  "id": "market_attack",
+  "label": "Attack on market",
+  "category": "violation",
+  "en": [
+   "market attack",
+   "market shelled",
+   "market bombing"
+  ],
+  "ar": [
+   "قصف سوق",
+   "استهداف سوق",
+   "قصف السوق"
+  ]
+ },
+ {
+  "id": "barrel_bombs",
+  "label": "Barrel bombs",
+  "category": "weapon",
+  "en": [
+   "barrel bombs",
+   "barrel bomb"
+  ],
+  "ar": [
+   "براميل متفجرة",
+   "برميل متفجر",
+   "البراميل المتفجرة"
+  ]
+ },
+ {
+  "id": "cluster_munitions",
+  "label": "Cluster munitions",
+  "category": "weapon",
+  "en": [
+   "cluster munitions",
+   "cluster bombs",
+   "cluster bomb"
+  ],
+  "ar": [
+   "قنابل عنقودية",
+   "ذخائر عنقودية",
+   "قنبلة عنقودية"
+  ]
+ },
+ {
+  "id": "incendiary",
+  "label": "Incendiary weapons",
+  "category": "weapon",
+  "en": [
+   "incendiary",
+   "incendiary bombs",
+   "firebomb"
+  ],
+  "ar": [
+   "قنابل حارقة",
+   "قذائف حارقة",
+   "مواد حارقة"
+  ]
+ },
+ {
+  "id": "chemical_weapons",
+  "label": "Chemical weapons",
+  "category": "weapon",
+  "en": [
+   "chemical weapons",
+   "chemical attack",
+   "poison gas",
+   "chlorine"
+  ],
+  "ar": [
+   "اسلحة كيميائية",
+   "سلاح كيميائي",
+   "الاسلحة الكيميائية",
+   "غاز سام",
+   "غازات سامة"
+  ]
+ },
+ {
+  "id": "destruction",
+  "label": "Destruction",
+  "category": "attack",
+  "en": [
+   "destruction",
+   "destroyed",
+   "razed"
+  ],
+  "ar": [
+   "تدمير",
+   "دمار",
+   "دمرت",
+   "تدميرها"
+  ]
+ },
+ {
+  "id": "rape",
+  "label": "Rape",
+  "category": "violation",
+  "en": [
+   "rape",
+   "raped",
+   "gang rape"
+  ],
+  "ar": [
+   "اغتصاب",
+   "اغتصابات",
+   "اغتصاب جماعي",
+   "مغتصبات"
+  ]
+ },
+ {
+  "id": "sexual_violence",
+  "label": "Sexual violence",
+  "category": "violation",
+  "en": [
+   "sexual violence",
+   "sexual assault",
+   "SGBV",
+   "GBV"
+  ],
+  "ar": [
+   "عنف جنسي",
+   "العنف الجنسي",
+   "اعتداء جنسي",
+   "اعتداءات جنسية",
+   "العنف القائم على النوع"
+  ]
+ },
+ {
+  "id": "torture",
+  "label": "Torture",
+  "category": "violation",
+  "en": [
+   "torture",
+   "tortured",
+   "ill-treatment"
+  ],
+  "ar": [
+   "تعذيب",
+   "عذبوا"
+  ]
+ },
+ {
+  "id": "detention",
+  "label": "Arbitrary detention",
+  "category": "violation",
+  "en": [
+   "detention",
+   "detained",
+   "arrest",
+   "arbitrary detention",
+   "detainees"
+  ],
+  "ar": [
+   "اعتقال",
+   "اعتقالات",
+   "احتجاز",
+   "معتقلين",
+   "محتجزين"
+  ]
+ },
+ {
+  "id": "ghost_houses",
+  "label": "Ghost houses / secret detention",
+  "category": "violation",
+  "en": [
+   "ghost houses",
+   "secret detention",
+   "detention centre",
+   "detention center"
+  ],
+  "ar": [
+   "بيوت الاشباح",
+   "معتقل",
+   "معتقلات",
+   "سجون سرية"
+  ],
+  "notes": "بيوت الاشباح = unofficial detention sites"
+ },
+ {
+  "id": "abduction",
+  "label": "Abduction / kidnapping",
+  "category": "violation",
+  "en": [
+   "abduction",
+   "kidnapping",
+   "kidnapped",
+   "abducted"
+  ],
+  "ar": [
+   "اختطاف",
+   "خطف",
+   "مختطفين",
+   "مخطوفين",
+   "اختطفت"
+  ]
+ },
+ {
+  "id": "ransom",
+  "label": "Ransom / extortion",
+  "category": "violation",
+  "en": [
+   "ransom",
+   "extortion"
+  ],
+  "ar": [
+   "فدية",
+   "ابتزاز"
+  ]
+ },
+ {
+  "id": "enforced_disappearance",
+  "label": "Enforced disappearance",
+  "category": "violation",
+  "en": [
+   "enforced disappearance",
+   "disappeared",
+   "missing persons",
+   "missing"
+  ],
+  "ar": [
+   "اختفاء قسري",
+   "الاختفاء القسري",
+   "اخفاء قسري",
+   "مفقودين"
+  ]
+ },
+ {
+  "id": "forced_displacement",
+  "label": "Forced displacement",
+  "category": "violation",
+  "en": [
+   "forced displacement",
+   "forcibly displaced",
+   "expulsion"
+  ],
+  "ar": [
+   "تهجير قسري",
+   "التهجير القسري",
+   "تهجير",
+   "طرد السكان"
+  ]
+ },
+ {
+  "id": "ethnic_cleansing",
+  "label": "Ethnic cleansing",
+  "category": "violation",
+  "en": [
+   "ethnic cleansing"
+  ],
+  "ar": [
+   "تطهير عرقي",
+   "التطهير العرقي"
+  ]
+ },
+ {
+  "id": "genocide",
+  "label": "Genocide",
+  "category": "violation",
+  "en": [
+   "genocide",
+   "extermination"
+  ],
+  "ar": [
+   "ابادة جماعية",
+   "الابادة الجماعية",
+   "ابادة"
+  ]
+ },
+ {
+  "id": "ethnic_targeting",
+  "label": "Ethnic targeting",
+  "category": "violation",
+  "en": [
+   "ethnic targeting",
+   "ethnically motivated",
+   "on ethnic grounds",
+   "tribal killing"
+  ],
+  "ar": [
+   "استهداف عرقي",
+   "على اساس عرقي",
+   "اساس اثني",
+   "قتل على الهوية",
+   "على الهوية"
+  ],
+  "notes": "'killing on identity' is the common Sudanese phrasing"
+ },
+ {
+  "id": "starvation",
+  "label": "Starvation as a weapon",
+  "category": "violation",
+  "en": [
+   "starvation",
+   "starving",
+   "starvation as a weapon"
+  ],
+  "ar": [
+   "تجويع",
+   "سلاح التجويع"
+  ]
+ },
+ {
+  "id": "child_soldiers",
+  "label": "Child soldiers / child recruitment",
+  "category": "violation",
+  "en": [
+   "child soldiers",
+   "child recruitment",
+   "recruiting children",
+   "underage fighters"
+  ],
+  "ar": [
+   "تجنيد الاطفال",
+   "اطفال مجندين",
+   "جنود اطفال",
+   "تجنيد القصر",
+   "اطفال مسلحين"
+  ]
+ },
+ {
+  "id": "forced_recruitment",
+  "label": "Forced recruitment",
+  "category": "violation",
+  "en": [
+   "forced recruitment",
+   "conscription",
+   "forcibly recruited"
+  ],
+  "ar": [
+   "تجنيد قسري",
+   "التجنيد القسري",
+   "تجنيد اجباري"
+  ]
+ },
+ {
+  "id": "human_shields",
+  "label": "Human shields",
+  "category": "violation",
+  "en": [
+   "human shields",
+   "human shield"
+  ],
+  "ar": [
+   "دروع بشرية",
+   "درع بشري",
+   "كدروع بشرية"
+  ]
+ },
+ {
+  "id": "pow",
+  "label": "Prisoners / POWs",
+  "category": "violation",
+  "en": [
+   "prisoners of war",
+   "POW",
+   "POWs",
+   "prisoners",
+   "captives"
+  ],
+  "ar": [
+   "اسرى",
+   "اسير",
+   "اسرى حرب"
+  ]
+ },
+ {
+  "id": "mass_grave",
+  "label": "Mass grave",
+  "category": "violation",
+  "en": [
+   "mass grave",
+   "mass graves",
+   "burial site"
+  ],
+  "ar": [
+   "مقبرة جماعية",
+   "مقابر جماعية",
+   "دفن جماعي"
+  ]
+ },
+ {
+  "id": "bodies",
+  "label": "Bodies / corpses",
+  "category": "violation",
+  "en": [
+   "bodies",
+   "corpses",
+   "body",
+   "remains",
+   "dead bodies"
+  ],
+  "ar": [
+   "جثث",
+   "جثة",
+   "جثامين",
+   "جثمان",
+   "اشلاء"
+  ]
+ },
+ {
+  "id": "civilians",
+  "label": "Civilians",
+  "category": "violation",
+  "en": [
+   "civilians",
+   "civilian",
+   "non-combatants"
+  ],
+  "ar": [
+   "مدنيين",
+   "مدنيون"
+  ],
+  "notes": "avoid bare مدني: collides with Wad Madani"
+ },
+ {
+  "id": "war_crimes",
+  "label": "War crimes / crimes against humanity",
+  "category": "violation",
+  "en": [
+   "war crimes",
+   "crimes against humanity",
+   "atrocities"
+  ],
+  "ar": [
+   "جرائم حرب",
+   "جرائم ضد الانسانية",
+   "فظائع"
+  ]
+ },
+ {
+  "id": "violations",
+  "label": "Violations / abuses",
+  "category": "violation",
+  "en": [
+   "violations",
+   "abuses",
+   "human rights violations"
+  ],
+  "ar": [
+   "انتهاكات",
+   "انتهاك",
+   "انتهاكات حقوق الانسان"
+  ]
+ },
+ {
+  "id": "hate_speech",
+  "label": "Incitement / hate speech",
+  "category": "violation",
+  "en": [
+   "hate speech",
+   "incitement",
+   "racist",
+   "racism"
+  ],
+  "ar": [
+   "خطاب الكراهية",
+   "تحريض",
+   "عنصرية",
+   "عنصري"
+  ]
+ },
+ {
+  "id": "attack_on_aid",
+  "label": "Attack on aid workers / convoys",
+  "category": "violation",
+  "en": [
+   "aid workers killed",
+   "attack on aid convoy",
+   "humanitarian workers"
+  ],
+  "ar": [
+   "استهداف قافلة",
+   "عمال الاغاثة",
+   "العاملين في المجال الانساني",
+   "قتل عمال الاغاثة"
+  ]
+ },
+ {
+  "id": "attack_on_journalists",
+  "label": "Journalists targeted",
+  "category": "violation",
+  "en": [
+   "journalist killed",
+   "journalists",
+   "press"
+  ],
+  "ar": [
+   "صحفي",
+   "صحفيين",
+   "صحفيون",
+   "اعلاميين"
+  ]
+ },
+ {
+  "id": "slavery",
+  "label": "Enslavement",
+  "category": "violation",
+  "en": [
+   "enslavement",
+   "slavery",
+   "sexual slavery"
+  ],
+  "ar": [
+   "استرقاق",
+   "استعباد",
+   "العبودية الجنسية"
+  ]
+ },
+ {
+  "id": "ethnic_masalit",
+  "label": "Masalit",
+  "category": "actor",
+  "en": [
+   "Masalit",
+   "Massalit"
+  ],
+  "ar": [
+   "مساليت",
+   "قبيلة المساليت"
+  ]
+ },
+ {
+  "id": "ethnic_zaghawa",
+  "label": "Zaghawa",
+  "category": "actor",
+  "en": [
+   "Zaghawa"
+  ],
+  "ar": [
+   "زغاوة",
+   "قبيلة الزغاوة"
+  ]
+ },
+ {
+  "id": "ethnic_fur",
+  "label": "Fur",
+  "category": "actor",
+  "en": [
+   "Fur people",
+   "Fur tribe"
+  ],
+  "ar": [
+   "قبيلة الفور",
+   "ابناء الفور"
+  ],
+  "notes": "bare فور would prefix-match فورا (immediately)"
+ },
+ {
+  "id": "ethnic_rizeigat",
+  "label": "Rizeigat",
+  "category": "actor",
+  "en": [
+   "Rizeigat",
+   "Rizaygat",
+   "Rezeigat"
+  ],
+  "ar": [
+   "رزيقات"
+  ]
+ },
+ {
+  "id": "ethnic_misseriya",
+  "label": "Misseriya",
+  "category": "actor",
+  "en": [
+   "Misseriya",
+   "Messiria",
+   "Misiriya"
+  ],
+  "ar": [
+   "مسيرية",
+   "قبيلة المسيرية"
+  ]
+ },
+ {
+  "id": "ethnic_nuba",
+  "label": "Nuba",
+  "category": "actor",
+  "en": [
+   "Nuba"
+  ],
+  "ar": [
+   "نوبة",
+   "ابناء النوبة"
+  ],
+  "notes": "also matches جبال النوبة place names"
+ },
+ {
+  "id": "ethnic_hawazma",
+  "label": "Hawazma",
+  "category": "actor",
+  "en": [
+   "Hawazma"
+  ],
+  "ar": [
+   "حوازمة"
+  ]
+ },
+ {
+  "id": "ethnic_beja",
+  "label": "Beja",
+  "category": "actor",
+  "en": [
+   "Beja"
+  ],
+  "ar": [
+   "بجا"
+  ]
+ },
+ {
+  "id": "zurga",
+  "label": "Zurga (slur)",
+  "category": "slang",
+  "en": [
+   "zurga",
+   "zurqa"
+  ],
+  "ar": [
+   "زرقة"
+  ],
+  "notes": "derogatory term for non-Arab (African) Darfuri groups; key hate-speech marker"
+ },
+ {
+  "id": "abeed",
+  "label": "Abeed (slur 'slaves')",
+  "category": "slang",
+  "en": [
+   "abeed",
+   "abid",
+   "slaves (slur)"
+  ],
+  "ar": [
+   "عبيد"
+  ],
+  "notes": "racist slur for Black Sudanese; also a personal name"
+ },
+ {
+  "id": "falangay",
+  "label": "Falangay (slur 'collaborator')",
+  "category": "slang",
+  "en": [
+   "falangay",
+   "falangai",
+   "filingay"
+  ],
+  "ar": [
+   "فلنقاي",
+   "فلنقايات"
+  ],
+  "notes": "Darfuri slur for someone seen as serving another group/traitor"
+ },
+ {
+  "id": "arab_shatat",
+  "label": "Diaspora Arabs (Arab al-Shatat)",
+  "category": "slang",
+  "en": [
+   "diaspora Arabs",
+   "Arab al-Shatat",
+   "foreign Arabs"
+  ],
+  "ar": [
+   "عرب الشتات"
+  ],
+  "notes": "used by SAF side for RSF fighters from Chad/Niger/Sahel"
+ },
+ {
+  "id": "qahata",
+  "label": "Qahata (FFC, derogatory)",
+  "category": "slang",
+  "en": [
+   "Qahata",
+   "Gahata",
+   "Qahat",
+   "FFC supporters"
+  ],
+  "ar": [
+   "قحاتة",
+   "قحاطة",
+   "قحت"
+  ],
+  "notes": "derogatory name for Forces of Freedom and Change / civilian politicians"
+ },
+ {
+  "id": "fuloul",
+  "label": "Fuloul (regime remnants)",
+  "category": "slang",
+  "en": [
+   "fuloul",
+   "felool",
+   "remnants of the old regime"
+  ],
+  "ar": [
+   "فلول"
+  ],
+  "notes": "used by RSF/civilians for Bashir-era Islamists"
+ },
+ {
+  "id": "ashawis",
+  "label": "Ashawis (RSF fighters)",
+  "category": "slang",
+  "en": [
+   "ashawis",
+   "ashawes"
+  ],
+  "ar": [
+   "اشاوس"
+  ],
+  "notes": "RSF self-praise term for its fighters"
+ },
+ {
+  "id": "jaghm",
+  "label": "Jaghm ('finish off')",
+  "category": "slang",
+  "en": [
+   "jaghm",
+   "jagham"
+  ],
+  "ar": [
+   "جغم",
+   "جغمو",
+   "جغمناهم"
+  ],
+  "notes": "Sudanese slang for crushing/killing enemies, popular in pro-SAF content"
+ },
+ {
+  "id": "bal_bas",
+  "label": "Bal bas / Balabsa (pro-war camp)",
+  "category": "slang",
+  "en": [
+   "bal bas",
+   "balbas",
+   "balabsa"
+  ],
+  "ar": [
+   "بل بس",
+   "بلابسة"
+  ],
+  "notes": "pro-SAF 'crush them only' slogan; 'balabsa' = pro-war supporters (tokens of بل بس are two letters)"
+ },
+ {
+  "id": "fatayis",
+  "label": "Carcasses (enemy dead)",
+  "category": "slang",
+  "en": [
+   "carcasses",
+   "dead enemies"
+  ],
+  "ar": [
+   "فطايس",
+   "فطائس",
+   "فطيس"
+  ],
+  "notes": "dehumanising term for enemy dead"
+ },
+ {
+  "id": "halak",
+  "label": "Perished (enemy dead)",
+  "category": "slang",
+  "en": [
+   "perished",
+   "killed enemies"
+  ],
+  "ar": [
+   "هلاك",
+   "هلكى",
+   "هلك"
+  ],
+  "notes": "SAF-side media use 'هلاك' for RSF deaths"
+ },
+ {
+  "id": "martyrs",
+  "label": "Martyrs",
+  "category": "other",
+  "en": [
+   "martyr",
+   "martyrs",
+   "martyrdom"
+  ],
+  "ar": [
+   "شهيد",
+   "شهداء",
+   "استشهاد",
+   "استشهد"
+  ],
+  "notes": "own-side dead"
+ },
+ {
+  "id": "mercenaries",
+  "label": "Mercenaries",
+  "category": "actor",
+  "en": [
+   "mercenaries",
+   "mercenary",
+   "foreign fighters"
+  ],
+  "ar": [
+   "مرتزقة",
+   "مرتزق"
+  ]
+ },
+ {
+  "id": "colombian_mercs",
+  "label": "Colombian mercenaries",
+  "category": "actor",
+  "en": [
+   "Colombian mercenaries",
+   "Colombians"
+  ],
+  "ar": [
+   "مرتزقة كولومبيين",
+   "كولومبيين"
+  ]
+ },
+ {
+  "id": "militia",
+  "label": "Militia",
+  "category": "actor",
+  "en": [
+   "militia",
+   "militias"
+  ],
+  "ar": [
+   "مليشيا",
+   "ميليشيا",
+   "مليشيات",
+   "ميليشيات"
+  ],
+  "notes": "SAF-side outlets call RSF 'the militia'"
+ },
+ {
+  "id": "rebels",
+  "label": "Rebels / rebellion",
+  "category": "actor",
+  "en": [
+   "rebels",
+   "rebellion",
+   "mutiny",
+   "insurgents"
+  ],
+  "ar": [
+   "متمردين",
+   "تمرد",
+   "المليشيا المتمردة",
+   "متمردة"
+  ],
+  "notes": "SAF term for RSF"
+ },
+ {
+  "id": "saf",
+  "label": "Sudanese Armed Forces (SAF)",
+  "category": "actor",
+  "en": [
+   "SAF",
+   "Sudanese Armed Forces",
+   "Sudanese army",
+   "army",
+   "armed forces"
+  ],
+  "ar": [
+   "القوات المسلحة",
+   "القوات المسلحة السودانية",
+   "الجيش السوداني",
+   "جيش"
+  ],
+  "notes": "جيش alone is broad"
+ },
+ {
+  "id": "rsf",
+  "label": "Rapid Support Forces (RSF)",
+  "category": "actor",
+  "en": [
+   "RSF",
+   "Rapid Support Forces",
+   "Rapid Support"
+  ],
+  "ar": [
+   "الدعم السريع",
+   "قوات الدعم السريع",
+   "مليشيا الدعم السريع",
+   "ميليشيا الدعم السريع",
+   "مليشيا ال دقلو"
+  ]
+ },
+ {
+  "id": "daama",
+  "label": "Da'ama (RSF, derogatory)",
+  "category": "slang",
+  "en": [
+   "Daama",
+   "Da'ama",
+   "Dahama",
+   "Dimaa"
+  ],
+  "ar": [
+   "دعامة",
+   "دعامي"
+  ],
+  "notes": "derogatory/informal term for RSF fighters"
+ },
+ {
+  "id": "janjaweed",
+  "label": "Janjaweed",
+  "category": "actor",
+  "en": [
+   "Janjaweed",
+   "Janjawid",
+   "Janjaweet"
+  ],
+  "ar": [
+   "جنجويد",
+   "جنجاويد"
+  ],
+  "notes": "historic militia; used as epithet for RSF"
+ },
+ {
+  "id": "hemedti",
+  "label": "Hemedti (Mohamed Hamdan Dagalo)",
+  "category": "actor",
+  "en": [
+   "Hemedti",
+   "Hemeti",
+   "Hemetti",
+   "Mohamed Hamdan Dagalo",
+   "Hamdan Dagalo"
+  ],
+  "ar": [
+   "حميدتي",
+   "محمد حمدان دقلو",
+   "حمدان دقلو"
+  ]
+ },
+ {
+  "id": "abdelrahim_dagalo",
+  "label": "Abdelrahim Dagalo",
+  "category": "actor",
+  "en": [
+   "Abdelrahim Dagalo",
+   "Abdel Rahim Dagalo",
+   "Abdul Rahim Hamdan Dagalo"
+  ],
+  "ar": [
+   "عبد الرحيم دقلو",
+   "عبدالرحيم دقلو",
+   "عبد الرحيم حمدان"
+  ]
+ },
+ {
+  "id": "dagalo_family",
+  "label": "Dagalo family",
+  "category": "actor",
+  "en": [
+   "Dagalo",
+   "Dagolo",
+   "Al Dagalo"
+  ],
+  "ar": [
+   "دقلو",
+   "ال دقلو"
+  ]
+ },
+ {
+  "id": "burhan",
+  "label": "Abdel Fattah al-Burhan",
+  "category": "actor",
+  "en": [
+   "Burhan",
+   "al-Burhan",
+   "Abdel Fattah al-Burhan",
+   "Abdelfattah Burhan"
+  ],
+  "ar": [
+   "برهان",
+   "عبد الفتاح البرهان",
+   "عبدالفتاح البرهان"
+  ],
+  "notes": "برهان also means 'proof'"
+ },
+ {
+  "id": "kabbashi",
+  "label": "Shams al-Din Kabbashi",
+  "category": "actor",
+  "en": [
+   "Kabbashi",
+   "Kabashi",
+   "Shamseldin Kabbashi"
+  ],
+  "ar": [
+   "كباشي",
+   "شمس الدين كباشي"
+  ]
+ },
+ {
+  "id": "atta",
+  "label": "Yasir al-Atta",
+  "category": "actor",
+  "en": [
+   "Yasir al-Atta",
+   "Yasser al-Atta",
+   "Atta"
+  ],
+  "ar": [
+   "ياسر العطا"
+  ]
+ },
+ {
+  "id": "jaber",
+  "label": "Ibrahim Jaber",
+  "category": "actor",
+  "en": [
+   "Ibrahim Jaber",
+   "Ibrahim Gaber"
+  ],
+  "ar": [
+   "ابراهيم جابر"
+  ]
+ },
+ {
+  "id": "kaykal",
+  "label": "Abu Aqla Kaykal",
+  "category": "actor",
+  "en": [
+   "Kaykal",
+   "Keikal",
+   "Kikal",
+   "Abu Aqla Kaykal",
+   "Abu Agla Keikal"
+  ],
+  "ar": [
+   "كيكل",
+   "ابو عاقلة كيكل",
+   "ابوعاقلة كيكل"
+  ],
+  "notes": "Sudan Shield Forces commander; defected RSF->SAF Oct 2024"
+ },
+ {
+  "id": "sudan_shield",
+  "label": "Sudan Shield Forces",
+  "category": "actor",
+  "en": [
+   "Sudan Shield Forces",
+   "Dir' al-Sudan",
+   "Sudan Shield"
+  ],
+  "ar": [
+   "درع السودان",
+   "قوات درع السودان"
+  ]
+ },
+ {
+  "id": "joint_forces",
+  "label": "Joint Forces (Darfur movements)",
+  "category": "actor",
+  "en": [
+   "Joint Forces",
+   "Joint Force",
+   "armed movements",
+   "Darfur armed movements"
+  ],
+  "ar": [
+   "القوة المشتركة",
+   "القوات المشتركة",
+   "الحركات المسلحة",
+   "حركات الكفاح المسلح"
+  ],
+  "notes": "SAF-aligned Darfur movements"
+ },
+ {
+  "id": "sla_mm",
+  "label": "SLA-Minnawi",
+  "category": "actor",
+  "en": [
+   "SLA-MM",
+   "SLA-Minnawi",
+   "Minni Minnawi",
+   "Minawi"
+  ],
+  "ar": [
+   "مناوي",
+   "مني اركو مناوي",
+   "حركة تحرير السودان"
+  ],
+  "notes": "حركة تحرير السودان also covers SLA-AW"
+ },
+ {
+  "id": "sla_aw",
+  "label": "SLA-Abdel Wahid",
+  "category": "actor",
+  "en": [
+   "SLA-AW",
+   "Abdel Wahid al-Nur",
+   "Abdelwahid Nour"
+  ],
+  "ar": [
+   "عبد الواحد نور",
+   "عبد الواحد محمد نور",
+   "حركة عبد الواحد"
+  ]
+ },
+ {
+  "id": "jem",
+  "label": "Justice and Equality Movement (JEM)",
+  "category": "actor",
+  "en": [
+   "JEM",
+   "Justice and Equality Movement",
+   "Gibril Ibrahim",
+   "Jibril Ibrahim"
+  ],
+  "ar": [
+   "العدل والمساواة",
+   "حركة العدل والمساواة",
+   "جبريل ابراهيم"
+  ]
+ },
+ {
+  "id": "splm_n",
+  "label": "SPLM-N (al-Hilu)",
+  "category": "actor",
+  "en": [
+   "SPLM-N",
+   "SPLA-N",
+   "al-Hilu",
+   "Abdelaziz al-Hilu"
+  ],
+  "ar": [
+   "الحركة الشعبية",
+   "الحركة الشعبية شمال",
+   "عبد العزيز الحلو",
+   "عبدالعزيز الحلو"
+  ]
+ },
+ {
+  "id": "agar",
+  "label": "Malik Agar",
+  "category": "actor",
+  "en": [
+   "Malik Agar",
+   "Malik Aggar",
+   "SPLM-N Agar"
+  ],
+  "ar": [
+   "مالك عقار"
+  ]
+ },
+ {
+  "id": "tamazuj",
+  "label": "Tamazuj movement",
+  "category": "actor",
+  "en": [
+   "Tamazuj"
+  ],
+  "ar": [
+   "تمازج",
+   "حركة تمازج"
+  ],
+  "notes": "RSF-aligned"
+ },
+ {
+  "id": "baraa",
+  "label": "Al-Baraa bin Malik Battalion",
+  "category": "actor",
+  "en": [
+   "al-Baraa bin Malik",
+   "Baraa Ibn Malik",
+   "Al-Bara'a Battalion"
+  ],
+  "ar": [
+   "كتيبة البراء بن مالك",
+   "البراء بن مالك",
+   "كتيبة البراء",
+   "براء"
+  ],
+  "notes": "Islamist brigade fighting with SAF"
+ },
+ {
+  "id": "islamists",
+  "label": "Islamist movement / Kizan",
+  "category": "actor",
+  "en": [
+   "Islamists",
+   "Islamic Movement",
+   "Kizan",
+   "Kezan",
+   "Kaizan"
+  ],
+  "ar": [
+   "الحركة الاسلامية",
+   "كيزان",
+   "كوز",
+   "اسلاميين"
+  ],
+  "notes": "كيزان/كوز is derogatory; كوز also means 'cup'"
+ },
+ {
+  "id": "shadow_battalions",
+  "label": "Shadow battalions",
+  "category": "actor",
+  "en": [
+   "shadow battalions",
+   "shadow brigades"
+  ],
+  "ar": [
+   "كتائب الظل"
+  ],
+  "notes": "Islamist paramilitary cells"
+ },
+ {
+  "id": "popular_resistance",
+  "label": "Popular Resistance",
+  "category": "actor",
+  "en": [
+   "Popular Resistance",
+   "popular resistance forces"
+  ],
+  "ar": [
+   "المقاومة الشعبية",
+   "المقاومة الشعبية المسلحة"
+  ]
+ },
+ {
+  "id": "mustanfareen",
+  "label": "Mustanfareen (mobilised volunteers)",
+  "category": "actor",
+  "en": [
+   "mustanfareen",
+   "mustanfirin",
+   "mustanfarin",
+   "mobilised volunteers",
+   "popular mobilization"
+  ],
+  "ar": [
+   "مستنفرين",
+   "مستنفر",
+   "مستنفرون",
+   "استنفار"
+  ],
+  "notes": "pro-SAF mobilised civilians"
+ },
+ {
+  "id": "gis",
+  "label": "General Intelligence Service",
+  "category": "actor",
+  "en": [
+   "GIS",
+   "General Intelligence Service",
+   "NISS",
+   "intelligence service"
+  ],
+  "ar": [
+   "جهاز المخابرات",
+   "جهاز المخابرات العامة",
+   "المخابرات العامة",
+   "هيئة العمليات",
+   "جهاز الامن"
+  ]
+ },
+ {
+  "id": "military_intel",
+  "label": "Military intelligence",
+  "category": "actor",
+  "en": [
+   "military intelligence",
+   "istikhbarat"
+  ],
+  "ar": [
+   "الاستخبارات العسكرية",
+   "استخبارات"
+  ]
+ },
+ {
+  "id": "central_reserve",
+  "label": "Central Reserve Police (Abu Tira)",
+  "category": "actor",
+  "en": [
+   "Central Reserve Police",
+   "Abu Tira",
+   "Abu Teira"
+  ],
+  "ar": [
+   "الاحتياطي المركزي",
+   "ابو طيرة",
+   "شرطة الاحتياطي المركزي"
+  ]
+ },
+ {
+  "id": "police",
+  "label": "Police",
+  "category": "actor",
+  "en": [
+   "police"
+  ],
+  "ar": [
+   "شرطة"
+  ]
+ },
+ {
+  "id": "wagner",
+  "label": "Wagner / Africa Corps",
+  "category": "actor",
+  "en": [
+   "Wagner",
+   "Wagner Group",
+   "Africa Corps"
+  ],
+  "ar": [
+   "فاغنر",
+   "فاجنر",
+   "الفيلق الافريقي"
+  ]
+ },
+ {
+  "id": "uae",
+  "label": "United Arab Emirates",
+  "category": "actor",
+  "en": [
+   "UAE",
+   "Emirates",
+   "United Arab Emirates",
+   "Abu Dhabi",
+   "Emirati"
+  ],
+  "ar": [
+   "امارات",
+   "اماراتي",
+   "اماراتية",
+   "دولة الامارات",
+   "ابوظبي"
+  ]
+ },
+ {
+  "id": "egypt",
+  "label": "Egypt",
+  "category": "actor",
+  "en": [
+   "Egypt",
+   "Egyptian",
+   "Egyptian army",
+   "Cairo"
+  ],
+  "ar": [
+   "مصرية",
+   "مصريين",
+   "الجيش المصري",
+   "الطيران المصري",
+   "قاهرة"
+  ],
+  "notes": "bare مصر omitted: prefix-matches مصرع/مصرف"
+ },
+ {
+  "id": "chad",
+  "label": "Chad",
+  "category": "actor",
+  "en": [
+   "Chad",
+   "Chadian",
+   "Chadians"
+  ],
+  "ar": [
+   "تشاد",
+   "تشادي",
+   "تشاديين"
+  ]
+ },
+ {
+  "id": "libya_haftar",
+  "label": "Libya / Haftar",
+  "category": "actor",
+  "en": [
+   "Haftar",
+   "Khalifa Haftar",
+   "Libyan National Army"
+  ],
+  "ar": [
+   "حفتر",
+   "خليفة حفتر"
+  ]
+ },
+ {
+  "id": "tagaddum",
+  "label": "Tagaddum",
+  "category": "actor",
+  "en": [
+   "Tagaddum",
+   "Taqaddum",
+   "Coordination of Civil Democratic Forces"
+  ],
+  "ar": [
+   "تقدم",
+   "تنسيقية تقدم",
+   "تنسيقية القوى الديمقراطية المدنية"
+  ],
+  "notes": "تقدم also means 'advance'"
+ },
+ {
+  "id": "sumoud",
+  "label": "Sumoud",
+  "category": "actor",
+  "en": [
+   "Sumoud",
+   "Somoud",
+   "Sumud"
+  ],
+  "ar": [
+   "صمود",
+   "تحالف صمود"
+  ],
+  "notes": "successor civilian alliance to Tagaddum; also generic 'steadfastness'"
+ },
+ {
+  "id": "tasis",
+  "label": "Tasis (RSF-led alliance)",
+  "category": "actor",
+  "en": [
+   "Tasis",
+   "Ta'sis",
+   "Tasis alliance",
+   "parallel government"
+  ],
+  "ar": [
+   "تاسيس",
+   "تحالف تاسيس",
+   "حكومة تاسيس",
+   "حكومة موازية",
+   "الحكومة الموازية"
+  ]
+ },
+ {
+  "id": "ffc",
+  "label": "Forces of Freedom and Change",
+  "category": "actor",
+  "en": [
+   "FFC",
+   "Forces of Freedom and Change"
+  ],
+  "ar": [
+   "الحرية والتغيير",
+   "قوى الحرية والتغيير"
+  ]
+ },
+ {
+  "id": "hamdok",
+  "label": "Abdalla Hamdok",
+  "category": "actor",
+  "en": [
+   "Hamdok",
+   "Abdalla Hamdok",
+   "Abdallah Hamdok"
+  ],
+  "ar": [
+   "حمدوك",
+   "عبد الله حمدوك",
+   "عبدالله حمدوك"
+  ]
+ },
+ {
+  "id": "sovereign_council",
+  "label": "Sovereign Council",
+  "category": "actor",
+  "en": [
+   "Sovereign Council",
+   "Transitional Sovereignty Council"
+  ],
+  "ar": [
+   "مجلس السيادة",
+   "مجلس السيادة الانتقالي"
+  ]
+ },
+ {
+  "id": "resistance_committees",
+  "label": "Resistance committees",
+  "category": "actor",
+  "en": [
+   "resistance committees",
+   "neighbourhood committees"
+  ],
+  "ar": [
+   "لجان المقاومة",
+   "لجنة المقاومة"
+  ]
+ },
+ {
+  "id": "err",
+  "label": "Emergency Response Rooms",
+  "category": "humanitarian",
+  "en": [
+   "Emergency Response Rooms",
+   "ERR",
+   "emergency rooms"
+  ],
+  "ar": [
+   "غرف الطوارئ",
+   "غرفة الطوارئ",
+   "غرفة طوارئ"
+  ]
+ },
+ {
+  "id": "doctors_network",
+  "label": "Sudan Doctors Network / doctors' groups",
+  "category": "actor",
+  "en": [
+   "Sudan Doctors Network",
+   "Sudanese Doctors Union",
+   "doctors committee"
+  ],
+  "ar": [
+   "شبكة اطباء السودان",
+   "نقابة اطباء السودان",
+   "لجنة الاطباء",
+   "اطباء السودان"
+  ]
+ },
+ {
+  "id": "emergency_lawyers",
+  "label": "Emergency Lawyers",
+  "category": "actor",
+  "en": [
+   "Emergency Lawyers"
+  ],
+  "ar": [
+   "محامو الطوارئ",
+   "محامي الطوارئ"
+  ]
+ },
+ {
+  "id": "icc",
+  "label": "International Criminal Court",
+  "category": "other",
+  "en": [
+   "ICC",
+   "International Criminal Court"
+  ],
+  "ar": [
+   "المحكمة الجنائية",
+   "المحكمة الجنائية الدولية",
+   "الجنائية الدولية"
+  ]
+ },
+ {
+  "id": "un",
+  "label": "United Nations",
+  "category": "other",
+  "en": [
+   "UN",
+   "United Nations",
+   "UN Security Council"
+  ],
+  "ar": [
+   "الامم المتحدة",
+   "مجلس الامن"
+  ]
+ },
+ {
+  "id": "infantry_division",
+  "label": "Infantry division (generic)",
+  "category": "unit",
+  "en": [
+   "infantry division",
+   "division"
+  ],
+  "ar": [
+   "فرقة مشاة"
+  ]
+ },
+ {
+  "id": "div_1",
+  "label": "1st Infantry Division (Wad Madani)",
+  "category": "unit",
+  "en": [
+   "1st Infantry Division",
+   "First Infantry Division"
+  ],
+  "ar": [
+   "الفرقة الاولى مشاة",
+   "الفرقة الاولى"
+  ]
+ },
+ {
+  "id": "div_5",
+  "label": "5th Infantry Division 'Hajana' (El Obeid)",
+  "category": "unit",
+  "en": [
+   "5th Infantry Division",
+   "Fifth Infantry Division",
+   "Hajana"
+  ],
+  "ar": [
+   "الفرقة الخامسة مشاة",
+   "الفرقة الخامسة",
+   "هجانة"
+  ],
+  "notes": "Hajana = camel corps nickname"
+ },
+ {
+  "id": "div_6",
+  "label": "6th Infantry Division (El Fasher)",
+  "category": "unit",
+  "en": [
+   "6th Infantry Division",
+   "Sixth Infantry Division",
+   "Sixth Division"
+  ],
+  "ar": [
+   "الفرقة السادسة مشاة",
+   "الفرقة السادسة",
+   "الفرقة 6"
+  ]
+ },
+ {
+  "id": "div_14",
+  "label": "14th Infantry Division (Kadugli)",
+  "category": "unit",
+  "en": [
+   "14th Infantry Division"
+  ],
+  "ar": [
+   "الفرقة 14 مشاة",
+   "الفرقة 14",
+   "الفرقة الرابعة عشر"
+  ]
+ },
+ {
+  "id": "div_15",
+  "label": "15th Infantry Division (Geneina)",
+  "category": "unit",
+  "en": [
+   "15th Infantry Division"
+  ],
+  "ar": [
+   "الفرقة 15 مشاة",
+   "الفرقة 15",
+   "الفرقة الخامسة عشر"
+  ]
+ },
+ {
+  "id": "div_16",
+  "label": "16th Infantry Division (Nyala)",
+  "category": "unit",
+  "en": [
+   "16th Infantry Division"
+  ],
+  "ar": [
+   "الفرقة 16 مشاة",
+   "الفرقة 16",
+   "الفرقة السادسة عشر"
+  ]
+ },
+ {
+  "id": "div_17",
+  "label": "17th Infantry Division (Singa)",
+  "category": "unit",
+  "en": [
+   "17th Infantry Division"
+  ],
+  "ar": [
+   "الفرقة 17 مشاة",
+   "الفرقة 17",
+   "الفرقة السابعة عشر"
+  ]
+ },
+ {
+  "id": "div_20",
+  "label": "20th Infantry Division (Ed Daein)",
+  "category": "unit",
+  "en": [
+   "20th Infantry Division"
+  ],
+  "ar": [
+   "الفرقة 20 مشاة",
+   "الفرقة 20",
+   "الفرقة العشرين"
+  ]
+ },
+ {
+  "id": "div_21",
+  "label": "21st Infantry Division (Zalingei)",
+  "category": "unit",
+  "en": [
+   "21st Infantry Division"
+  ],
+  "ar": [
+   "الفرقة 21 مشاة",
+   "الفرقة 21",
+   "الفرقة الحادية والعشرين"
+  ]
+ },
+ {
+  "id": "div_22",
+  "label": "22nd Infantry Division (Babanusa)",
+  "category": "unit",
+  "en": [
+   "22nd Infantry Division"
+  ],
+  "ar": [
+   "الفرقة 22 مشاة",
+   "الفرقة 22",
+   "الفرقة الثانية والعشرين"
+  ]
+ },
+ {
+  "id": "armoured_corps",
+  "label": "Armoured Corps",
+  "category": "unit",
+  "en": [
+   "Armoured Corps",
+   "Armored Corps",
+   "armour corps"
+  ],
+  "ar": [
+   "سلاح المدرعات",
+   "مدرعات"
+  ],
+  "notes": "HQ at al-Shajara, Khartoum"
+ },
+ {
+  "id": "engineers_corps",
+  "label": "Engineers Corps",
+  "category": "unit",
+  "en": [
+   "Engineers Corps",
+   "Corps of Engineers"
+  ],
+  "ar": [
+   "سلاح المهندسين"
+  ],
+  "notes": "HQ in Omdurman"
+ },
+ {
+  "id": "signal_corps",
+  "label": "Signal Corps",
+  "category": "unit",
+  "en": [
+   "Signal Corps",
+   "Signals Corps"
+  ],
+  "ar": [
+   "سلاح الاشارة"
+  ],
+  "notes": "HQ in Khartoum North (Bahri)"
+ },
+ {
+  "id": "air_force",
+  "label": "Air Force",
+  "category": "unit",
+  "en": [
+   "air force",
+   "Sudanese Air Force"
+  ],
+  "ar": [
+   "سلاح الجو",
+   "القوات الجوية",
+   "سلاح الطيران"
+  ]
+ },
+ {
+  "id": "special_forces",
+  "label": "Special forces",
+  "category": "unit",
+  "en": [
+   "special forces",
+   "commandos",
+   "special operations"
+  ],
+  "ar": [
+   "القوات الخاصة",
+   "قوات خاصة",
+   "العمليات الخاصة"
+  ]
+ },
+ {
+  "id": "paratroopers",
+  "label": "Paratroopers",
+  "category": "unit",
+  "en": [
+   "paratroopers",
+   "airborne"
+  ],
+  "ar": [
+   "مظلات",
+   "مظليين",
+   "سلاح المظلات"
+  ]
+ },
+ {
+  "id": "navy",
+  "label": "Navy",
+  "category": "unit",
+  "en": [
+   "navy",
+   "naval forces"
+  ],
+  "ar": [
+   "القوات البحرية",
+   "بحرية"
+  ]
+ },
+ {
+  "id": "battalion",
+  "label": "Battalion",
+  "category": "unit",
+  "en": [
+   "battalion",
+   "battalions"
+  ],
+  "ar": [
+   "كتيبة",
+   "كتائب"
+  ]
+ },
+ {
+  "id": "brigade",
+  "label": "Brigade",
+  "category": "unit",
+  "en": [
+   "brigade",
+   "brigades"
+  ],
+  "ar": [
+   "لواء",
+   "الوية"
+  ],
+  "notes": "لواء is also the rank 'major general'; الغام/الوية are plurals whose root begins with alif-lam, not the article"
+ },
+ {
+  "id": "company",
+  "label": "Company",
+  "category": "unit",
+  "en": [
+   "company (military)"
+  ],
+  "ar": [
+   "سرية",
+   "سرايا"
+  ]
+ },
+ {
+  "id": "mobile_column",
+  "label": "Mobile column (mutaharrik)",
+  "category": "unit",
+  "en": [
+   "mobile column",
+   "mutaharrik",
+   "convoy force",
+   "column"
+  ],
+  "ar": [
+   "متحرك",
+   "متحركات"
+  ],
+  "notes": "Sudanese military term for a manoeuvre column"
+ },
+ {
+  "id": "kornet",
+  "label": "Kornet ATGM",
+  "category": "weapon",
+  "en": [
+   "Kornet",
+   "ATGM",
+   "anti-tank missile"
+  ],
+  "ar": [
+   "كورنيت",
+   "صاروخ موجه",
+   "مضاد دروع",
+   "مضادات الدروع"
+  ]
+ },
+ {
+  "id": "grad",
+  "label": "Grad / Katyusha rockets",
+  "category": "weapon",
+  "en": [
+   "Grad",
+   "Katyusha",
+   "MLRS",
+   "rocket launcher"
+  ],
+  "ar": [
+   "غراد",
+   "قراد",
+   "كاتيوشا",
+   "راجمة",
+   "راجمات",
+   "راجمة صواريخ"
+  ],
+  "notes": "قراد = Sudanese spelling (also means 'ticks')"
+ },
+ {
+  "id": "manpads",
+  "label": "MANPADS / anti-aircraft missiles",
+  "category": "weapon",
+  "en": [
+   "MANPADS",
+   "shoulder-fired missile",
+   "surface-to-air missile",
+   "SAM"
+  ],
+  "ar": [
+   "صواريخ محمولة على الكتف",
+   "صاروخ ارض جو",
+   "مضاد طيران",
+   "مضادات الطيران"
+  ]
+ },
+ {
+  "id": "air_defense",
+  "label": "Air defence",
+  "category": "weapon",
+  "en": [
+   "air defense",
+   "air defence",
+   "anti-aircraft",
+   "AA gun"
+  ],
+  "ar": [
+   "دفاع جوي",
+   "الدفاع الجوي",
+   "دفاعات جوية",
+   "مضادات ارضية",
+   "المضادات الارضية"
+  ]
+ },
+ {
+  "id": "bayraktar",
+  "label": "Bayraktar TB2",
+  "category": "weapon",
+  "en": [
+   "Bayraktar",
+   "TB2",
+   "Bayraktar TB2"
+  ],
+  "ar": [
+   "بيرقدار",
+   "بيرقدار تي بي 2",
+   "بيرقدار TB2"
+  ]
+ },
+ {
+  "id": "akinci",
+  "label": "Bayraktar Akinci",
+  "category": "weapon",
+  "en": [
+   "Akinci",
+   "Akinji",
+   "Akıncı"
+  ],
+  "ar": [
+   "اقنجي",
+   "اكينجي",
+   "اكنجي"
+  ]
+ },
+ {
+  "id": "mohajer",
+  "label": "Mohajer drone",
+  "category": "weapon",
+  "en": [
+   "Mohajer",
+   "Mohajer-6",
+   "Muhajir"
+  ],
+  "ar": [
+   "مهاجر 6",
+   "مسيرة مهاجر",
+   "مسيرات مهاجر"
+  ],
+  "notes": "bare مهاجر = migrant"
+ },
+ {
+  "id": "chinese_drones",
+  "label": "Chinese drones (CH-95 / FH-95)",
+  "category": "weapon",
+  "en": [
+   "CH-95",
+   "FH-95",
+   "Chinese drone",
+   "Chinese drones"
+  ],
+  "ar": [
+   "مسيرة صينية",
+   "مسيرات صينية",
+   "طائرات صينية"
+  ]
+ },
+ {
+  "id": "mortar",
+  "label": "Mortar",
+  "category": "weapon",
+  "en": [
+   "mortar",
+   "mortars",
+   "mortar shells"
+  ],
+  "ar": [
+   "هاون",
+   "هاونات",
+   "قذائف هاون",
+   "مدفع هاون"
+  ]
+ },
+ {
+  "id": "rpg",
+  "label": "RPG",
+  "category": "weapon",
+  "en": [
+   "RPG",
+   "rocket-propelled grenade",
+   "RPG-7",
+   "B7"
+  ],
+  "ar": [
+   "ار بي جي",
+   "قاذف",
+   "قاذفات",
+   "قاذف ار بي جي"
+  ]
+ },
+ {
+  "id": "hmg",
+  "label": "Heavy machine gun (DShK)",
+  "category": "weapon",
+  "en": [
+   "heavy machine gun",
+   "DShK",
+   "Dushka",
+   "machine gun"
+  ],
+  "ar": [
+   "دوشكا",
+   "دوشكات",
+   "رشاش",
+   "رشاشات",
+   "مدفع رشاش"
+  ]
+ },
+ {
+  "id": "kalashnikov",
+  "label": "Kalashnikov",
+  "category": "weapon",
+  "en": [
+   "Kalashnikov",
+   "AK-47",
+   "Klash",
+   "assault rifle"
+  ],
+  "ar": [
+   "كلاشنكوف",
+   "كلاش",
+   "كلاشات",
+   "بندقية",
+   "بنادق"
+  ]
+ },
+ {
+  "id": "technical",
+  "label": "Technical (armed pickup)",
+  "category": "weapon",
+  "en": [
+   "technical",
+   "technicals",
+   "armed pickup",
+   "pickup truck",
+   "Land Cruiser"
+  ],
+  "ar": [
+   "تاتشر",
+   "تاتشرات",
+   "بوكس",
+   "بكاسي",
+   "لاندكروزر",
+   "عربات قتالية"
+  ],
+  "notes": "تاتشر/بوكس are Sudanese words for armed pickups"
+ },
+ {
+  "id": "armored_vehicle",
+  "label": "Armoured vehicle / APC",
+  "category": "weapon",
+  "en": [
+   "armoured vehicle",
+   "armored vehicle",
+   "APC",
+   "armoured personnel carrier"
+  ],
+  "ar": [
+   "مدرعة",
+   "مدرعات",
+   "ناقلة جند",
+   "ناقلات جند",
+   "مصفحة",
+   "مصفحات"
+  ]
+ },
+ {
+  "id": "tank",
+  "label": "Tank",
+  "category": "weapon",
+  "en": [
+   "tank",
+   "tanks",
+   "T-72",
+   "T-55"
+  ],
+  "ar": [
+   "دبابة",
+   "دبابات"
+  ]
+ },
+ {
+  "id": "landmine",
+  "label": "Landmine",
+  "category": "weapon",
+  "en": [
+   "landmine",
+   "landmines",
+   "mine",
+   "anti-personnel mine"
+  ],
+  "ar": [
+   "لغم",
+   "الغام",
+   "الغام ارضية",
+   "حقل الغام"
+  ],
+  "notes": "الغام/الوية are plurals whose root begins with alif-lam, not the article"
+ },
+ {
+  "id": "ied",
+  "label": "IED",
+  "category": "weapon",
+  "en": [
+   "IED",
+   "improvised explosive device",
+   "roadside bomb"
+  ],
+  "ar": [
+   "عبوة ناسفة",
+   "عبوات ناسفة"
+  ]
+ },
+ {
+  "id": "thermobaric",
+  "label": "Thermobaric weapon",
+  "category": "weapon",
+  "en": [
+   "thermobaric",
+   "vacuum bomb",
+   "fuel-air explosive"
+  ],
+  "ar": [
+   "فراغية",
+   "قنبلة فراغية",
+   "قنابل فراغية",
+   "حرارية ضغطية"
+  ]
+ },
+ {
+  "id": "missile",
+  "label": "Missile / rocket",
+  "category": "weapon",
+  "en": [
+   "missile",
+   "missiles",
+   "rocket",
+   "rockets"
+  ],
+  "ar": [
+   "صاروخ",
+   "صواريخ"
+  ]
+ },
+ {
+  "id": "warplane",
+  "label": "Warplane (MiG / Sukhoi / Antonov)",
+  "category": "weapon",
+  "en": [
+   "warplane",
+   "fighter jet",
+   "MiG",
+   "Sukhoi",
+   "Antonov"
+  ],
+  "ar": [
+   "ميغ",
+   "سوخوي",
+   "انتونوف",
+   "طائرة حربية",
+   "طائرات حربية"
+  ]
+ },
+ {
+  "id": "helicopter",
+  "label": "Helicopter",
+  "category": "weapon",
+  "en": [
+   "helicopter",
+   "gunship"
+  ],
+  "ar": [
+   "مروحية",
+   "مروحيات",
+   "هليكوبتر",
+   "طائرة مروحية"
+  ]
+ },
+ {
+  "id": "ammunition",
+  "label": "Ammunition",
+  "category": "weapon",
+  "en": [
+   "ammunition",
+   "ammo",
+   "munitions"
+  ],
+  "ar": [
+   "ذخيرة",
+   "ذخائر"
+  ]
+ },
+ {
+  "id": "weapons",
+  "label": "Weapons / arms",
+  "category": "weapon",
+  "en": [
+   "weapons",
+   "arms",
+   "arms shipment"
+  ],
+  "ar": [
+   "اسلحة",
+   "سلاح",
+   "شحنة اسلحة",
+   "اسلحة وذخائر"
+  ],
+  "notes": "سلاح also means 'corps'"
+ },
+ {
+  "id": "starlink",
+  "label": "Starlink",
+  "category": "other",
+  "en": [
+   "Starlink",
+   "satellite internet"
+  ],
+  "ar": [
+   "ستارلينك",
+   "ستار لينك"
+  ]
+ },
+ {
+  "id": "idp_camp",
+  "label": "IDP camp",
+  "category": "humanitarian",
+  "en": [
+   "IDP camp",
+   "displacement camp",
+   "camp"
+  ],
+  "ar": [
+   "معسكر نازحين",
+   "معسكرات النازحين",
+   "معسكر النازحين",
+   "مخيم نازحين",
+   "مخيم",
+   "معسكر"
+  ]
+ },
+ {
+  "id": "idps",
+  "label": "IDPs / displaced",
+  "category": "humanitarian",
+  "en": [
+   "IDPs",
+   "displaced",
+   "displacement",
+   "internally displaced"
+  ],
+  "ar": [
+   "نازحين",
+   "نازحون",
+   "نزوح",
+   "فارين"
+  ]
+ },
+ {
+  "id": "refugees",
+  "label": "Refugees",
+  "category": "humanitarian",
+  "en": [
+   "refugees",
+   "refugee",
+   "asylum"
+  ],
+  "ar": [
+   "لاجئين",
+   "لاجئون",
+   "لاجئ",
+   "لجوء"
+  ]
+ },
+ {
+  "id": "famine",
+  "label": "Famine",
+  "category": "humanitarian",
+  "en": [
+   "famine",
+   "IPC Phase 5"
+  ],
+  "ar": [
+   "مجاعة"
+  ]
+ },
+ {
+  "id": "hunger",
+  "label": "Hunger / food insecurity",
+  "category": "humanitarian",
+  "en": [
+   "hunger",
+   "food insecurity",
+   "food shortage"
+  ],
+  "ar": [
+   "جوع",
+   "انعدام الامن الغذائي",
+   "نقص الغذاء",
+   "شح الغذاء"
+  ]
+ },
+ {
+  "id": "malnutrition",
+  "label": "Malnutrition",
+  "category": "humanitarian",
+  "en": [
+   "malnutrition",
+   "malnourished",
+   "acute malnutrition"
+  ],
+  "ar": [
+   "سوء التغذية",
+   "سوء تغذية"
+  ]
+ },
+ {
+  "id": "cholera",
+  "label": "Cholera",
+  "category": "humanitarian",
+  "en": [
+   "cholera"
+  ],
+  "ar": [
+   "كوليرا",
+   "اسهالات مائية"
+  ],
+  "notes": "'acute watery diarrhoea' is used as euphemism"
+ },
+ {
+  "id": "epidemic",
+  "label": "Epidemic / outbreak",
+  "category": "humanitarian",
+  "en": [
+   "epidemic",
+   "outbreak",
+   "disease outbreak"
+  ],
+  "ar": [
+   "وباء",
+   "اوبئة",
+   "تفشي"
+  ]
+ },
+ {
+  "id": "aid_convoy",
+  "label": "Aid convoy",
+  "category": "humanitarian",
+  "en": [
+   "aid convoy",
+   "humanitarian convoy",
+   "aid trucks"
+  ],
+  "ar": [
+   "قافلة مساعدات",
+   "قوافل المساعدات",
+   "قافلة اغاثة",
+   "قوافل الاغاثة",
+   "شاحنات المساعدات"
+  ]
+ },
+ {
+  "id": "humanitarian_aid",
+  "label": "Humanitarian aid",
+  "category": "humanitarian",
+  "en": [
+   "humanitarian aid",
+   "relief",
+   "aid",
+   "assistance"
+  ],
+  "ar": [
+   "مساعدات انسانية",
+   "المساعدات الانسانية",
+   "اغاثة"
+  ]
+ },
+ {
+  "id": "humanitarian_corridor",
+  "label": "Humanitarian corridor / safe passage",
+  "category": "humanitarian",
+  "en": [
+   "humanitarian corridor",
+   "safe passage",
+   "safe corridor"
+  ],
+  "ar": [
+   "ممر انساني",
+   "ممرات انسانية",
+   "ممرات امنة",
+   "ممر امن"
+  ]
+ },
+ {
+  "id": "wfp",
+  "label": "World Food Programme",
+  "category": "humanitarian",
+  "en": [
+   "WFP",
+   "World Food Programme",
+   "World Food Program"
+  ],
+  "ar": [
+   "برنامج الغذاء العالمي",
+   "الغذاء العالمي"
+  ]
+ },
+ {
+  "id": "unicef",
+  "label": "UNICEF",
+  "category": "humanitarian",
+  "en": [
+   "UNICEF"
+  ],
+  "ar": [
+   "يونيسف"
+  ]
+ },
+ {
+  "id": "unhcr",
+  "label": "UNHCR",
+  "category": "humanitarian",
+  "en": [
+   "UNHCR",
+   "UN refugee agency"
+  ],
+  "ar": [
+   "مفوضية اللاجئين",
+   "المفوضية السامية لشؤون اللاجئين"
+  ]
+ },
+ {
+  "id": "msf",
+  "label": "MSF",
+  "category": "humanitarian",
+  "en": [
+   "MSF",
+   "Doctors Without Borders",
+   "Medecins Sans Frontieres"
+  ],
+  "ar": [
+   "اطباء بلا حدود"
+  ]
+ },
+ {
+  "id": "icrc",
+  "label": "Red Cross / Red Crescent",
+  "category": "humanitarian",
+  "en": [
+   "ICRC",
+   "Red Cross",
+   "Red Crescent"
+  ],
+  "ar": [
+   "الصليب الاحمر",
+   "الهلال الاحمر"
+  ]
+ },
+ {
+  "id": "takaya",
+  "label": "Communal kitchens (takaya)",
+  "category": "humanitarian",
+  "en": [
+   "communal kitchen",
+   "community kitchen",
+   "takaya",
+   "soup kitchen"
+  ],
+  "ar": [
+   "تكية",
+   "تكايا",
+   "مطابخ جماعية",
+   "مطبخ جماعي"
+  ]
+ },
+ {
+  "id": "hospital",
+  "label": "Hospital / health facility",
+  "category": "place-type",
+  "en": [
+   "hospital",
+   "clinic",
+   "health centre",
+   "health facility"
+  ],
+  "ar": [
+   "مستشفى",
+   "مستشفيات",
+   "مركز صحي"
+  ]
+ },
+ {
+  "id": "medicine",
+  "label": "Medicines / medical supplies",
+  "category": "humanitarian",
+  "en": [
+   "medicine",
+   "medical supplies",
+   "drugs shortage"
+  ],
+  "ar": [
+   "ادوية",
+   "امدادات طبية"
+  ]
+ },
+ {
+  "id": "casualties",
+  "label": "Casualties",
+  "category": "humanitarian",
+  "en": [
+   "casualties",
+   "victims",
+   "dead and wounded"
+  ],
+  "ar": [
+   "ضحايا",
+   "خسائر بشرية",
+   "قتلى وجرحى"
+  ]
+ },
+ {
+  "id": "wounded",
+  "label": "Wounded / injured",
+  "category": "humanitarian",
+  "en": [
+   "wounded",
+   "injured",
+   "injuries"
+  ],
+  "ar": [
+   "جرحى",
+   "مصابين",
+   "اصابات",
+   "جريح"
+  ]
+ },
+ {
+  "id": "evacuation",
+  "label": "Evacuation",
+  "category": "humanitarian",
+  "en": [
+   "evacuation",
+   "evacuated"
+  ],
+  "ar": [
+   "اجلاء"
+  ]
+ },
+ {
+  "id": "ceasefire",
+  "label": "Ceasefire / truce",
+  "category": "other",
+  "en": [
+   "ceasefire",
+   "truce",
+   "cessation of hostilities"
+  ],
+  "ar": [
+   "هدنة",
+   "وقف اطلاق النار",
+   "هدنة انسانية"
+  ]
+ },
+ {
+  "id": "negotiations",
+  "label": "Negotiations / Jeddah talks",
+  "category": "other",
+  "en": [
+   "negotiations",
+   "peace talks",
+   "Jeddah talks",
+   "Jeddah platform"
+  ],
+  "ar": [
+   "مفاوضات",
+   "منبر جدة",
+   "مفاوضات جدة",
+   "محادثات"
+  ]
+ },
+ {
+  "id": "comms_blackout",
+  "label": "Communications blackout",
+  "category": "other",
+  "en": [
+   "communications blackout",
+   "internet shutdown",
+   "network outage"
+  ],
+  "ar": [
+   "انقطاع الاتصالات",
+   "انقطاع الشبكة",
+   "قطع الاتصالات",
+   "انقطاع الانترنت"
+  ]
+ },
+ {
+  "id": "gold",
+  "label": "Gold / mining",
+  "category": "other",
+  "en": [
+   "gold",
+   "gold mine",
+   "gold mining"
+  ],
+  "ar": [
+   "ذهب",
+   "منجم",
+   "مناجم الذهب",
+   "تعدين"
+  ]
+ },
+ {
+  "id": "smuggling",
+  "label": "Smuggling",
+  "category": "other",
+  "en": [
+   "smuggling",
+   "smuggled",
+   "trafficking"
+  ],
+  "ar": [
+   "تهريب",
+   "مهربين"
+  ]
+ },
+ {
+  "id": "liberation",
+  "label": "Liberation / recapture",
+  "category": "military",
+  "en": [
+   "liberation",
+   "liberated",
+   "recaptured",
+   "retook"
+  ],
+  "ar": [
+   "تحرير",
+   "تم تحرير",
+   "حرر",
+   "استعادة"
+  ],
+  "notes": "تحرير also appears in SLA's name"
+ },
+ {
+  "id": "combing",
+  "label": "Combing / sweep operation",
+  "category": "military",
+  "en": [
+   "combing",
+   "sweep",
+   "mopping up",
+   "clearing operation"
+  ],
+  "ar": [
+   "تمشيط",
+   "عمليات تمشيط"
+  ]
+ },
+ {
+  "id": "clearing",
+  "label": "Cleansing / clearing",
+  "category": "military",
+  "en": [
+   "cleansing",
+   "clearing",
+   "purge"
+  ],
+  "ar": [
+   "تطهير",
+   "عمليات تطهير"
+  ],
+  "notes": "military 'clearing'; compare ethnic_cleansing"
+ },
+ {
+  "id": "hq",
+  "label": "General Command / headquarters",
+  "category": "military",
+  "en": [
+   "headquarters",
+   "HQ",
+   "General Command",
+   "army command"
+  ],
+  "ar": [
+   "القيادة العامة",
+   "رئاسة",
+   "مقر",
+   "مقرات",
+   "رئاسة الفرقة"
+  ]
+ },
+ {
+  "id": "garrison",
+  "label": "Garrison",
+  "category": "military",
+  "en": [
+   "garrison"
+  ],
+  "ar": [
+   "حامية",
+   "حاميات"
+  ]
+ },
+ {
+  "id": "base",
+  "label": "Military base",
+  "category": "military",
+  "en": [
+   "military base",
+   "base",
+   "camp"
+  ],
+  "ar": [
+   "قاعدة عسكرية",
+   "معسكر الجيش"
+  ]
+ },
+ {
+  "id": "checkpoint",
+  "label": "Checkpoint",
+  "category": "military",
+  "en": [
+   "checkpoint",
+   "roadblock",
+   "position"
+  ],
+  "ar": [
+   "ارتكاز",
+   "ارتكازات",
+   "نقطة تفتيش",
+   "نقاط تفتيش"
+  ],
+  "notes": "ارتكاز is Sudanese usage"
+ },
+ {
+  "id": "reinforcements",
+  "label": "Reinforcements / supply",
+  "category": "military",
+  "en": [
+   "reinforcements",
+   "resupply",
+   "supplies",
+   "supply lines"
+  ],
+  "ar": [
+   "تعزيزات",
+   "امداد",
+   "امدادات",
+   "خطوط الامداد",
+   "اسناد"
+  ]
+ },
+ {
+  "id": "advance",
+  "label": "Advance",
+  "category": "military",
+  "en": [
+   "advance",
+   "advancing",
+   "push"
+  ],
+  "ar": [
+   "تقدم",
+   "تقدمات",
+   "زحف",
+   "متقدمة"
+  ],
+  "notes": "تقدم also = Tagaddum coalition"
+ },
+ {
+  "id": "withdrawal",
+  "label": "Withdrawal / retreat",
+  "category": "military",
+  "en": [
+   "withdrawal",
+   "retreat",
+   "pulled out",
+   "withdrew"
+  ],
+  "ar": [
+   "انسحاب",
+   "انسحب",
+   "انسحبت",
+   "تراجع"
+  ]
+ },
+ {
+  "id": "flight",
+  "label": "Fleeing / rout",
+  "category": "military",
+  "en": [
+   "fled",
+   "fleeing",
+   "rout",
+   "escaped"
+  ],
+  "ar": [
+   "هروب",
+   "فرار",
+   "فرت",
+   "هربت",
+   "هرب"
+  ]
+ },
+ {
+  "id": "capture",
+  "label": "Capture (of personnel)",
+  "category": "military",
+  "en": [
+   "captured",
+   "capture",
+   "taken prisoner",
+   "arrested"
+  ],
+  "ar": [
+   "تم اسر",
+   "القبض على",
+   "وقع في الاسر"
+  ]
+ },
+ {
+  "id": "seizure",
+  "label": "Seizure / control",
+  "category": "military",
+  "en": [
+   "control",
+   "took control",
+   "seized",
+   "overran"
+  ],
+  "ar": [
+   "سيطرة",
+   "السيطرة على",
+   "بسط السيطرة",
+   "استلام",
+   "استيلاء"
+  ],
+  "notes": "استلام used for taking over a base/town; also means 'receipt'"
+ },
+ {
+  "id": "spoils",
+  "label": "Spoils / captured equipment",
+  "category": "military",
+  "en": [
+   "spoils",
+   "war booty",
+   "captured equipment",
+   "captured vehicles"
+  ],
+  "ar": [
+   "غنائم",
+   "غنيمة",
+   "اغتنام",
+   "استلام عربات"
+  ]
+ },
+ {
+  "id": "mobilization",
+  "label": "Mobilisation",
+  "category": "military",
+  "en": [
+   "mobilization",
+   "mobilisation",
+   "general mobilization"
+  ],
+  "ar": [
+   "تعبئة",
+   "استنفار",
+   "التعبئة العامة"
+  ]
+ },
+ {
+  "id": "recruitment",
+  "label": "Recruitment / training",
+  "category": "military",
+  "en": [
+   "recruitment",
+   "recruits",
+   "training camp"
+  ],
+  "ar": [
+   "تجنيد",
+   "مجندين",
+   "معسكر تدريب",
+   "تدريب"
+  ]
+ },
+ {
+  "id": "defection",
+  "label": "Defection",
+  "category": "military",
+  "en": [
+   "defection",
+   "defected",
+   "joined the army"
+  ],
+  "ar": [
+   "انشقاق",
+   "انشق",
+   "انشقاقات",
+   "انضمام"
+  ]
+ },
+ {
+  "id": "surrender",
+  "label": "Surrender",
+  "category": "military",
+  "en": [
+   "surrender",
+   "surrendered"
+  ],
+  "ar": [
+   "استسلام",
+   "استسلم",
+   "سلموا انفسهم"
+  ]
+ },
+ {
+  "id": "front",
+  "label": "Front / axis",
+  "category": "military",
+  "en": [
+   "front",
+   "frontline",
+   "axis",
+   "front line"
+  ],
+  "ar": [
+   "محور",
+   "محاور",
+   "خط المواجهة",
+   "خطوط المواجهة",
+   "جبهة"
+  ]
+ },
+ {
+  "id": "operation",
+  "label": "Military operation",
+  "category": "military",
+  "en": [
+   "military operation",
+   "operations"
+  ],
+  "ar": [
+   "عملية عسكرية",
+   "عمليات عسكرية",
+   "عمليات"
+  ]
+ },
+ {
+  "id": "victory",
+  "label": "Victory",
+  "category": "military",
+  "en": [
+   "victory",
+   "victories",
+   "triumph"
+  ],
+  "ar": [
+   "انتصار",
+   "انتصارات",
+   "نصر"
+  ]
+ },
+ {
+  "id": "repel",
+  "label": "Repelled / defeated",
+  "category": "military",
+  "en": [
+   "repelled",
+   "repulsed",
+   "defeated",
+   "routed"
+  ],
+  "ar": [
+   "دحر",
+   "صد الهجوم",
+   "تصدت",
+   "هزيمة",
+   "كسر الهجوم"
+  ]
+ },
+ {
+  "id": "neutralize",
+  "label": "Neutralised",
+  "category": "military",
+  "en": [
+   "neutralized",
+   "neutralised",
+   "eliminated"
+  ],
+  "ar": [
+   "تحييد",
+   "القضاء على"
+  ]
+ },
+ {
+  "id": "soldiers",
+  "label": "Soldiers",
+  "category": "military",
+  "en": [
+   "soldier",
+   "soldiers",
+   "troops",
+   "fighters"
+  ],
+  "ar": [
+   "جندي",
+   "جنود",
+   "عساكر",
+   "عسكري",
+   "مقاتلين"
+  ]
+ },
+ {
+  "id": "officer",
+  "label": "Officer",
+  "category": "military",
+  "en": [
+   "officer",
+   "officers"
+  ],
+  "ar": [
+   "ضابط",
+   "ضباط"
+  ]
+ },
+ {
+  "id": "commander",
+  "label": "Commander",
+  "category": "military",
+  "en": [
+   "commander",
+   "field commander",
+   "leader"
+  ],
+  "ar": [
+   "قائد",
+   "قائد ميداني",
+   "قادة",
+   "القائد الميداني"
+  ]
+ },
+ {
+  "id": "statement",
+  "label": "Official statement / spokesman",
+  "category": "other",
+  "en": [
+   "statement",
+   "spokesman",
+   "official spokesperson"
+  ],
+  "ar": [
+   "بيان",
+   "الناطق الرسمي",
+   "المتحدث الرسمي",
+   "ناطق رسمي"
+  ]
+ },
+ {
+  "id": "video",
+  "label": "Video footage",
+  "category": "other",
+  "en": [
+   "video",
+   "footage",
+   "clip",
+   "filmed"
+  ],
+  "ar": [
+   "فيديو",
+   "مقطع فيديو",
+   "مقاطع",
+   "توثيق",
+   "مصور"
+  ]
+ },
+ {
+  "id": "village",
+  "label": "Village",
+  "category": "place-type",
+  "en": [
+   "village",
+   "villages",
+   "hamlet"
+  ],
+  "ar": [
+   "قرية",
+   "قرى",
+   "حلة"
+  ],
+  "notes": "حلة = Sudanese settlement/hamlet"
+ },
+ {
+  "id": "neighbourhood",
+  "label": "Neighbourhood",
+  "category": "place-type",
+  "en": [
+   "neighbourhood",
+   "neighborhood",
+   "district",
+   "quarter"
+  ],
+  "ar": [
+   "احياء",
+   "حارة",
+   "مربع"
+  ],
+  "notes": "حي (two letters) omitted"
+ },
+ {
+  "id": "market",
+  "label": "Market",
+  "category": "place-type",
+  "en": [
+   "market",
+   "souq",
+   "marketplace"
+  ],
+  "ar": [
+   "سوق",
+   "اسواق"
+  ]
+ },
+ {
+  "id": "mosque",
+  "label": "Mosque / khalwa",
+  "category": "place-type",
+  "en": [
+   "mosque",
+   "khalwa",
+   "Quranic school"
+  ],
+  "ar": [
+   "مسجد",
+   "مساجد",
+   "جامع",
+   "خلوة",
+   "خلاوي"
+  ]
+ },
+ {
+  "id": "school",
+  "label": "School",
+  "category": "place-type",
+  "en": [
+   "school",
+   "schools"
+  ],
+  "ar": [
+   "مدرسة",
+   "مدارس"
+  ]
+ },
+ {
+  "id": "prison",
+  "label": "Prison",
+  "category": "place-type",
+  "en": [
+   "prison",
+   "jail"
+  ],
+  "ar": [
+   "سجن",
+   "سجون"
+  ]
+ },
+ {
+  "id": "bridge",
+  "label": "Bridge",
+  "category": "place-type",
+  "en": [
+   "bridge",
+   "bridges"
+  ],
+  "ar": [
+   "كبري",
+   "جسر",
+   "كباري",
+   "جسور"
+  ],
+  "notes": "كبري is Sudanese usage"
+ },
+ {
+  "id": "road",
+  "label": "Road",
+  "category": "place-type",
+  "en": [
+   "road",
+   "highway"
+  ],
+  "ar": [
+   "طريق",
+   "طرق",
+   "الطريق القومي",
+   "شارع"
+  ]
+ },
+ {
+  "id": "airport",
+  "label": "Airport / airbase",
+  "category": "place-type",
+  "en": [
+   "airport",
+   "airbase",
+   "airstrip"
+  ],
+  "ar": [
+   "مطار",
+   "مطارات",
+   "قاعدة جوية",
+   "مهبط"
+  ]
+ },
+ {
+  "id": "mountain",
+  "label": "Mountain / jebel",
+  "category": "place-type",
+  "en": [
+   "mountain",
+   "jebel",
+   "jabal"
+  ],
+  "ar": [
+   "جبل",
+   "جبال"
+  ]
+ },
+ {
+  "id": "refinery",
+  "label": "Refinery",
+  "category": "place-type",
+  "en": [
+   "refinery",
+   "oil refinery"
+  ],
+  "ar": [
+   "مصفاة",
+   "مصفاة الجيلي"
+  ]
+ },
+ {
+  "id": "power_station",
+  "label": "Power station",
+  "category": "place-type",
+  "en": [
+   "power station",
+   "power plant",
+   "electricity station"
+  ],
+  "ar": [
+   "محطة كهرباء",
+   "محطات الكهرباء",
+   "محطة تحويل"
+  ]
+ },
+ {
+  "id": "dam",
+  "label": "Dam / reservoir",
+  "category": "place-type",
+  "en": [
+   "dam",
+   "reservoir"
+  ],
+  "ar": [
+   "خزان",
+   "سدود",
+   "سد مروي",
+   "خزان سنار"
+  ]
+ },
+ {
+  "id": "border",
+  "label": "Border",
+  "category": "place-type",
+  "en": [
+   "border",
+   "border area"
+  ],
+  "ar": [
+   "حدود",
+   "الشريط الحدودي"
+  ]
+ },
+ {
+  "id": "crossing",
+  "label": "Border crossing",
+  "category": "place-type",
+  "en": [
+   "border crossing",
+   "crossing"
+  ],
+  "ar": [
+   "معبر",
+   "معابر"
+  ]
+ },
+ {
+  "id": "well",
+  "label": "Well / haffir",
+  "category": "place-type",
+  "en": [
+   "well",
+   "water well",
+   "haffir",
+   "hafir"
+  ],
+  "ar": [
+   "بئر",
+   "ابار",
+   "حفير",
+   "حفائر"
+  ]
+ }
+]

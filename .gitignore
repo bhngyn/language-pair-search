@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.egg-info/
+.DS_Store
+# built dictionary (~50 MB, derived from OSM/GeoNames: rebuild with gazetteer_build) and its raw inputs (~1.1 GB)
+src/language_pair_search/data/gazetteer/dictionary.db
+src/language_pair_search/data/gazetteer/raw/

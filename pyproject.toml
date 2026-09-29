@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "language-pair-search"
+version = "0.1.0"
+description = "Cross-script search (Arabic/Russian/Ukrainian <-> English): normalisation, transliteration keys, gazetteer + lexicon expansion, place lookup, pattern entities."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []          # stdlib only; sqlite3 must have FTS5. `osmium` (CLI) is needed only to rebuild the gazetteer.
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+language_pair_search = ["data/lexicon/*.json", "data/gazetteer/curated/*.json", "data/gazetteer/*.md"]

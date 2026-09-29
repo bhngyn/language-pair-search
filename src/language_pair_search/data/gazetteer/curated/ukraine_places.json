@@ -1,0 +1,5128 @@
+[
+ {
+  "country": "UA",
+  "en": "Donetsk Oblast",
+  "latin": [
+   "Donetsk region",
+   "Donetska oblast",
+   "Donetshchyna"
+  ],
+  "uk": [
+   "Донецька область",
+   "Донецької області",
+   "Донеччина"
+  ],
+  "ru": [
+   "Донецкая область",
+   "Донецкой области",
+   "Донетчина"
+  ],
+  "type": "oblast",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Luhansk Oblast",
+  "latin": [
+   "Lugansk region",
+   "Luhansk region",
+   "Luhanska oblast",
+   "Luhanshchyna"
+  ],
+  "uk": [
+   "Луганська область",
+   "Луганської області",
+   "Луганщина"
+  ],
+  "ru": [
+   "Луганская область",
+   "Луганской области",
+   "Луганщина"
+  ],
+  "type": "oblast",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Kharkiv Oblast",
+  "latin": [
+   "Kharkov region",
+   "Kharkiv region",
+   "Kharkivshchyna"
+  ],
+  "uk": [
+   "Харківська область",
+   "Харківської області",
+   "Харківщина"
+  ],
+  "ru": [
+   "Харьковская область",
+   "Харьковской области",
+   "Харьковщина"
+  ],
+  "type": "oblast",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Zaporizhzhia Oblast",
+  "latin": [
+   "Zaporozhye region",
+   "Zaporizhia Oblast",
+   "Zaporozhzhia region",
+   "Zaporizhzhia region"
+  ],
+  "uk": [
+   "Запорізька область",
+   "Запорізької області",
+   "Запоріжжя"
+  ],
+  "ru": [
+   "Запорожская область",
+   "Запорожской области",
+   "Запорожье"
+  ],
+  "type": "oblast",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "Russian sources often say 'Запорожье' for the whole region (and the city)"
+ },
+ {
+  "country": "UA",
+  "en": "Kherson Oblast",
+  "latin": [
+   "Kherson region",
+   "Khersonshchyna"
+  ],
+  "uk": [
+   "Херсонська область",
+   "Херсонської області",
+   "Херсонщина"
+  ],
+  "ru": [
+   "Херсонская область",
+   "Херсонской области",
+   "Херсонщина"
+  ],
+  "type": "oblast",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Mykolaiv Oblast",
+  "latin": [
+   "Nikolaev region",
+   "Nikolayev region",
+   "Mykolaiv region"
+  ],
+  "uk": [
+   "Миколаївська область",
+   "Миколаївської області",
+   "Миколаївщина"
+  ],
+  "ru": [
+   "Николаевская область",
+   "Николаевской области",
+   "Николаевщина"
+  ],
+  "type": "oblast",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Odesa Oblast",
+  "latin": [
+   "Odessa region",
+   "Odesa region"
+  ],
+  "uk": [
+   "Одеська область",
+   "Одеської області",
+   "Одещина"
+  ],
+  "ru": [
+   "Одесская область",
+   "Одесской области"
+  ],
+  "type": "oblast",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Dnipropetrovsk Oblast",
+  "latin": [
+   "Dnepropetrovsk region",
+   "Dnipro region",
+   "Dnipropetrovshchyna"
+  ],
+  "uk": [
+   "Дніпропетровська область",
+   "Дніпропетровської області",
+   "Дніпропетровщина"
+  ],
+  "ru": [
+   "Днепропетровская область",
+   "Днепропетровской области",
+   "Днепропетровщина"
+  ],
+  "type": "oblast",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "oblast name unchanged despite city rename"
+ },
+ {
+  "country": "UA",
+  "en": "Kirovohrad Oblast",
+  "latin": [
+   "Kirovograd region",
+   "Kirovohrad region"
+  ],
+  "uk": [
+   "Кіровоградська область",
+   "Кіровоградської області",
+   "Кіровоградщина"
+  ],
+  "ru": [
+   "Кировоградская область",
+   "Кировоградской области"
+  ],
+  "type": "oblast",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Poltava Oblast",
+  "latin": [
+   "Poltava region"
+  ],
+  "uk": [
+   "Полтавська область",
+   "Полтавської області",
+   "Полтавщина"
+  ],
+  "ru": [
+   "Полтавская область",
+   "Полтавской области",
+   "Полтавщина"
+  ],
+  "type": "oblast",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Sumy Oblast",
+  "latin": [
+   "Sumy region",
+   "Sumshchyna"
+  ],
+  "uk": [
+   "Сумська область",
+   "Сумської області",
+   "Сумщина"
+  ],
+  "ru": [
+   "Сумская область",
+   "Сумской области",
+   "Сумщина"
+  ],
+  "type": "oblast",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Chernihiv Oblast",
+  "latin": [
+   "Chernigov region",
+   "Chernihiv region"
+  ],
+  "uk": [
+   "Чернігівська область",
+   "Чернігівської області",
+   "Чернігівщина"
+  ],
+  "ru": [
+   "Черниговская область",
+   "Черниговской области",
+   "Черниговщина"
+  ],
+  "type": "oblast",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Kyiv Oblast",
+  "latin": [
+   "Kiev region",
+   "Kyiv region",
+   "Kyivshchyna"
+  ],
+  "uk": [
+   "Київська область",
+   "Київської області",
+   "Київщина"
+  ],
+  "ru": [
+   "Киевская область",
+   "Киевской области",
+   "Киевщина"
+  ],
+  "type": "oblast",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Zhytomyr Oblast",
+  "latin": [
+   "Zhitomir region",
+   "Zhytomyr region"
+  ],
+  "uk": [
+   "Житомирська область",
+   "Житомирської області",
+   "Житомирщина"
+  ],
+  "ru": [
+   "Житомирская область",
+   "Житомирской области"
+  ],
+  "type": "oblast",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Vinnytsia Oblast",
+  "latin": [
+   "Vinnitsa region",
+   "Vinnytsia region"
+  ],
+  "uk": [
+   "Вінницька область",
+   "Вінницької області",
+   "Вінниччина"
+  ],
+  "ru": [
+   "Винницкая область",
+   "Винницкой области"
+  ],
+  "type": "oblast",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Cherkasy Oblast",
+  "latin": [
+   "Cherkassy region",
+   "Cherkasy region"
+  ],
+  "uk": [
+   "Черкаська область",
+   "Черкаської області",
+   "Черкащина"
+  ],
+  "ru": [
+   "Черкасская область",
+   "Черкасской области"
+  ],
+  "type": "oblast",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Khmelnytskyi Oblast",
+  "latin": [
+   "Khmelnitsky region",
+   "Khmelnytskyi region"
+  ],
+  "uk": [
+   "Хмельницька область",
+   "Хмельницької області",
+   "Хмельниччина"
+  ],
+  "ru": [
+   "Хмельницкая область",
+   "Хмельницкой области"
+  ],
+  "type": "oblast",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Lviv Oblast",
+  "latin": [
+   "Lvov region",
+   "Lviv region"
+  ],
+  "uk": [
+   "Львівська область",
+   "Львівської області",
+   "Львівщина"
+  ],
+  "ru": [
+   "Львовская область",
+   "Львовской области"
+  ],
+  "type": "oblast",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Ternopil Oblast",
+  "latin": [
+   "Ternopol region"
+  ],
+  "uk": [
+   "Тернопільська область",
+   "Тернопільської області"
+  ],
+  "ru": [
+   "Тернопольская область",
+   "Тернопольской области"
+  ],
+  "type": "oblast",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Ivano-Frankivsk Oblast",
+  "latin": [
+   "Ivano-Frankovsk region"
+  ],
+  "uk": [
+   "Івано-Франківська область",
+   "Івано-Франківської області"
+  ],
+  "ru": [
+   "Ивано-Франковская область",
+   "Ивано-Франковской области"
+  ],
+  "type": "oblast",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Volyn Oblast",
+  "latin": [
+   "Volhynia",
+   "Volyn region"
+  ],
+  "uk": [
+   "Волинська область",
+   "Волинської області",
+   "Волинь"
+  ],
+  "ru": [
+   "Волынская область",
+   "Волынской области",
+   "Волынь"
+  ],
+  "type": "oblast",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Rivne Oblast",
+  "latin": [
+   "Rovno region",
+   "Rivne region"
+  ],
+  "uk": [
+   "Рівненська область",
+   "Рівненської області"
+  ],
+  "ru": [
+   "Ровенская область",
+   "Ровенской области"
+  ],
+  "type": "oblast",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Zakarpattia Oblast",
+  "latin": [
+   "Transcarpathia",
+   "Zakarpattia region"
+  ],
+  "uk": [
+   "Закарпатська область",
+   "Закарпатської області",
+   "Закарпаття"
+  ],
+  "ru": [
+   "Закарпатская область",
+   "Закарпатской области",
+   "Закарпатье"
+  ],
+  "type": "oblast",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Chernivtsi Oblast",
+  "latin": [
+   "Chernovtsy region",
+   "Bukovina"
+  ],
+  "uk": [
+   "Чернівецька область",
+   "Чернівецької області",
+   "Буковина"
+  ],
+  "ru": [
+   "Черновицкая область",
+   "Черновицкой области",
+   "Буковина"
+  ],
+  "type": "oblast",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Crimea",
+  "latin": [
+   "Krym",
+   "Autonomous Republic of Crimea",
+   "Republic of Crimea"
+  ],
+  "uk": [
+   "Крим",
+   "Автономна Республіка Крим",
+   "АР Крим"
+  ],
+  "ru": [
+   "Крым",
+   "Республика Крым",
+   "Республики Крым"
+  ],
+  "type": "region",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "occupied by Russia since 2014; 'Республика Крым' is the Russian occupation-era name"
+ },
+ {
+  "country": "UA",
+  "en": "Donetsk People's Republic (DPR)",
+  "latin": [
+   "DPR",
+   "DNR",
+   "Donetsk People's Republic"
+  ],
+  "uk": [
+   "ДНР",
+   "Донецька народна республіка"
+  ],
+  "ru": [
+   "ДНР",
+   "Донецкая народная республика",
+   "Донецкой народной республики"
+  ],
+  "type": "region",
+  "admin1": "Donetsk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "Russian-installed entity; propaganda/occupation name covering occupied Donetsk Oblast"
+ },
+ {
+  "country": "UA",
+  "en": "Luhansk People's Republic (LPR)",
+  "latin": [
+   "LPR",
+   "LNR",
+   "Lugansk People's Republic"
+  ],
+  "uk": [
+   "ЛНР",
+   "Луганська народна республіка"
+  ],
+  "ru": [
+   "ЛНР",
+   "Луганская народная республика",
+   "Луганской народной республики"
+  ],
+  "type": "region",
+  "admin1": "Luhansk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "Russian-installed entity covering occupied Luhansk Oblast"
+ },
+ {
+  "country": "UA",
+  "en": "ORDLO (occupied parts of Donetsk and Luhansk)",
+  "latin": [
+   "ORDLO",
+   "ORDiLO"
+  ],
+  "uk": [
+   "ОРДЛО",
+   "ОРДіЛО"
+  ],
+  "ru": [
+   "ОРДЛО",
+   "ОРДиЛО"
+  ],
+  "type": "region",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "Ukrainian official term (2015–2022) for 'certain areas of Donetsk and Luhansk oblasts'"
+ },
+ {
+  "country": "UA",
+  "en": "Donbas",
+  "latin": [
+   "Donbass",
+   "Donbas"
+  ],
+  "uk": [
+   "Донбас",
+   "Донбасу"
+  ],
+  "ru": [
+   "Донбасс",
+   "Донбасса"
+  ],
+  "type": "region",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "Russian spelling doubles the 'с'"
+ },
+ {
+  "country": "UA",
+  "en": "Novorossiya",
+  "latin": [
+   "Novorossiya",
+   "Novorossia",
+   "New Russia"
+  ],
+  "uk": [
+   "Новоросія",
+   "Новоросії"
+  ],
+  "ru": [
+   "Новороссия",
+   "Новороссии"
+  ],
+  "type": "region",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "imperial/propaganda term for southern and eastern Ukraine"
+ },
+ {
+  "country": "UA",
+  "en": "Malorossiya",
+  "latin": [
+   "Malorossiya",
+   "Little Russia"
+  ],
+  "uk": [
+   "Малоросія",
+   "Малоросії"
+  ],
+  "ru": [
+   "Малороссия",
+   "Малороссии"
+  ],
+  "type": "region",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "imperial/propaganda term for Ukraine; 2017 DPR 'state' proposal"
+ },
+ {
+  "country": "UA",
+  "en": "Pryazovia (Azov coast)",
+  "latin": [
+   "Priazovye",
+   "Pryazovia",
+   "Azov coast"
+  ],
+  "uk": [
+   "Приазов'я",
+   "Приазовʼя"
+  ],
+  "ru": [
+   "Приазовье",
+   "Приазовья"
+  ],
+  "type": "region",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Slobozhanshchyna",
+  "latin": [
+   "Slobozhanshchyna",
+   "Sloboda Ukraine",
+   "Slobozhanshchina"
+  ],
+  "uk": [
+   "Слобожанщина",
+   "Слобожанщини"
+  ],
+  "ru": [
+   "Слобожанщина",
+   "Слобожанщины"
+  ],
+  "type": "region",
+  "admin1": "Kharkiv Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "historical region; Ukrainian operational direction name"
+ },
+ {
+  "country": "UA",
+  "en": "Tavria",
+  "latin": [
+   "Tavria",
+   "Taurida",
+   "Tavriya"
+  ],
+  "uk": [
+   "Таврія",
+   "Таврії"
+  ],
+  "ru": [
+   "Таврия",
+   "Таврии"
+  ],
+  "type": "region",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "historical region; Ukrainian operational direction name"
+ },
+ {
+  "country": "UA",
+  "en": "Sea of Azov",
+  "latin": [
+   "Azov Sea"
+  ],
+  "uk": [
+   "Азовське море",
+   "Азовського моря"
+  ],
+  "ru": [
+   "Азовское море",
+   "Азовского моря"
+  ],
+  "type": "region",
+  "admin1": null,
+  "lat": 46.0,
+  "lon": 36.5,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Kyiv",
+  "latin": [
+   "Kiev",
+   "Kyiv city",
+   "Kyjiv"
+  ],
+  "uk": [
+   "Київ",
+   "Києві",
+   "Києва"
+  ],
+  "ru": [
+   "Киев",
+   "Киеве",
+   "Киева"
+  ],
+  "type": "city",
+  "admin1": "Kyiv",
+  "lat": 50.45,
+  "lon": 30.52,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Sevastopol",
+  "latin": [
+   "Sebastopol",
+   "Sevastopol"
+  ],
+  "uk": [
+   "Севастополь"
+  ],
+  "ru": [
+   "Севастополь"
+  ],
+  "type": "city",
+  "admin1": "Crimea",
+  "lat": 44.62,
+  "lon": 33.53,
+  "confidence": "high"
+ },
+ {
+  "country": "RU",
+  "en": "Kursk Oblast",
+  "latin": [
+   "Kursk region"
+  ],
+  "uk": [
+   "Курська область",
+   "Курської області",
+   "Курщина"
+  ],
+  "ru": [
+   "Курская область",
+   "Курской области"
+  ],
+  "type": "oblast",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "site of Ukrainian incursion from August 2024"
+ },
+ {
+  "country": "RU",
+  "en": "Belgorod Oblast",
+  "latin": [
+   "Belgorod region",
+   "Bilhorod"
+  ],
+  "uk": [
+   "Бєлгородська область",
+   "Бєлгородської області",
+   "Бєлгородщина"
+  ],
+  "ru": [
+   "Белгородская область",
+   "Белгородской области"
+  ],
+  "type": "oblast",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "RU",
+  "en": "Bryansk Oblast",
+  "latin": [
+   "Bryansk region"
+  ],
+  "uk": [
+   "Брянська область",
+   "Брянської області",
+   "Брянщина"
+  ],
+  "ru": [
+   "Брянская область",
+   "Брянской области"
+  ],
+  "type": "oblast",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "RU",
+  "en": "Sudzha",
+  "latin": [
+   "Sudzha",
+   "Sudja"
+  ],
+  "uk": [
+   "Суджа",
+   "Суджі",
+   "Суджу"
+  ],
+  "ru": [
+   "Суджа",
+   "Судже",
+   "Суджи"
+  ],
+  "type": "town",
+  "admin1": "Kursk Oblast",
+  "lat": 51.19,
+  "lon": 35.27,
+  "confidence": "high",
+  "notes": "held by Ukrainian forces Aug 2024 – Mar 2025"
+ },
+ {
+  "country": "RU",
+  "en": "Korenevo",
+  "latin": [
+   "Korenevo"
+  ],
+  "uk": [
+   "Коренево"
+  ],
+  "ru": [
+   "Коренево"
+  ],
+  "type": "town",
+  "admin1": "Kursk Oblast",
+  "lat": 51.41,
+  "lon": 34.91,
+  "confidence": "medium"
+ },
+ {
+  "country": "RU",
+  "en": "Glushkovo",
+  "latin": [
+   "Glushkovo",
+   "Hlushkovo"
+  ],
+  "uk": [
+   "Глушково"
+  ],
+  "ru": [
+   "Глушково"
+  ],
+  "type": "town",
+  "admin1": "Kursk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "RU",
+  "en": "Tetkino",
+  "latin": [
+   "Tyotkino",
+   "Tetkino"
+  ],
+  "uk": [
+   "Тьоткіно",
+   "Теткіно"
+  ],
+  "ru": [
+   "Теткино"
+  ],
+  "type": "village",
+  "admin1": "Kursk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "RU",
+  "en": "Malaya Loknya",
+  "latin": [
+   "Malaya Loknya",
+   "Mala Loknia"
+  ],
+  "uk": [
+   "Мала Локня"
+  ],
+  "ru": [
+   "Малая Локня"
+  ],
+  "type": "village",
+  "admin1": "Kursk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "RU",
+  "en": "Plekhovo",
+  "latin": [
+   "Plekhovo"
+  ],
+  "uk": [
+   "Плехово"
+  ],
+  "ru": [
+   "Плехово"
+  ],
+  "type": "village",
+  "admin1": "Kursk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "RU",
+  "en": "Guevo",
+  "latin": [
+   "Guevo",
+   "Huievo"
+  ],
+  "uk": [
+   "Гуєво"
+  ],
+  "ru": [
+   "Гуево"
+  ],
+  "type": "village",
+  "admin1": "Kursk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium"
+ },
+ {
+  "country": "RU",
+  "en": "Sverdlikovo",
+  "latin": [
+   "Sverdlikovo"
+  ],
+  "uk": [
+   "Свердликово"
+  ],
+  "ru": [
+   "Свердликово"
+  ],
+  "type": "village",
+  "admin1": "Kursk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium"
+ },
+ {
+  "country": "RU",
+  "en": "Kursk",
+  "latin": [
+   "Kursk"
+  ],
+  "uk": [
+   "Курськ"
+  ],
+  "ru": [
+   "Курск"
+  ],
+  "type": "city",
+  "admin1": "Kursk Oblast",
+  "lat": 51.73,
+  "lon": 36.19,
+  "confidence": "high"
+ },
+ {
+  "country": "RU",
+  "en": "Belgorod",
+  "latin": [
+   "Belgorod",
+   "Bilhorod"
+  ],
+  "uk": [
+   "Бєлгород"
+  ],
+  "ru": [
+   "Белгород"
+  ],
+  "type": "city",
+  "admin1": "Belgorod Oblast",
+  "lat": 50.6,
+  "lon": 36.59,
+  "confidence": "high"
+ },
+ {
+  "country": "RU",
+  "en": "Shebekino",
+  "latin": [
+   "Shebekino"
+  ],
+  "uk": [
+   "Шебекіно"
+  ],
+  "ru": [
+   "Шебекино"
+  ],
+  "type": "town",
+  "admin1": "Belgorod Oblast",
+  "lat": 50.41,
+  "lon": 36.89,
+  "confidence": "medium"
+ },
+ {
+  "country": "RU",
+  "en": "Graivoron",
+  "latin": [
+   "Grayvoron",
+   "Graivoron"
+  ],
+  "uk": [
+   "Грайворон"
+  ],
+  "ru": [
+   "Грайворон"
+  ],
+  "type": "town",
+  "admin1": "Belgorod Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "RU",
+  "en": "Bryansk",
+  "latin": [
+   "Bryansk"
+  ],
+  "uk": [
+   "Брянськ"
+  ],
+  "ru": [
+   "Брянск"
+  ],
+  "type": "city",
+  "admin1": "Bryansk Oblast",
+  "lat": 53.25,
+  "lon": 34.37,
+  "confidence": "high"
+ },
+ {
+  "country": "RU",
+  "en": "Rostov-on-Don",
+  "latin": [
+   "Rostov",
+   "Rostov-na-Donu"
+  ],
+  "uk": [
+   "Ростов-на-Дону",
+   "Ростов"
+  ],
+  "ru": [
+   "Ростов-на-Дону",
+   "Ростов"
+  ],
+  "type": "city",
+  "admin1": "Rostov Oblast",
+  "lat": 47.24,
+  "lon": 39.71,
+  "confidence": "high",
+  "notes": "Southern Military District HQ; seized by Wagner in the June 2023 mutiny"
+ },
+ {
+  "country": "RU",
+  "en": "Molkino",
+  "latin": [
+   "Molkino"
+  ],
+  "uk": [
+   "Молькіно"
+  ],
+  "ru": [
+   "Молькино"
+  ],
+  "type": "military",
+  "admin1": "Krasnodar Krai",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "Wagner training base (next to a GRU special-forces brigade base)"
+ },
+ {
+  "country": "UA",
+  "en": "Bakhmut",
+  "latin": [
+   "Artemivsk",
+   "Artemovsk",
+   "Artyomovsk",
+   "Bachmut"
+  ],
+  "uk": [
+   "Бахмут",
+   "Артемівськ"
+  ],
+  "ru": [
+   "Бахмут",
+   "Артемовск"
+  ],
+  "type": "city",
+  "admin1": "Donetsk Oblast",
+  "lat": 48.595,
+  "lon": 38.0,
+  "confidence": "high",
+  "notes": "renamed 2016; Russian sources use Артемовск"
+ },
+ {
+  "country": "UA",
+  "en": "Dnipro",
+  "latin": [
+   "Dnipropetrovsk",
+   "Dnepropetrovsk",
+   "Dnepr",
+   "Dnipropetrovs'k"
+  ],
+  "uk": [
+   "Дніпро",
+   "Дніпропетровськ"
+  ],
+  "ru": [
+   "Днепр",
+   "Днепропетровск"
+  ],
+  "type": "city",
+  "admin1": "Dnipropetrovsk Oblast",
+  "lat": 48.465,
+  "lon": 35.05,
+  "confidence": "high",
+  "notes": "renamed 2016; 'Дніпро'/'Днепр' is also the river"
+ },
+ {
+  "country": "UA",
+  "en": "Kropyvnytskyi",
+  "latin": [
+   "Kirovohrad",
+   "Kirovograd",
+   "Kropyvnytskyi",
+   "Kropivnitsky",
+   "Yelysavethrad"
+  ],
+  "uk": [
+   "Кропивницький",
+   "Кіровоград"
+  ],
+  "ru": [
+   "Кропивницкий",
+   "Кировоград"
+  ],
+  "type": "city",
+  "admin1": "Kirovohrad Oblast",
+  "lat": 48.51,
+  "lon": 32.26,
+  "confidence": "high",
+  "notes": "renamed 2016"
+ },
+ {
+  "country": "UA",
+  "en": "Pokrovsk",
+  "latin": [
+   "Krasnoarmiisk",
+   "Krasnoarmeysk",
+   "Krasnoarmiysk"
+  ],
+  "uk": [
+   "Покровськ",
+   "Красноармійськ"
+  ],
+  "ru": [
+   "Покровск",
+   "Красноармейск"
+  ],
+  "type": "city",
+  "admin1": "Donetsk Oblast",
+  "lat": 48.28,
+  "lon": 37.18,
+  "confidence": "high",
+  "notes": "renamed 2016; Russian sources use Красноармейск"
+ },
+ {
+  "country": "UA",
+  "en": "Toretsk",
+  "latin": [
+   "Dzerzhynsk",
+   "Dzerzhinsk"
+  ],
+  "uk": [
+   "Торецьк",
+   "Дзержинськ"
+  ],
+  "ru": [
+   "Торецк",
+   "Дзержинск"
+  ],
+  "type": "city",
+  "admin1": "Donetsk Oblast",
+  "lat": 48.4,
+  "lon": 37.85,
+  "confidence": "high",
+  "notes": "renamed 2016; Russian sources use Дзержинск (not to be confused with Dzerzhinsk, Nizhny Novgorod Oblast)"
+ },
+ {
+  "country": "UA",
+  "en": "Lyman",
+  "latin": [
+   "Krasnyi Lyman",
+   "Krasny Liman",
+   "Liman"
+  ],
+  "uk": [
+   "Лиман",
+   "Красний Лиман"
+  ],
+  "ru": [
+   "Лиман",
+   "Красный Лиман"
+  ],
+  "type": "city",
+  "admin1": "Donetsk Oblast",
+  "lat": 48.99,
+  "lon": 37.81,
+  "confidence": "high",
+  "notes": "renamed 2016; Russian sources use Красный Лиман; 'лиман' also = estuary"
+ },
+ {
+  "country": "UA",
+  "en": "Myrnohrad",
+  "latin": [
+   "Dymytrov",
+   "Dimitrov",
+   "Mirnograd"
+  ],
+  "uk": [
+   "Мирноград",
+   "Димитров"
+  ],
+  "ru": [
+   "Мирноград",
+   "Димитров"
+  ],
+  "type": "city",
+  "admin1": "Donetsk Oblast",
+  "lat": 48.3,
+  "lon": 37.26,
+  "confidence": "high",
+  "notes": "renamed 2016; Russian sources use Димитров"
+ },
+ {
+  "country": "UA",
+  "en": "Kamianske",
+  "latin": [
+   "Dniprodzerzhynsk",
+   "Dneprodzerzhinsk",
+   "Kamenskoye"
+  ],
+  "uk": [
+   "Кам'янське",
+   "Дніпродзержинськ"
+  ],
+  "ru": [
+   "Каменское",
+   "Днепродзержинск"
+  ],
+  "type": "city",
+  "admin1": "Dnipropetrovsk Oblast",
+  "lat": 48.51,
+  "lon": 34.61,
+  "confidence": "high",
+  "notes": "renamed 2016"
+ },
+ {
+  "country": "UA",
+  "en": "Pokrov",
+  "latin": [
+   "Ordzhonikidze"
+  ],
+  "uk": [
+   "Покров",
+   "Орджонікідзе"
+  ],
+  "ru": [
+   "Покров",
+   "Орджоникидзе"
+  ],
+  "type": "town",
+  "admin1": "Dnipropetrovsk Oblast",
+  "lat": 47.65,
+  "lon": 34.12,
+  "confidence": "medium",
+  "notes": "renamed 2016"
+ },
+ {
+  "country": "UA",
+  "en": "Horishni Plavni",
+  "latin": [
+   "Komsomolsk",
+   "Gorishni Plavni"
+  ],
+  "uk": [
+   "Горішні Плавні",
+   "Комсомольськ"
+  ],
+  "ru": [
+   "Горишние Плавни",
+   "Комсомольск"
+  ],
+  "type": "town",
+  "admin1": "Poltava Oblast",
+  "lat": 49.01,
+  "lon": 33.65,
+  "confidence": "medium",
+  "notes": "renamed 2016"
+ },
+ {
+  "country": "UA",
+  "en": "Chornomorsk",
+  "latin": [
+   "Illichivsk",
+   "Ilyichevsk",
+   "Ilichevsk",
+   "Chernomorsk"
+  ],
+  "uk": [
+   "Чорноморськ",
+   "Іллічівськ"
+  ],
+  "ru": [
+   "Черноморск",
+   "Ильичевск"
+  ],
+  "type": "city",
+  "admin1": "Odesa Oblast",
+  "lat": 46.3,
+  "lon": 30.66,
+  "confidence": "high",
+  "notes": "renamed 2016"
+ },
+ {
+  "country": "UA",
+  "en": "Podilsk",
+  "latin": [
+   "Kotovsk",
+   "Podolsk"
+  ],
+  "uk": [
+   "Подільськ",
+   "Котовськ"
+  ],
+  "ru": [
+   "Подольск",
+   "Котовск"
+  ],
+  "type": "town",
+  "admin1": "Odesa Oblast",
+  "lat": 47.75,
+  "lon": 29.53,
+  "confidence": "high",
+  "notes": "renamed 2016; ru 'Подольск' collides with Podolsk, Moscow Oblast"
+ },
+ {
+  "country": "UA",
+  "en": "Varash",
+  "latin": [
+   "Kuznetsovsk"
+  ],
+  "uk": [
+   "Вараш",
+   "Кузнецовськ"
+  ],
+  "ru": [
+   "Вараш",
+   "Кузнецовск"
+  ],
+  "type": "town",
+  "admin1": "Rivne Oblast",
+  "lat": 51.35,
+  "lon": 25.85,
+  "confidence": "medium",
+  "notes": "renamed 2016; Rivne NPP"
+ },
+ {
+  "country": "UA",
+  "en": "Oleshky",
+  "latin": [
+   "Tsiurupynsk",
+   "Tsyurupinsk",
+   "Aleshki"
+  ],
+  "uk": [
+   "Олешки",
+   "Цюрупинськ"
+  ],
+  "ru": [
+   "Алешки",
+   "Цюрупинск"
+  ],
+  "type": "town",
+  "admin1": "Kherson Oblast",
+  "lat": 46.62,
+  "lon": 32.72,
+  "confidence": "high",
+  "notes": "renamed 2016; Russian name Алешки"
+ },
+ {
+  "country": "UA",
+  "en": "Kadiivka",
+  "latin": [
+   "Stakhanov",
+   "Kadievka",
+   "Kadiyivka"
+  ],
+  "uk": [
+   "Кадіївка",
+   "Стаханов"
+  ],
+  "ru": [
+   "Стаханов",
+   "Кадиевка"
+  ],
+  "type": "city",
+  "admin1": "Luhansk Oblast",
+  "lat": 48.57,
+  "lon": 38.65,
+  "confidence": "high",
+  "notes": "renamed 2016; occupation authorities use Стаханов"
+ },
+ {
+  "country": "UA",
+  "en": "Khrustalnyi",
+  "latin": [
+   "Krasnyi Luch",
+   "Krasny Luch",
+   "Khrustalny"
+  ],
+  "uk": [
+   "Хрустальний",
+   "Красний Луч"
+  ],
+  "ru": [
+   "Красный Луч",
+   "Хрустальный"
+  ],
+  "type": "city",
+  "admin1": "Luhansk Oblast",
+  "lat": 48.14,
+  "lon": 38.94,
+  "confidence": "high",
+  "notes": "renamed 2016; occupation authorities use Красный Луч"
+ },
+ {
+  "country": "UA",
+  "en": "Sorokyne",
+  "latin": [
+   "Krasnodon",
+   "Sorokino"
+  ],
+  "uk": [
+   "Сорокине",
+   "Краснодон"
+  ],
+  "ru": [
+   "Краснодон",
+   "Сорокино"
+  ],
+  "type": "city",
+  "admin1": "Luhansk Oblast",
+  "lat": 48.3,
+  "lon": 39.73,
+  "confidence": "high",
+  "notes": "renamed 2016; occupation authorities use Краснодон"
+ },
+ {
+  "country": "UA",
+  "en": "Dovzhansk",
+  "latin": [
+   "Sverdlovsk",
+   "Dovzhanskyi"
+  ],
+  "uk": [
+   "Довжанськ",
+   "Свердловськ"
+  ],
+  "ru": [
+   "Свердловск",
+   "Довжанск"
+  ],
+  "type": "city",
+  "admin1": "Luhansk Oblast",
+  "lat": 48.08,
+  "lon": 39.65,
+  "confidence": "high",
+  "notes": "renamed 2016; occupation authorities use Свердловск (not Yekaterinburg)"
+ },
+ {
+  "country": "UA",
+  "en": "Holubivka",
+  "latin": [
+   "Kirovsk",
+   "Golubovka"
+  ],
+  "uk": [
+   "Голубівка",
+   "Кіровськ"
+  ],
+  "ru": [
+   "Кировск",
+   "Голубовка"
+  ],
+  "type": "town",
+  "admin1": "Luhansk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "renamed 2016; occupation authorities use Кировск"
+ },
+ {
+  "country": "UA",
+  "en": "Chystiakove",
+  "latin": [
+   "Torez",
+   "Chistyakovo"
+  ],
+  "uk": [
+   "Чистякове",
+   "Торез"
+  ],
+  "ru": [
+   "Торез",
+   "Чистяково"
+  ],
+  "type": "city",
+  "admin1": "Donetsk Oblast",
+  "lat": 48.03,
+  "lon": 38.6,
+  "confidence": "high",
+  "notes": "renamed 2016; occupation authorities use Торез"
+ },
+ {
+  "country": "UA",
+  "en": "Kalmiuske",
+  "latin": [
+   "Komsomolske",
+   "Komsomolskoye"
+  ],
+  "uk": [
+   "Кальміуське",
+   "Комсомольське"
+  ],
+  "ru": [
+   "Комсомольское",
+   "Кальмиусское"
+  ],
+  "type": "town",
+  "admin1": "Donetsk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "renamed 2016; occupation authorities use Комсомольское"
+ },
+ {
+  "country": "UA",
+  "en": "Boikivske",
+  "latin": [
+   "Telmanove",
+   "Telmanovo"
+  ],
+  "uk": [
+   "Бойківське",
+   "Тельманове"
+  ],
+  "ru": [
+   "Тельманово",
+   "Бойковское"
+  ],
+  "type": "town",
+  "admin1": "Donetsk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "renamed 2016; occupation authorities use Тельманово"
+ },
+ {
+  "country": "UA",
+  "en": "Khrestivka",
+  "latin": [
+   "Kirovske",
+   "Kirovskoye"
+  ],
+  "uk": [
+   "Хрестівка",
+   "Кіровське"
+  ],
+  "ru": [
+   "Кировское",
+   "Хрестовка"
+  ],
+  "type": "town",
+  "admin1": "Donetsk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": "renamed 2016; occupation authorities use Кировское"
+ },
+ {
+  "country": "UA",
+  "en": "Zalizne",
+  "latin": [
+   "Artemove",
+   "Artemovo"
+  ],
+  "uk": [
+   "Залізне",
+   "Артемове"
+  ],
+  "ru": [
+   "Артемово",
+   "Железное"
+  ],
+  "type": "town",
+  "admin1": "Donetsk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": "renamed 2016; near Toretsk"
+ },
+ {
+  "country": "UA",
+  "en": "New York (Donetsk Oblast)",
+  "latin": [
+   "Niu-York",
+   "Novhorodske",
+   "Novgorodskoye"
+  ],
+  "uk": [
+   "Нью-Йорк",
+   "Новгородське"
+  ],
+  "ru": [
+   "Нью-Йорк",
+   "Новгородское"
+  ],
+  "type": "town",
+  "admin1": "Donetsk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "historic name restored 2021; Russian sources use Новгородское"
+ },
+ {
+  "country": "UA",
+  "en": "Pereiaslav",
+  "latin": [
+   "Pereiaslav-Khmelnytskyi",
+   "Pereyaslav-Khmelnitsky",
+   "Pereyaslav"
+  ],
+  "uk": [
+   "Переяслав",
+   "Переяслав-Хмельницький"
+  ],
+  "ru": [
+   "Переяслав",
+   "Переяслав-Хмельницкий"
+  ],
+  "type": "town",
+  "admin1": "Kyiv Oblast",
+  "lat": 50.07,
+  "lon": 31.45,
+  "confidence": "high",
+  "notes": "renamed 2019"
+ },
+ {
+  "country": "UA",
+  "en": "Zviahel",
+  "latin": [
+   "Novohrad-Volynskyi",
+   "Novograd-Volynsky",
+   "Zvyahel"
+  ],
+  "uk": [
+   "Звягель",
+   "Новоград-Волинський"
+  ],
+  "ru": [
+   "Звягель",
+   "Новоград-Волынский"
+  ],
+  "type": "town",
+  "admin1": "Zhytomyr Oblast",
+  "lat": 50.59,
+  "lon": 27.62,
+  "confidence": "high",
+  "notes": "renamed 2022"
+ },
+ {
+  "country": "UA",
+  "en": "Berestyn",
+  "latin": [
+   "Krasnohrad",
+   "Krasnograd"
+  ],
+  "uk": [
+   "Берестин",
+   "Красноград"
+  ],
+  "ru": [
+   "Красноград",
+   "Берестин"
+  ],
+  "type": "town",
+  "admin1": "Kharkiv Oblast",
+  "lat": 49.37,
+  "lon": 35.44,
+  "confidence": "high",
+  "notes": "renamed 2024"
+ },
+ {
+  "country": "UA",
+  "en": "Samar",
+  "latin": [
+   "Novomoskovsk"
+  ],
+  "uk": [
+   "Самар",
+   "Новомосковськ"
+  ],
+  "ru": [
+   "Новомосковск",
+   "Самар"
+  ],
+  "type": "city",
+  "admin1": "Dnipropetrovsk Oblast",
+  "lat": 48.63,
+  "lon": 35.22,
+  "confidence": "high",
+  "notes": "renamed 2024"
+ },
+ {
+  "country": "UA",
+  "en": "Snovsk",
+  "latin": [
+   "Shchors"
+  ],
+  "uk": [
+   "Сновськ",
+   "Щорс"
+  ],
+  "ru": [
+   "Сновск",
+   "Щорс"
+  ],
+  "type": "town",
+  "admin1": "Chernihiv Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "renamed 2016"
+ },
+ {
+  "country": "UA",
+  "en": "Dobroslav",
+  "latin": [
+   "Kominternivske",
+   "Kominternovskoye"
+  ],
+  "uk": [
+   "Доброслав",
+   "Комінтернівське"
+  ],
+  "ru": [
+   "Доброслав",
+   "Коминтерновское"
+  ],
+  "type": "town",
+  "admin1": "Odesa Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": "renamed 2016"
+ },
+ {
+  "country": "UA",
+  "en": "Bilmak",
+  "latin": [
+   "Kuibysheve",
+   "Kuibyshevo"
+  ],
+  "uk": [
+   "Більмак",
+   "Куйбишеве"
+  ],
+  "ru": [
+   "Куйбышево",
+   "Бильмак"
+  ],
+  "type": "town",
+  "admin1": "Zaporizhzhia Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": "renamed 2016; occupied"
+ },
+ {
+  "country": "UA",
+  "en": "Mariupol",
+  "latin": [
+   "Mariupol",
+   "Mariupol'",
+   "Zhdanov"
+  ],
+  "uk": [
+   "Маріуполь",
+   "Маріуполі",
+   "Жданов"
+  ],
+  "ru": [
+   "Мариуполь",
+   "Мариуполе",
+   "Жданов"
+  ],
+  "type": "city",
+  "admin1": "Donetsk Oblast",
+  "lat": 47.1,
+  "lon": 37.55,
+  "confidence": "high",
+  "notes": "called Zhdanov 1948–1989"
+ },
+ {
+  "country": "UA",
+  "en": "Horlivka",
+  "latin": [
+   "Gorlovka",
+   "Horlivka"
+  ],
+  "uk": [
+   "Горлівка"
+  ],
+  "ru": [
+   "Горловка"
+  ],
+  "type": "city",
+  "admin1": "Donetsk Oblast",
+  "lat": 48.3,
+  "lon": 38.05,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Sievierodonetsk",
+  "latin": [
+   "Severodonetsk",
+   "Syeverodonetsk",
+   "Sjewjerodonezk"
+  ],
+  "uk": [
+   "Сєвєродонецьк"
+  ],
+  "ru": [
+   "Северодонецк"
+  ],
+  "type": "city",
+  "admin1": "Luhansk Oblast",
+  "lat": 48.95,
+  "lon": 38.49,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Lysychansk",
+  "latin": [
+   "Lisichansk",
+   "Lysychansk"
+  ],
+  "uk": [
+   "Лисичанськ"
+  ],
+  "ru": [
+   "Лисичанск"
+  ],
+  "type": "city",
+  "admin1": "Luhansk Oblast",
+  "lat": 48.9,
+  "lon": 38.43,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Rubizhne",
+  "latin": [
+   "Rubezhnoye",
+   "Rubizhne"
+  ],
+  "uk": [
+   "Рубіжне"
+  ],
+  "ru": [
+   "Рубежное"
+  ],
+  "type": "city",
+  "admin1": "Luhansk Oblast",
+  "lat": 49.01,
+  "lon": 38.38,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Popasna",
+  "latin": [
+   "Popasnaya"
+  ],
+  "uk": [
+   "Попасна"
+  ],
+  "ru": [
+   "Попасная"
+  ],
+  "type": "town",
+  "admin1": "Luhansk Oblast",
+  "lat": 48.63,
+  "lon": 38.38,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Svitlodarsk",
+  "latin": [
+   "Svetlodarsk"
+  ],
+  "uk": [
+   "Світлодарськ"
+  ],
+  "ru": [
+   "Светлодарск"
+  ],
+  "type": "town",
+  "admin1": "Donetsk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Makiivka",
+  "latin": [
+   "Makeyevka",
+   "Makeevka"
+  ],
+  "uk": [
+   "Макіївка"
+  ],
+  "ru": [
+   "Макеевка"
+  ],
+  "type": "city",
+  "admin1": "Donetsk Oblast",
+  "lat": 48.05,
+  "lon": 37.96,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Donetsk",
+  "latin": [
+   "Donetsk",
+   "Donezk",
+   "Yuzovka"
+  ],
+  "uk": [
+   "Донецьк"
+  ],
+  "ru": [
+   "Донецк"
+  ],
+  "type": "city",
+  "admin1": "Donetsk Oblast",
+  "lat": 48.0,
+  "lon": 37.8,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Luhansk",
+  "latin": [
+   "Lugansk",
+   "Luhansk",
+   "Voroshilovgrad"
+  ],
+  "uk": [
+   "Луганськ"
+  ],
+  "ru": [
+   "Луганск"
+  ],
+  "type": "city",
+  "admin1": "Luhansk Oblast",
+  "lat": 48.57,
+  "lon": 39.31,
+  "confidence": "high",
+  "notes": "called Voroshilovgrad in Soviet periods"
+ },
+ {
+  "country": "UA",
+  "en": "Khartsyzk",
+  "latin": [
+   "Khartsyzsk"
+  ],
+  "uk": [
+   "Харцизьк"
+  ],
+  "ru": [
+   "Харцызск"
+  ],
+  "type": "city",
+  "admin1": "Donetsk Oblast",
+  "lat": 48.04,
+  "lon": 38.15,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Yasynuvata",
+  "latin": [
+   "Yasinovataya"
+  ],
+  "uk": [
+   "Ясинувата"
+  ],
+  "ru": [
+   "Ясиноватая"
+  ],
+  "type": "town",
+  "admin1": "Donetsk Oblast",
+  "lat": 48.13,
+  "lon": 37.86,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Shakhtarsk",
+  "latin": [
+   "Shakhtyorsk",
+   "Shakhtersk"
+  ],
+  "uk": [
+   "Шахтарськ"
+  ],
+  "ru": [
+   "Шахтерск"
+  ],
+  "type": "town",
+  "admin1": "Donetsk Oblast",
+  "lat": 48.05,
+  "lon": 38.45,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Snizhne",
+  "latin": [
+   "Snezhnoye",
+   "Snizhne"
+  ],
+  "uk": [
+   "Сніжне"
+  ],
+  "ru": [
+   "Снежное"
+  ],
+  "type": "town",
+  "admin1": "Donetsk Oblast",
+  "lat": 48.03,
+  "lon": 38.77,
+  "confidence": "medium",
+  "notes": "MH17 Buk launch area"
+ },
+ {
+  "country": "UA",
+  "en": "Hrabove",
+  "latin": [
+   "Grabovo",
+   "Hrabove"
+  ],
+  "uk": [
+   "Грабове"
+  ],
+  "ru": [
+   "Грабово"
+  ],
+  "type": "village",
+  "admin1": "Donetsk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "MH17 crash site"
+ },
+ {
+  "country": "UA",
+  "en": "Ilovaisk",
+  "latin": [
+   "Ilovaysk"
+  ],
+  "uk": [
+   "Іловайськ"
+  ],
+  "ru": [
+   "Иловайск"
+  ],
+  "type": "town",
+  "admin1": "Donetsk Oblast",
+  "lat": 47.93,
+  "lon": 38.2,
+  "confidence": "medium",
+  "notes": "2014 encirclement"
+ },
+ {
+  "country": "UA",
+  "en": "Debaltseve",
+  "latin": [
+   "Debaltsevo"
+  ],
+  "uk": [
+   "Дебальцеве"
+  ],
+  "ru": [
+   "Дебальцево"
+  ],
+  "type": "town",
+  "admin1": "Donetsk Oblast",
+  "lat": 48.34,
+  "lon": 38.4,
+  "confidence": "medium",
+  "notes": "2015 encirclement"
+ },
+ {
+  "country": "UA",
+  "en": "Yenakiieve",
+  "latin": [
+   "Yenakiyevo",
+   "Enakievo"
+  ],
+  "uk": [
+   "Єнакієве"
+  ],
+  "ru": [
+   "Енакиево"
+  ],
+  "type": "city",
+  "admin1": "Donetsk Oblast",
+  "lat": 48.23,
+  "lon": 38.21,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Dokuchaievsk",
+  "latin": [
+   "Dokuchayevsk"
+  ],
+  "uk": [
+   "Докучаєвськ"
+  ],
+  "ru": [
+   "Докучаевск"
+  ],
+  "type": "town",
+  "admin1": "Donetsk Oblast",
+  "lat": 47.75,
+  "lon": 37.68,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Amvrosiivka",
+  "latin": [
+   "Amvrosiyevka"
+  ],
+  "uk": [
+   "Амвросіївка"
+  ],
+  "ru": [
+   "Амвросиевка"
+  ],
+  "type": "town",
+  "admin1": "Donetsk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Novoazovsk",
+  "latin": [
+   "Novoazovsk"
+  ],
+  "uk": [
+   "Новоазовськ"
+  ],
+  "ru": [
+   "Новоазовск"
+  ],
+  "type": "town",
+  "admin1": "Donetsk Oblast",
+  "lat": 47.12,
+  "lon": 38.08,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Volnovakha",
+  "latin": [
+   "Volnovakha"
+  ],
+  "uk": [
+   "Волноваха"
+  ],
+  "ru": [
+   "Волноваха"
+  ],
+  "type": "town",
+  "admin1": "Donetsk Oblast",
+  "lat": 47.6,
+  "lon": 37.5,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Olenivka",
+  "latin": [
+   "Yelenovka",
+   "Elenovka",
+   "Olenivka"
+  ],
+  "uk": [
+   "Оленівка"
+  ],
+  "ru": [
+   "Еленовка"
+  ],
+  "type": "village",
+  "admin1": "Donetsk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "Russian name Еленовка; site of Olenivka penal colony"
+ },
+ {
+  "country": "UA",
+  "en": "Olenivka prison (Volnovakha penal colony No. 120)",
+  "latin": [
+   "Olenivka prison",
+   "Yelenovka colony",
+   "Olenivka camp"
+  ],
+  "uk": [
+   "Оленівська колонія",
+   "колонія №120",
+   "Оленівка"
+  ],
+  "ru": [
+   "Еленовская колония",
+   "колония №120",
+   "Еленовка"
+  ],
+  "type": "landmark",
+  "admin1": "Donetsk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "POW detention site; July 2022 explosion killed Ukrainian POWs incl. Azov defenders"
+ },
+ {
+  "country": "UA",
+  "en": "Izoliatsia (Donetsk detention site)",
+  "latin": [
+   "Izolyatsia",
+   "Izoliatsiia",
+   "Isolation"
+  ],
+  "uk": [
+   "Ізоляція"
+  ],
+  "ru": [
+   "Изоляция"
+  ],
+  "type": "landmark",
+  "admin1": "Donetsk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "former art centre turned DPR/MGB torture prison; 'изоляция' also = isolation (generic)"
+ },
+ {
+  "country": "UA",
+  "en": "Alchevsk",
+  "latin": [
+   "Alchevsk",
+   "Kommunarsk"
+  ],
+  "uk": [
+   "Алчевськ"
+  ],
+  "ru": [
+   "Алчевск"
+  ],
+  "type": "city",
+  "admin1": "Luhansk Oblast",
+  "lat": 48.47,
+  "lon": 38.8,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Pervomaisk (Luhansk Oblast)",
+  "latin": [
+   "Pervomaysk"
+  ],
+  "uk": [
+   "Первомайськ"
+  ],
+  "ru": [
+   "Первомайск"
+  ],
+  "type": "town",
+  "admin1": "Luhansk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "several towns share this name"
+ },
+ {
+  "country": "UA",
+  "en": "Antratsyt",
+  "latin": [
+   "Antratsit",
+   "Antracit"
+  ],
+  "uk": [
+   "Антрацит"
+  ],
+  "ru": [
+   "Антрацит"
+  ],
+  "type": "town",
+  "admin1": "Luhansk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "also = anthracite (coal)"
+ },
+ {
+  "country": "UA",
+  "en": "Rovenky",
+  "latin": [
+   "Rovenki"
+  ],
+  "uk": [
+   "Ровеньки"
+  ],
+  "ru": [
+   "Ровеньки"
+  ],
+  "type": "town",
+  "admin1": "Luhansk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Stanytsia Luhanska",
+  "latin": [
+   "Stanitsa Luganskaya"
+  ],
+  "uk": [
+   "Станиця Луганська"
+  ],
+  "ru": [
+   "Станица Луганская"
+  ],
+  "type": "town",
+  "admin1": "Luhansk Oblast",
+  "lat": 48.65,
+  "lon": 39.49,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Shchastia",
+  "latin": [
+   "Schastye",
+   "Shchastya"
+  ],
+  "uk": [
+   "Щастя"
+  ],
+  "ru": [
+   "Счастье"
+  ],
+  "type": "town",
+  "admin1": "Luhansk Oblast",
+  "lat": 48.74,
+  "lon": 39.23,
+  "confidence": "medium",
+  "notes": "also = happiness (generic)"
+ },
+ {
+  "country": "UA",
+  "en": "Svatove",
+  "latin": [
+   "Svatovo"
+  ],
+  "uk": [
+   "Сватове"
+  ],
+  "ru": [
+   "Сватово"
+  ],
+  "type": "town",
+  "admin1": "Luhansk Oblast",
+  "lat": 49.41,
+  "lon": 38.16,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Kreminna",
+  "latin": [
+   "Kremennaya"
+  ],
+  "uk": [
+   "Кремінна"
+  ],
+  "ru": [
+   "Кременная"
+  ],
+  "type": "town",
+  "admin1": "Luhansk Oblast",
+  "lat": 49.05,
+  "lon": 38.22,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Starobilsk",
+  "latin": [
+   "Starobelsk"
+  ],
+  "uk": [
+   "Старобільськ"
+  ],
+  "ru": [
+   "Старобельск"
+  ],
+  "type": "town",
+  "admin1": "Luhansk Oblast",
+  "lat": 49.28,
+  "lon": 38.91,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Bilohorivka",
+  "latin": [
+   "Belogorovka"
+  ],
+  "uk": [
+   "Білогорівка"
+  ],
+  "ru": [
+   "Белогоровка"
+  ],
+  "type": "village",
+  "admin1": "Luhansk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "name shared by more than one village"
+ },
+ {
+  "country": "UA",
+  "en": "Zolote",
+  "latin": [
+   "Zolotoye"
+  ],
+  "uk": [
+   "Золоте"
+  ],
+  "ru": [
+   "Золотое"
+  ],
+  "type": "town",
+  "admin1": "Luhansk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "also = golden (generic)"
+ },
+ {
+  "country": "UA",
+  "en": "Hirske",
+  "latin": [
+   "Gorskoye"
+  ],
+  "uk": [
+   "Гірське"
+  ],
+  "ru": [
+   "Горское"
+  ],
+  "type": "town",
+  "admin1": "Luhansk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Sievierodonetsk Azot plant",
+  "latin": [
+   "Azot plant",
+   "Azot"
+  ],
+  "uk": [
+   "завод Азот",
+   "Азот"
+  ],
+  "ru": [
+   "завод Азот",
+   "Азот"
+  ],
+  "type": "plant",
+  "admin1": "Luhansk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "civilians sheltered here in 2022 battle; 'азот' = nitrogen"
+ },
+ {
+  "country": "UA",
+  "en": "Kramatorsk",
+  "latin": [
+   "Kramatorsk"
+  ],
+  "uk": [
+   "Краматорськ"
+  ],
+  "ru": [
+   "Краматорск"
+  ],
+  "type": "city",
+  "admin1": "Donetsk Oblast",
+  "lat": 48.73,
+  "lon": 37.56,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Kramatorsk railway station",
+  "latin": [
+   "Kramatorsk station"
+  ],
+  "uk": [
+   "вокзал Краматорська",
+   "вокзал у Краматорську",
+   "залізничний вокзал Краматорськ"
+  ],
+  "ru": [
+   "вокзал Краматорска",
+   "вокзал в Краматорске",
+   "ж/д вокзал Краматорск"
+  ],
+  "type": "landmark",
+  "admin1": "Donetsk Oblast",
+  "lat": 48.73,
+  "lon": 37.56,
+  "confidence": "medium",
+  "notes": "Tochka-U cluster strike, 8 April 2022"
+ },
+ {
+  "country": "UA",
+  "en": "Sloviansk",
+  "latin": [
+   "Slavyansk",
+   "Slovyansk",
+   "Slaviansk"
+  ],
+  "uk": [
+   "Слов'янськ",
+   "Словʼянськ"
+  ],
+  "ru": [
+   "Славянск"
+  ],
+  "type": "city",
+  "admin1": "Donetsk Oblast",
+  "lat": 48.85,
+  "lon": 37.6,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Kostiantynivka",
+  "latin": [
+   "Konstantinovka",
+   "Kostyantynivka"
+  ],
+  "uk": [
+   "Костянтинівка"
+  ],
+  "ru": [
+   "Константиновка"
+  ],
+  "type": "city",
+  "admin1": "Donetsk Oblast",
+  "lat": 48.53,
+  "lon": 37.71,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Druzhkivka",
+  "latin": [
+   "Druzhkovka"
+  ],
+  "uk": [
+   "Дружківка"
+  ],
+  "ru": [
+   "Дружковка"
+  ],
+  "type": "town",
+  "admin1": "Donetsk Oblast",
+  "lat": 48.62,
+  "lon": 37.53,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Sviatohirsk",
+  "latin": [
+   "Svyatogorsk",
+   "Sviatohirsk"
+  ],
+  "uk": [
+   "Святогірськ",
+   "Святогірська лавра"
+  ],
+  "ru": [
+   "Святогорск",
+   "Святогорская лавра"
+  ],
+  "type": "town",
+  "admin1": "Donetsk Oblast",
+  "lat": 49.03,
+  "lon": 37.57,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Siversk",
+  "latin": [
+   "Seversk"
+  ],
+  "uk": [
+   "Сіверськ"
+  ],
+  "ru": [
+   "Северск"
+  ],
+  "type": "town",
+  "admin1": "Donetsk Oblast",
+  "lat": 48.87,
+  "lon": 38.1,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Soledar",
+  "latin": [
+   "Soledar"
+  ],
+  "uk": [
+   "Соледар"
+  ],
+  "ru": [
+   "Соледар"
+  ],
+  "type": "town",
+  "admin1": "Donetsk Oblast",
+  "lat": 48.68,
+  "lon": 38.09,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Chasiv Yar",
+  "latin": [
+   "Chasov Yar",
+   "Chasiv Iar"
+  ],
+  "uk": [
+   "Часів Яр"
+  ],
+  "ru": [
+   "Часов Яр"
+  ],
+  "type": "town",
+  "admin1": "Donetsk Oblast",
+  "lat": 48.59,
+  "lon": 37.84,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Klishchiivka",
+  "latin": [
+   "Kleshcheevka",
+   "Klishchiyivka"
+  ],
+  "uk": [
+   "Кліщіївка"
+  ],
+  "ru": [
+   "Клещеевка"
+  ],
+  "type": "village",
+  "admin1": "Donetsk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Andriivka (Bakhmut raion)",
+  "latin": [
+   "Andreevka",
+   "Andriyivka"
+  ],
+  "uk": [
+   "Андріївка"
+  ],
+  "ru": [
+   "Андреевка"
+  ],
+  "type": "village",
+  "admin1": "Donetsk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "very common village name; disambiguate by context"
+ },
+ {
+  "country": "UA",
+  "en": "Ivanivske (Bakhmut raion)",
+  "latin": [
+   "Ivanovskoye",
+   "Ivanivske"
+  ],
+  "uk": [
+   "Іванівське"
+  ],
+  "ru": [
+   "Ивановское"
+  ],
+  "type": "village",
+  "admin1": "Donetsk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "common village name"
+ },
+ {
+  "country": "UA",
+  "en": "Opytne",
+  "latin": [
+   "Opytnoye"
+  ],
+  "uk": [
+   "Опитне"
+  ],
+  "ru": [
+   "Опытное"
+  ],
+  "type": "village",
+  "admin1": "Donetsk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "also = experimental (generic)"
+ },
+ {
+  "country": "UA",
+  "en": "Pisky",
+  "latin": [
+   "Peski"
+  ],
+  "uk": [
+   "Піски"
+  ],
+  "ru": [
+   "Пески"
+  ],
+  "type": "village",
+  "admin1": "Donetsk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "also = sands (generic)"
+ },
+ {
+  "country": "UA",
+  "en": "Avdiivka",
+  "latin": [
+   "Avdeevka",
+   "Avdeyevka",
+   "Avdiyivka"
+  ],
+  "uk": [
+   "Авдіївка"
+  ],
+  "ru": [
+   "Авдеевка"
+  ],
+  "type": "town",
+  "admin1": "Donetsk Oblast",
+  "lat": 48.14,
+  "lon": 37.75,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Avdiivka Coke Plant",
+  "latin": [
+   "Avdiivka coke plant",
+   "AKHZ",
+   "Avdeevka coke and chemical plant"
+  ],
+  "uk": [
+   "Авдіївський коксохімічний завод",
+   "Авдіївський коксохім",
+   "АКХЗ",
+   "коксохім"
+  ],
+  "ru": [
+   "Авдеевский коксохимический завод",
+   "Авдеевский коксохим",
+   "АКХЗ",
+   "коксохим"
+  ],
+  "type": "plant",
+  "admin1": "Donetsk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Donetsk Airport",
+  "latin": [
+   "Donetsk airport",
+   "Prokofiev airport"
+  ],
+  "uk": [
+   "Донецький аеропорт",
+   "ДАП"
+  ],
+  "ru": [
+   "Донецкий аэропорт",
+   "аэропорт Донецка"
+  ],
+  "type": "airport",
+  "admin1": "Donetsk Oblast",
+  "lat": 48.07,
+  "lon": 37.74,
+  "confidence": "medium",
+  "notes": "2014–15 battle ('cyborgs')"
+ },
+ {
+  "country": "UA",
+  "en": "Marinka",
+  "latin": [
+   "Maryinka",
+   "Marinka",
+   "Mar'inka"
+  ],
+  "uk": [
+   "Мар'їнка",
+   "Марʼїнка"
+  ],
+  "ru": [
+   "Марьинка"
+  ],
+  "type": "town",
+  "admin1": "Donetsk Oblast",
+  "lat": 47.94,
+  "lon": 37.5,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Vuhledar",
+  "latin": [
+   "Ugledar",
+   "Vuhledar"
+  ],
+  "uk": [
+   "Вугледар"
+  ],
+  "ru": [
+   "Угледар"
+  ],
+  "type": "town",
+  "admin1": "Donetsk Oblast",
+  "lat": 47.78,
+  "lon": 37.25,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Kurakhove",
+  "latin": [
+   "Kurakhovo"
+  ],
+  "uk": [
+   "Курахове"
+  ],
+  "ru": [
+   "Курахово"
+  ],
+  "type": "town",
+  "admin1": "Donetsk Oblast",
+  "lat": 47.98,
+  "lon": 37.28,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Selydove",
+  "latin": [
+   "Selidovo"
+  ],
+  "uk": [
+   "Селидове"
+  ],
+  "ru": [
+   "Селидово"
+  ],
+  "type": "town",
+  "admin1": "Donetsk Oblast",
+  "lat": 48.15,
+  "lon": 37.3,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Novohrodivka",
+  "latin": [
+   "Novogrodovka"
+  ],
+  "uk": [
+   "Новогродівка"
+  ],
+  "ru": [
+   "Новогродовка"
+  ],
+  "type": "town",
+  "admin1": "Donetsk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Ocheretyne",
+  "latin": [
+   "Ocheretino"
+  ],
+  "uk": [
+   "Очеретине"
+  ],
+  "ru": [
+   "Очеретино"
+  ],
+  "type": "village",
+  "admin1": "Donetsk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Krasnohorivka",
+  "latin": [
+   "Krasnogorovka"
+  ],
+  "uk": [
+   "Красногорівка"
+  ],
+  "ru": [
+   "Красногоровка"
+  ],
+  "type": "town",
+  "admin1": "Donetsk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Velyka Novosilka",
+  "latin": [
+   "Velikaya Novoselka",
+   "Velyka Novosilka"
+  ],
+  "uk": [
+   "Велика Новосілка"
+  ],
+  "ru": [
+   "Великая Новоселка"
+  ],
+  "type": "town",
+  "admin1": "Donetsk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Dobropillia",
+  "latin": [
+   "Dobropolye",
+   "Dobropillya"
+  ],
+  "uk": [
+   "Добропілля"
+  ],
+  "ru": [
+   "Доброполье"
+  ],
+  "type": "town",
+  "admin1": "Donetsk Oblast",
+  "lat": 48.47,
+  "lon": 37.08,
+  "confidence": "medium",
+  "notes": "not renamed"
+ },
+ {
+  "country": "UA",
+  "en": "Shyrokyne",
+  "latin": [
+   "Shirokino"
+  ],
+  "uk": [
+   "Широкине"
+  ],
+  "ru": [
+   "Широкино"
+  ],
+  "type": "village",
+  "admin1": "Donetsk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Savur-Mohyla",
+  "latin": [
+   "Saur-Mogila",
+   "Savur-Mohyla"
+  ],
+  "uk": [
+   "Савур-Могила"
+  ],
+  "ru": [
+   "Саур-Могила"
+  ],
+  "type": "landmark",
+  "admin1": "Donetsk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "hill and memorial, 2014 battle"
+ },
+ {
+  "country": "UA",
+  "en": "Manhush",
+  "latin": [
+   "Mangush",
+   "Manhush"
+  ],
+  "uk": [
+   "Мангуш"
+  ],
+  "ru": [
+   "Мангуш"
+  ],
+  "type": "village",
+  "admin1": "Donetsk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "mass graves of Mariupol victims (2022)"
+ },
+ {
+  "country": "UA",
+  "en": "Azovstal",
+  "latin": [
+   "Azovstal",
+   "Azovstal steel plant"
+  ],
+  "uk": [
+   "Азовсталь",
+   "Азовсталі"
+  ],
+  "ru": [
+   "Азовсталь",
+   "Азовстали"
+  ],
+  "type": "plant",
+  "admin1": "Donetsk Oblast",
+  "lat": 47.1,
+  "lon": 37.61,
+  "confidence": "medium",
+  "notes": "Mariupol steelworks, 2022 siege"
+ },
+ {
+  "country": "UA",
+  "en": "Mariupol Drama Theatre",
+  "latin": [
+   "Mariupol theatre",
+   "Drama Theater",
+   "Mariupol theater"
+  ],
+  "uk": [
+   "Драмтеатр",
+   "драматичний театр",
+   "драмтеатру"
+  ],
+  "ru": [
+   "Драмтеатр",
+   "драматический театр",
+   "драмтеатра"
+  ],
+  "type": "landmark",
+  "admin1": "Donetsk Oblast",
+  "lat": 47.095,
+  "lon": 37.55,
+  "confidence": "medium",
+  "notes": "bombed 16 March 2022 while sheltering civilians"
+ },
+ {
+  "country": "UA",
+  "en": "Ilyich Iron and Steel Works",
+  "latin": [
+   "Ilyich steel plant",
+   "Illich plant",
+   "MMK Illich"
+  ],
+  "uk": [
+   "комбінат Ілліча",
+   "ММК ім. Ілліча",
+   "завод Ілліча"
+  ],
+  "ru": [
+   "комбинат Ильича",
+   "ММК им. Ильича",
+   "завод Ильича"
+  ],
+  "type": "plant",
+  "admin1": "Donetsk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "Mariupol steelworks, 2022 siege"
+ },
+ {
+  "country": "UA",
+  "en": "Kharkiv",
+  "latin": [
+   "Kharkov",
+   "Kharkiv",
+   "Charkiw"
+  ],
+  "uk": [
+   "Харків",
+   "Харкові"
+  ],
+  "ru": [
+   "Харьков",
+   "Харькове"
+  ],
+  "type": "city",
+  "admin1": "Kharkiv Oblast",
+  "lat": 49.99,
+  "lon": 36.23,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Saltivka",
+  "latin": [
+   "Saltovka",
+   "Pivnichna Saltivka"
+  ],
+  "uk": [
+   "Салтівка",
+   "Північна Салтівка"
+  ],
+  "ru": [
+   "Салтовка",
+   "Северная Салтовка"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Kharkiv Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "heavily shelled Kharkiv district"
+ },
+ {
+  "country": "UA",
+  "en": "Izium",
+  "latin": [
+   "Izyum",
+   "Izium"
+  ],
+  "uk": [
+   "Ізюм"
+  ],
+  "ru": [
+   "Изюм"
+  ],
+  "type": "town",
+  "admin1": "Kharkiv Oblast",
+  "lat": 49.21,
+  "lon": 37.26,
+  "confidence": "high",
+  "notes": "mass burial site found Sept 2022; 'изюм' also = raisins"
+ },
+ {
+  "country": "UA",
+  "en": "Kupiansk",
+  "latin": [
+   "Kupyansk",
+   "Kupiansk"
+  ],
+  "uk": [
+   "Куп'янськ",
+   "Купʼянськ"
+  ],
+  "ru": [
+   "Купянск"
+  ],
+  "type": "town",
+  "admin1": "Kharkiv Oblast",
+  "lat": 49.71,
+  "lon": 37.61,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Kupiansk-Vuzlovyi",
+  "latin": [
+   "Kupyansk-Uzlovoy",
+   "Kupiansk-Vuzlovyi"
+  ],
+  "uk": [
+   "Куп'янськ-Вузловий"
+  ],
+  "ru": [
+   "Купянск-Узловой"
+  ],
+  "type": "town",
+  "admin1": "Kharkiv Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Balakliia",
+  "latin": [
+   "Balakleya",
+   "Balakliya"
+  ],
+  "uk": [
+   "Балаклія"
+  ],
+  "ru": [
+   "Балаклея"
+  ],
+  "type": "town",
+  "admin1": "Kharkiv Oblast",
+  "lat": 49.46,
+  "lon": 36.86,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Chuhuiv",
+  "latin": [
+   "Chuguev",
+   "Chuhuiv"
+  ],
+  "uk": [
+   "Чугуїв"
+  ],
+  "ru": [
+   "Чугуев"
+  ],
+  "type": "town",
+  "admin1": "Kharkiv Oblast",
+  "lat": 49.84,
+  "lon": 36.69,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Vovchansk",
+  "latin": [
+   "Volchansk",
+   "Vovchansk"
+  ],
+  "uk": [
+   "Вовчанськ"
+  ],
+  "ru": [
+   "Волчанск"
+  ],
+  "type": "town",
+  "admin1": "Kharkiv Oblast",
+  "lat": 50.29,
+  "lon": 36.94,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Lyptsi",
+  "latin": [
+   "Liptsy"
+  ],
+  "uk": [
+   "Липці"
+  ],
+  "ru": [
+   "Липцы"
+  ],
+  "type": "village",
+  "admin1": "Kharkiv Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Hroza",
+  "latin": [
+   "Groza",
+   "Hroza"
+  ],
+  "uk": [
+   "Гроза"
+  ],
+  "ru": [
+   "Гроза"
+  ],
+  "type": "village",
+  "admin1": "Kharkiv Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "Oct 2023 Iskander strike on a wake killed 59; 'гроза' also = thunderstorm"
+ },
+ {
+  "country": "UA",
+  "en": "Lozova",
+  "latin": [
+   "Lozovaya"
+  ],
+  "uk": [
+   "Лозова"
+  ],
+  "ru": [
+   "Лозовая"
+  ],
+  "type": "town",
+  "admin1": "Kharkiv Oblast",
+  "lat": 48.89,
+  "lon": 36.32,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Kozacha Lopan",
+  "latin": [
+   "Kazachya Lopan"
+  ],
+  "uk": [
+   "Козача Лопань"
+  ],
+  "ru": [
+   "Казачья Лопань"
+  ],
+  "type": "village",
+  "admin1": "Kharkiv Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "occupation-era torture site 2022"
+ },
+ {
+  "country": "UA",
+  "en": "Bucha",
+  "latin": [
+   "Bucha",
+   "Butscha"
+  ],
+  "uk": [
+   "Буча",
+   "Бучі"
+  ],
+  "ru": [
+   "Буча",
+   "Буче"
+  ],
+  "type": "town",
+  "admin1": "Kyiv Oblast",
+  "lat": 50.54,
+  "lon": 30.22,
+  "confidence": "high",
+  "notes": "March 2022 massacre"
+ },
+ {
+  "country": "UA",
+  "en": "Yablunska Street (Bucha)",
+  "latin": [
+   "Yablunska street",
+   "Yablonskaya"
+  ],
+  "uk": [
+   "вулиця Яблунська",
+   "Яблунська",
+   "Яблунській"
+  ],
+  "ru": [
+   "улица Яблунская",
+   "Яблонская",
+   "Яблунской"
+  ],
+  "type": "road",
+  "admin1": "Kyiv Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "site of many Bucha killings"
+ },
+ {
+  "country": "UA",
+  "en": "Irpin",
+  "latin": [
+   "Irpen",
+   "Irpin"
+  ],
+  "uk": [
+   "Ірпінь",
+   "Ірпені"
+  ],
+  "ru": [
+   "Ирпень",
+   "Ирпене"
+  ],
+  "type": "town",
+  "admin1": "Kyiv Oblast",
+  "lat": 50.52,
+  "lon": 30.25,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Romanivskyi Bridge (Irpin)",
+  "latin": [
+   "Irpin bridge",
+   "Romanivskyi bridge"
+  ],
+  "uk": [
+   "Романівський міст",
+   "ірпінський міст"
+  ],
+  "ru": [
+   "Романовский мост",
+   "ирпенский мост"
+  ],
+  "type": "bridge",
+  "admin1": "Kyiv Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": "evacuation route shelled March 2022"
+ },
+ {
+  "country": "UA",
+  "en": "Hostomel",
+  "latin": [
+   "Gostomel",
+   "Hostomel"
+  ],
+  "uk": [
+   "Гостомель"
+  ],
+  "ru": [
+   "Гостомель"
+  ],
+  "type": "town",
+  "admin1": "Kyiv Oblast",
+  "lat": 50.58,
+  "lon": 30.26,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Hostomel (Antonov) Airport",
+  "latin": [
+   "Antonov Airport",
+   "Hostomel airport",
+   "Gostomel airfield"
+  ],
+  "uk": [
+   "аеропорт Гостомель",
+   "аеропорт Антонов",
+   "аеродром Гостомель"
+  ],
+  "ru": [
+   "аэропорт Гостомель",
+   "аэропорт Антонов",
+   "аэродром Гостомель"
+  ],
+  "type": "airport",
+  "admin1": "Kyiv Oblast",
+  "lat": 50.6,
+  "lon": 30.19,
+  "confidence": "medium",
+  "notes": "VDV assault, 24 Feb 2022"
+ },
+ {
+  "country": "UA",
+  "en": "Borodianka",
+  "latin": [
+   "Borodyanka",
+   "Borodianka"
+  ],
+  "uk": [
+   "Бородянка"
+  ],
+  "ru": [
+   "Бородянка"
+  ],
+  "type": "town",
+  "admin1": "Kyiv Oblast",
+  "lat": 50.65,
+  "lon": 29.92,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Motyzhyn",
+  "latin": [
+   "Motyzhin",
+   "Motyzhyn"
+  ],
+  "uk": [
+   "Мотижин"
+  ],
+  "ru": [
+   "Мотыжин"
+  ],
+  "type": "village",
+  "admin1": "Kyiv Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "village head and family killed, 2022"
+ },
+ {
+  "country": "UA",
+  "en": "Vorzel",
+  "latin": [
+   "Vorzel"
+  ],
+  "uk": [
+   "Ворзель"
+  ],
+  "ru": [
+   "Ворзель"
+  ],
+  "type": "town",
+  "admin1": "Kyiv Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Makariv",
+  "latin": [
+   "Makarov",
+   "Makariv"
+  ],
+  "uk": [
+   "Макарів"
+  ],
+  "ru": [
+   "Макаров"
+  ],
+  "type": "town",
+  "admin1": "Kyiv Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "ru 'Макаров' also a surname / pistol"
+ },
+ {
+  "country": "UA",
+  "en": "Brovary",
+  "latin": [
+   "Brovary"
+  ],
+  "uk": [
+   "Бровари"
+  ],
+  "ru": [
+   "Бровары"
+  ],
+  "type": "city",
+  "admin1": "Kyiv Oblast",
+  "lat": 50.51,
+  "lon": 30.79,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Chornobyl",
+  "latin": [
+   "Chernobyl",
+   "Chornobyl"
+  ],
+  "uk": [
+   "Чорнобиль"
+  ],
+  "ru": [
+   "Чернобыль"
+  ],
+  "type": "town",
+  "admin1": "Kyiv Oblast",
+  "lat": 51.27,
+  "lon": 30.22,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Chernihiv",
+  "latin": [
+   "Chernigov",
+   "Chernihiv"
+  ],
+  "uk": [
+   "Чернігів"
+  ],
+  "ru": [
+   "Чернигов"
+  ],
+  "type": "city",
+  "admin1": "Chernihiv Oblast",
+  "lat": 51.49,
+  "lon": 31.29,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Yahidne",
+  "latin": [
+   "Yagidne",
+   "Yahidne",
+   "Yagodnoye"
+  ],
+  "uk": [
+   "Ягідне"
+  ],
+  "ru": [
+   "Ягодное"
+  ],
+  "type": "village",
+  "admin1": "Chernihiv Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "~360 residents held in a school basement, March 2022"
+ },
+ {
+  "country": "UA",
+  "en": "Sumy",
+  "latin": [
+   "Sumy"
+  ],
+  "uk": [
+   "Суми",
+   "Сумах"
+  ],
+  "ru": [
+   "Сумы",
+   "Сумах"
+  ],
+  "type": "city",
+  "admin1": "Sumy Oblast",
+  "lat": 50.91,
+  "lon": 34.8,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Trostianets",
+  "latin": [
+   "Trostyanets",
+   "Trostianets"
+  ],
+  "uk": [
+   "Тростянець"
+  ],
+  "ru": [
+   "Тростянец"
+  ],
+  "type": "town",
+  "admin1": "Sumy Oblast",
+  "lat": 50.48,
+  "lon": 34.97,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Okhtyrka",
+  "latin": [
+   "Akhtyrka",
+   "Okhtyrka"
+  ],
+  "uk": [
+   "Охтирка"
+  ],
+  "ru": [
+   "Ахтырка"
+  ],
+  "type": "town",
+  "admin1": "Sumy Oblast",
+  "lat": 50.31,
+  "lon": 34.9,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Konotop",
+  "latin": [
+   "Konotop"
+  ],
+  "uk": [
+   "Конотоп"
+  ],
+  "ru": [
+   "Конотоп"
+  ],
+  "type": "town",
+  "admin1": "Sumy Oblast",
+  "lat": 51.24,
+  "lon": 33.2,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Kherson",
+  "latin": [
+   "Kherson",
+   "Cherson"
+  ],
+  "uk": [
+   "Херсон"
+  ],
+  "ru": [
+   "Херсон"
+  ],
+  "type": "city",
+  "admin1": "Kherson Oblast",
+  "lat": 46.64,
+  "lon": 32.61,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Nova Kakhovka",
+  "latin": [
+   "Novaya Kakhovka",
+   "Nova Kakhovka"
+  ],
+  "uk": [
+   "Нова Каховка"
+  ],
+  "ru": [
+   "Новая Каховка"
+  ],
+  "type": "town",
+  "admin1": "Kherson Oblast",
+  "lat": 46.75,
+  "lon": 33.37,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Kakhovka Dam (Kakhovka HPP)",
+  "latin": [
+   "Kakhovka dam",
+   "Kakhovka hydroelectric plant",
+   "Nova Kakhovka dam"
+  ],
+  "uk": [
+   "Каховська ГЕС",
+   "Каховської ГЕС",
+   "Каховська гребля",
+   "Каховської греблі"
+  ],
+  "ru": [
+   "Каховская ГЭС",
+   "Каховской ГЭС",
+   "Каховская плотина",
+   "Каховской плотины"
+  ],
+  "type": "plant",
+  "admin1": "Kherson Oblast",
+  "lat": 46.78,
+  "lon": 33.37,
+  "confidence": "medium",
+  "notes": "destroyed 6 June 2023"
+ },
+ {
+  "country": "UA",
+  "en": "Kakhovka Reservoir",
+  "latin": [
+   "Kakhovka reservoir",
+   "Kakhovske reservoir"
+  ],
+  "uk": [
+   "Каховське водосховище",
+   "Каховського водосховища"
+  ],
+  "ru": [
+   "Каховское водохранилище",
+   "Каховского водохранилища"
+  ],
+  "type": "river",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "drained after dam destruction 2023"
+ },
+ {
+  "country": "UA",
+  "en": "Kakhovka",
+  "latin": [
+   "Kakhovka"
+  ],
+  "uk": [
+   "Каховка"
+  ],
+  "ru": [
+   "Каховка"
+  ],
+  "type": "town",
+  "admin1": "Kherson Oblast",
+  "lat": 46.81,
+  "lon": 33.48,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Krynky",
+  "latin": [
+   "Krinki",
+   "Krynky"
+  ],
+  "uk": [
+   "Кринки"
+  ],
+  "ru": [
+   "Крынки"
+  ],
+  "type": "village",
+  "admin1": "Kherson Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "left-bank Dnipro bridgehead 2023–24"
+ },
+ {
+  "country": "UA",
+  "en": "Antonivskyi Bridge",
+  "latin": [
+   "Antonovsky bridge",
+   "Antonivskyi bridge"
+  ],
+  "uk": [
+   "Антонівський міст",
+   "Антонівського мосту"
+  ],
+  "ru": [
+   "Антоновский мост",
+   "Антоновского моста"
+  ],
+  "type": "bridge",
+  "admin1": "Kherson Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Chornobaivka",
+  "latin": [
+   "Chernobaevka",
+   "Chornobaivka"
+  ],
+  "uk": [
+   "Чорнобаївка"
+  ],
+  "ru": [
+   "Чернобаевка"
+  ],
+  "type": "airport",
+  "admin1": "Kherson Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "Kherson airport/airbase, repeatedly struck 2022"
+ },
+ {
+  "country": "UA",
+  "en": "Beryslav",
+  "latin": [
+   "Berislav"
+  ],
+  "uk": [
+   "Берислав"
+  ],
+  "ru": [
+   "Берислав"
+  ],
+  "type": "town",
+  "admin1": "Kherson Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Hola Prystan",
+  "latin": [
+   "Golaya Pristan",
+   "Hola Prystan"
+  ],
+  "uk": [
+   "Гола Пристань"
+  ],
+  "ru": [
+   "Голая Пристань"
+  ],
+  "type": "town",
+  "admin1": "Kherson Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Skadovsk",
+  "latin": [
+   "Skadovsk"
+  ],
+  "uk": [
+   "Скадовськ"
+  ],
+  "ru": [
+   "Скадовск"
+  ],
+  "type": "town",
+  "admin1": "Kherson Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Henichesk",
+  "latin": [
+   "Genichesk",
+   "Henichesk"
+  ],
+  "uk": [
+   "Генічеськ"
+  ],
+  "ru": [
+   "Геническ"
+  ],
+  "type": "town",
+  "admin1": "Kherson Oblast",
+  "lat": 46.17,
+  "lon": 34.81,
+  "confidence": "medium",
+  "notes": "Russian occupation 'capital' of Kherson region after Nov 2022"
+ },
+ {
+  "country": "UA",
+  "en": "Chonhar",
+  "latin": [
+   "Chongar",
+   "Chonhar"
+  ],
+  "uk": [
+   "Чонгар",
+   "Чонгарський міст"
+  ],
+  "ru": [
+   "Чонгар",
+   "Чонгарский мост"
+  ],
+  "type": "bridge",
+  "admin1": "Kherson Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "road link to Crimea"
+ },
+ {
+  "country": "UA",
+  "en": "Crimean Bridge (Kerch Bridge)",
+  "latin": [
+   "Kerch bridge",
+   "Crimean bridge",
+   "Kerch Strait bridge"
+  ],
+  "uk": [
+   "Кримський міст",
+   "Керченський міст"
+  ],
+  "ru": [
+   "Крымский мост",
+   "Керченский мост"
+  ],
+  "type": "bridge",
+  "admin1": "Crimea",
+  "lat": 45.3,
+  "lon": 36.51,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Kerch",
+  "latin": [
+   "Kerch"
+  ],
+  "uk": [
+   "Керч"
+  ],
+  "ru": [
+   "Керчь"
+  ],
+  "type": "city",
+  "admin1": "Crimea",
+  "lat": 45.36,
+  "lon": 36.47,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Simferopol",
+  "latin": [
+   "Simferopol"
+  ],
+  "uk": [
+   "Сімферополь"
+  ],
+  "ru": [
+   "Симферополь"
+  ],
+  "type": "city",
+  "admin1": "Crimea",
+  "lat": 44.95,
+  "lon": 34.1,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Dzhankoi",
+  "latin": [
+   "Dzhankoy",
+   "Dzhankoi"
+  ],
+  "uk": [
+   "Джанкой"
+  ],
+  "ru": [
+   "Джанкой"
+  ],
+  "type": "town",
+  "admin1": "Crimea",
+  "lat": 45.71,
+  "lon": 34.39,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Saky airbase",
+  "latin": [
+   "Saki airbase",
+   "Novofedorivka airbase",
+   "Saky"
+  ],
+  "uk": [
+   "аеродром Саки",
+   "Саки"
+  ],
+  "ru": [
+   "аэродром Саки",
+   "Саки"
+  ],
+  "type": "military",
+  "admin1": "Crimea",
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Belbek airbase",
+  "latin": [
+   "Belbek"
+  ],
+  "uk": [
+   "Бельбек"
+  ],
+  "ru": [
+   "Бельбек"
+  ],
+  "type": "military",
+  "admin1": "Crimea",
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Zaporizhzhia",
+  "latin": [
+   "Zaporozhye",
+   "Zaporizhia",
+   "Zaporozhe",
+   "Zaporizhzhya"
+  ],
+  "uk": [
+   "Запоріжжя"
+  ],
+  "ru": [
+   "Запорожье"
+  ],
+  "type": "city",
+  "admin1": "Zaporizhzhia Oblast",
+  "lat": 47.84,
+  "lon": 35.14,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Zaporizhzhia Nuclear Power Plant",
+  "latin": [
+   "ZNPP",
+   "Zaporizhzhia NPP",
+   "Zaporozhye NPP"
+  ],
+  "uk": [
+   "Запорізька АЕС",
+   "ЗАЕС",
+   "Запорізької АЕС"
+  ],
+  "ru": [
+   "Запорожская АЭС",
+   "ЗАЭС",
+   "Запорожской АЭС"
+  ],
+  "type": "plant",
+  "admin1": "Zaporizhzhia Oblast",
+  "lat": 47.51,
+  "lon": 34.59,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Enerhodar",
+  "latin": [
+   "Energodar",
+   "Enerhodar"
+  ],
+  "uk": [
+   "Енергодар"
+  ],
+  "ru": [
+   "Энергодар"
+  ],
+  "type": "town",
+  "admin1": "Zaporizhzhia Oblast",
+  "lat": 47.5,
+  "lon": 34.66,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Melitopol",
+  "latin": [
+   "Melitopol"
+  ],
+  "uk": [
+   "Мелітополь"
+  ],
+  "ru": [
+   "Мелитополь"
+  ],
+  "type": "city",
+  "admin1": "Zaporizhzhia Oblast",
+  "lat": 46.85,
+  "lon": 35.37,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Berdiansk",
+  "latin": [
+   "Berdyansk",
+   "Berdiansk"
+  ],
+  "uk": [
+   "Бердянськ"
+  ],
+  "ru": [
+   "Бердянск"
+  ],
+  "type": "city",
+  "admin1": "Zaporizhzhia Oblast",
+  "lat": 46.76,
+  "lon": 36.79,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Tokmak",
+  "latin": [
+   "Tokmak"
+  ],
+  "uk": [
+   "Токмак"
+  ],
+  "ru": [
+   "Токмак"
+  ],
+  "type": "town",
+  "admin1": "Zaporizhzhia Oblast",
+  "lat": 47.25,
+  "lon": 35.71,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Robotyne",
+  "latin": [
+   "Rabotino",
+   "Robotyne"
+  ],
+  "uk": [
+   "Работине"
+  ],
+  "ru": [
+   "Работино"
+  ],
+  "type": "village",
+  "admin1": "Zaporizhzhia Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "2023 counteroffensive"
+ },
+ {
+  "country": "UA",
+  "en": "Verbove",
+  "latin": [
+   "Verbovoye",
+   "Verbove"
+  ],
+  "uk": [
+   "Вербове"
+  ],
+  "ru": [
+   "Вербовое"
+  ],
+  "type": "village",
+  "admin1": "Zaporizhzhia Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Orikhiv",
+  "latin": [
+   "Orekhov",
+   "Orikhiv"
+  ],
+  "uk": [
+   "Оріхів"
+  ],
+  "ru": [
+   "Орехов"
+  ],
+  "type": "town",
+  "admin1": "Zaporizhzhia Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Huliaipole",
+  "latin": [
+   "Gulyaipole",
+   "Huliaipole"
+  ],
+  "uk": [
+   "Гуляйполе"
+  ],
+  "ru": [
+   "Гуляйполе"
+  ],
+  "type": "town",
+  "admin1": "Zaporizhzhia Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Vasylivka",
+  "latin": [
+   "Vasilyevka",
+   "Vasylivka"
+  ],
+  "uk": [
+   "Василівка"
+  ],
+  "ru": [
+   "Васильевка"
+  ],
+  "type": "town",
+  "admin1": "Zaporizhzhia Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "occupation-line crossing point 2022–23"
+ },
+ {
+  "country": "UA",
+  "en": "Polohy",
+  "latin": [
+   "Pologi",
+   "Polohy"
+  ],
+  "uk": [
+   "Пологи"
+  ],
+  "ru": [
+   "Пологи"
+  ],
+  "type": "town",
+  "admin1": "Zaporizhzhia Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Kamianka-Dniprovska",
+  "latin": [
+   "Kamenka-Dneprovskaya"
+  ],
+  "uk": [
+   "Кам'янка-Дніпровська"
+  ],
+  "ru": [
+   "Каменка-Днепровская"
+  ],
+  "type": "town",
+  "admin1": "Zaporizhzhia Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Dniprorudne",
+  "latin": [
+   "Dneprorudny"
+  ],
+  "uk": [
+   "Дніпрорудне"
+  ],
+  "ru": [
+   "Днепрорудный"
+  ],
+  "type": "town",
+  "admin1": "Zaporizhzhia Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Mykolaiv",
+  "latin": [
+   "Nikolaev",
+   "Nikolayev",
+   "Mykolayiv"
+  ],
+  "uk": [
+   "Миколаїв"
+  ],
+  "ru": [
+   "Николаев"
+  ],
+  "type": "city",
+  "admin1": "Mykolaiv Oblast",
+  "lat": 46.97,
+  "lon": 32.0,
+  "confidence": "high",
+  "notes": "ru 'Николаев' also a common surname"
+ },
+ {
+  "country": "UA",
+  "en": "Ochakiv",
+  "latin": [
+   "Ochakov"
+  ],
+  "uk": [
+   "Очаків"
+  ],
+  "ru": [
+   "Очаков"
+  ],
+  "type": "town",
+  "admin1": "Mykolaiv Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Snihurivka",
+  "latin": [
+   "Snigirevka",
+   "Snihurivka"
+  ],
+  "uk": [
+   "Снігурівка"
+  ],
+  "ru": [
+   "Снигиревка"
+  ],
+  "type": "town",
+  "admin1": "Mykolaiv Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Odesa",
+  "latin": [
+   "Odessa",
+   "Odesa"
+  ],
+  "uk": [
+   "Одеса"
+  ],
+  "ru": [
+   "Одесса"
+  ],
+  "type": "city",
+  "admin1": "Odesa Oblast",
+  "lat": 46.48,
+  "lon": 30.73,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Snake Island",
+  "latin": [
+   "Zmiinyi Island",
+   "Zmeiny Island",
+   "Snake Island"
+  ],
+  "uk": [
+   "острів Зміїний",
+   "Зміїний"
+  ],
+  "ru": [
+   "остров Змеиный",
+   "Змеиный"
+  ],
+  "type": "landmark",
+  "admin1": "Odesa Oblast",
+  "lat": 45.26,
+  "lon": 30.2,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Bilhorod-Dnistrovskyi",
+  "latin": [
+   "Belgorod-Dnestrovsky",
+   "Akkerman"
+  ],
+  "uk": [
+   "Білгород-Дністровський"
+  ],
+  "ru": [
+   "Белгород-Днестровский"
+  ],
+  "type": "town",
+  "admin1": "Odesa Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Izmail",
+  "latin": [
+   "Izmail",
+   "Ismail"
+  ],
+  "uk": [
+   "Ізмаїл"
+  ],
+  "ru": [
+   "Измаил"
+  ],
+  "type": "town",
+  "admin1": "Odesa Oblast",
+  "lat": 45.35,
+  "lon": 28.84,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Kryvyi Rih",
+  "latin": [
+   "Krivoy Rog",
+   "Kryvyi Rih",
+   "Krivoi Rog"
+  ],
+  "uk": [
+   "Кривий Ріг",
+   "Кривому Розі"
+  ],
+  "ru": [
+   "Кривой Рог",
+   "Кривом Роге"
+  ],
+  "type": "city",
+  "admin1": "Dnipropetrovsk Oblast",
+  "lat": 47.91,
+  "lon": 33.39,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Nikopol",
+  "latin": [
+   "Nikopol"
+  ],
+  "uk": [
+   "Нікополь"
+  ],
+  "ru": [
+   "Никополь"
+  ],
+  "type": "city",
+  "admin1": "Dnipropetrovsk Oblast",
+  "lat": 47.57,
+  "lon": 34.4,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Marhanets",
+  "latin": [
+   "Marganets"
+  ],
+  "uk": [
+   "Марганець"
+  ],
+  "ru": [
+   "Марганец"
+  ],
+  "type": "town",
+  "admin1": "Dnipropetrovsk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "also = manganese"
+ },
+ {
+  "country": "UA",
+  "en": "Pavlohrad",
+  "latin": [
+   "Pavlograd"
+  ],
+  "uk": [
+   "Павлоград"
+  ],
+  "ru": [
+   "Павлоград"
+  ],
+  "type": "city",
+  "admin1": "Dnipropetrovsk Oblast",
+  "lat": 48.53,
+  "lon": 35.87,
+  "confidence": "medium"
+ },
+ {
+  "country": "UA",
+  "en": "Kremenchuk",
+  "latin": [
+   "Kremenchug",
+   "Kremenchuk"
+  ],
+  "uk": [
+   "Кременчук"
+  ],
+  "ru": [
+   "Кременчуг"
+  ],
+  "type": "city",
+  "admin1": "Poltava Oblast",
+  "lat": 49.07,
+  "lon": 33.42,
+  "confidence": "medium",
+  "notes": "Amstor shopping-centre strike, June 2022"
+ },
+ {
+  "country": "UA",
+  "en": "Poltava",
+  "latin": [
+   "Poltava"
+  ],
+  "uk": [
+   "Полтава"
+  ],
+  "ru": [
+   "Полтава"
+  ],
+  "type": "city",
+  "admin1": "Poltava Oblast",
+  "lat": 49.59,
+  "lon": 34.55,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Vinnytsia",
+  "latin": [
+   "Vinnitsa",
+   "Vinnytsia",
+   "Vinnytsya"
+  ],
+  "uk": [
+   "Вінниця"
+  ],
+  "ru": [
+   "Винница"
+  ],
+  "type": "city",
+  "admin1": "Vinnytsia Oblast",
+  "lat": 49.23,
+  "lon": 28.47,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Cherkasy",
+  "latin": [
+   "Cherkassy",
+   "Cherkasy"
+  ],
+  "uk": [
+   "Черкаси"
+  ],
+  "ru": [
+   "Черкассы"
+  ],
+  "type": "city",
+  "admin1": "Cherkasy Oblast",
+  "lat": 49.44,
+  "lon": 32.06,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Zhytomyr",
+  "latin": [
+   "Zhitomir",
+   "Zhytomyr"
+  ],
+  "uk": [
+   "Житомир"
+  ],
+  "ru": [
+   "Житомир"
+  ],
+  "type": "city",
+  "admin1": "Zhytomyr Oblast",
+  "lat": 50.25,
+  "lon": 28.66,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Lviv",
+  "latin": [
+   "Lvov",
+   "Lwow",
+   "Lemberg"
+  ],
+  "uk": [
+   "Львів"
+  ],
+  "ru": [
+   "Львов"
+  ],
+  "type": "city",
+  "admin1": "Lviv Oblast",
+  "lat": 49.84,
+  "lon": 24.03,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Yavoriv training ground",
+  "latin": [
+   "Yavoriv base",
+   "Yavoriv military range",
+   "Yavoriv"
+  ],
+  "uk": [
+   "Яворівський полігон",
+   "Яворів"
+  ],
+  "ru": [
+   "Яворовский полигон",
+   "Яворов"
+  ],
+  "type": "military",
+  "admin1": "Lviv Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "struck March 2022"
+ },
+ {
+  "country": "UA",
+  "en": "Rivne",
+  "latin": [
+   "Rovno",
+   "Rivne"
+  ],
+  "uk": [
+   "Рівне"
+  ],
+  "ru": [
+   "Ровно"
+  ],
+  "type": "city",
+  "admin1": "Rivne Oblast",
+  "lat": 50.62,
+  "lon": 26.25,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Lutsk",
+  "latin": [
+   "Lutsk"
+  ],
+  "uk": [
+   "Луцьк"
+  ],
+  "ru": [
+   "Луцк"
+  ],
+  "type": "city",
+  "admin1": "Volyn Oblast",
+  "lat": 50.75,
+  "lon": 25.34,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Ternopil",
+  "latin": [
+   "Ternopol"
+  ],
+  "uk": [
+   "Тернопіль"
+  ],
+  "ru": [
+   "Тернополь"
+  ],
+  "type": "city",
+  "admin1": "Ternopil Oblast",
+  "lat": 49.55,
+  "lon": 25.59,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Ivano-Frankivsk",
+  "latin": [
+   "Ivano-Frankovsk",
+   "Stanislav"
+  ],
+  "uk": [
+   "Івано-Франківськ"
+  ],
+  "ru": [
+   "Ивано-Франковск"
+  ],
+  "type": "city",
+  "admin1": "Ivano-Frankivsk Oblast",
+  "lat": 48.92,
+  "lon": 24.71,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Khmelnytskyi",
+  "latin": [
+   "Khmelnitsky",
+   "Proskuriv"
+  ],
+  "uk": [
+   "Хмельницький"
+  ],
+  "ru": [
+   "Хмельницкий"
+  ],
+  "type": "city",
+  "admin1": "Khmelnytskyi Oblast",
+  "lat": 49.42,
+  "lon": 26.99,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Chernivtsi",
+  "latin": [
+   "Chernovtsy",
+   "Czernowitz"
+  ],
+  "uk": [
+   "Чернівці"
+  ],
+  "ru": [
+   "Черновцы"
+  ],
+  "type": "city",
+  "admin1": "Chernivtsi Oblast",
+  "lat": 48.29,
+  "lon": 25.94,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Uzhhorod",
+  "latin": [
+   "Uzhgorod"
+  ],
+  "uk": [
+   "Ужгород"
+  ],
+  "ru": [
+   "Ужгород"
+  ],
+  "type": "city",
+  "admin1": "Zakarpattia Oblast",
+  "lat": 48.62,
+  "lon": 22.29,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Dnipro River",
+  "latin": [
+   "Dnieper",
+   "Dnepr",
+   "Dnipro river"
+  ],
+  "uk": [
+   "Дніпро",
+   "річка Дніпро",
+   "Дніпра"
+  ],
+  "ru": [
+   "Днепр",
+   "река Днепр",
+   "Днепра"
+  ],
+  "type": "river",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "same name as the city of Dnipro"
+ },
+ {
+  "country": "UA",
+  "en": "Siverskyi Donets River",
+  "latin": [
+   "Seversky Donets",
+   "Siversky Donets",
+   "Donets"
+  ],
+  "uk": [
+   "Сіверський Донець",
+   "Сіверського Дінця"
+  ],
+  "ru": [
+   "Северский Донец",
+   "Северского Донца"
+  ],
+  "type": "river",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Oskil River",
+  "latin": [
+   "Oskol",
+   "Oskil"
+  ],
+  "uk": [
+   "Оскіл",
+   "Оскола"
+  ],
+  "ru": [
+   "Оскол",
+   "Оскола"
+  ],
+  "type": "river",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Inhulets River",
+  "latin": [
+   "Ingulets",
+   "Inhulets"
+  ],
+  "uk": [
+   "Інгулець"
+  ],
+  "ru": [
+   "Ингулец"
+  ],
+  "type": "river",
+  "admin1": null,
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ },
+ {
+  "country": "UA",
+  "en": "Siverskyi Donets–Donbas Canal",
+  "latin": [
+   "Seversky Donets-Donbas canal",
+   "Donets-Donbas canal"
+  ],
+  "uk": [
+   "канал Сіверський Донець – Донбас",
+   "канал Сіверський Донець-Донбас"
+  ],
+  "ru": [
+   "канал Северский Донец – Донбасс",
+   "канал Северский Донец-Донбасс"
+  ],
+  "type": "river",
+  "admin1": "Donetsk Oblast",
+  "lat": null,
+  "lon": null,
+  "confidence": "high"
+ }
+]

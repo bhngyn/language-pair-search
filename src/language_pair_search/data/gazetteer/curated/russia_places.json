@@ -1,0 +1,821 @@
+[
+ {
+  "country": "RU",
+  "en": "Moscow",
+  "latin": [
+   "Moskva"
+  ],
+  "ru": [
+   "Москва"
+  ],
+  "uk": [
+   "Москва"
+  ],
+  "type": "city",
+  "admin1": "Moscow",
+  "lat": 55.756,
+  "lon": 37.617,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Saint Petersburg",
+  "latin": [
+   "St Petersburg",
+   "Sankt-Peterburg",
+   "Petersburg"
+  ],
+  "ru": [
+   "Санкт-Петербург",
+   "Петербург",
+   "Питер"
+  ],
+  "uk": [
+   "Санкт-Петербург"
+  ],
+  "type": "city",
+  "admin1": "Saint Petersburg",
+  "lat": 59.939,
+  "lon": 30.316,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Voronezh",
+  "latin": [],
+  "ru": [
+   "Воронеж"
+  ],
+  "uk": [
+   "Воронеж"
+  ],
+  "type": "city",
+  "admin1": "Voronezh Oblast",
+  "lat": 51.672,
+  "lon": 39.184,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Krasnodar",
+  "latin": [],
+  "ru": [
+   "Краснодар"
+  ],
+  "uk": [
+   "Краснодар"
+  ],
+  "type": "city",
+  "admin1": "Krasnodar Krai",
+  "lat": 45.035,
+  "lon": 38.975,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Novorossiysk",
+  "latin": [],
+  "ru": [
+   "Новороссийск"
+  ],
+  "uk": [
+   "Новоросійськ"
+  ],
+  "type": "city",
+  "admin1": "Krasnodar Krai",
+  "lat": 44.724,
+  "lon": 37.768,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Sochi",
+  "latin": [],
+  "ru": [
+   "Сочи"
+  ],
+  "uk": [
+   "Сочі"
+  ],
+  "type": "city",
+  "admin1": "Krasnodar Krai",
+  "lat": 43.585,
+  "lon": 39.723,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Taganrog",
+  "latin": [],
+  "ru": [
+   "Таганрог"
+  ],
+  "uk": [
+   "Таганрог"
+  ],
+  "type": "city",
+  "admin1": "Rostov Oblast",
+  "lat": 47.221,
+  "lon": 38.915,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Volgograd",
+  "latin": [],
+  "ru": [
+   "Волгоград"
+  ],
+  "uk": [
+   "Волгоград"
+  ],
+  "type": "city",
+  "admin1": "Volgograd Oblast",
+  "lat": 48.708,
+  "lon": 44.513,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Smolensk",
+  "latin": [],
+  "ru": [
+   "Смоленск"
+  ],
+  "uk": [
+   "Смоленськ"
+  ],
+  "type": "city",
+  "admin1": "Smolensk Oblast",
+  "lat": 54.782,
+  "lon": 32.045,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Pskov",
+  "latin": [],
+  "ru": [
+   "Псков"
+  ],
+  "uk": [
+   "Псков"
+  ],
+  "type": "city",
+  "admin1": "Pskov Oblast",
+  "lat": 57.819,
+  "lon": 28.332,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Kaliningrad",
+  "latin": [],
+  "ru": [
+   "Калининград"
+  ],
+  "uk": [
+   "Калінінград"
+  ],
+  "type": "city",
+  "admin1": "Kaliningrad Oblast",
+  "lat": 54.71,
+  "lon": 20.511,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Nizhny Novgorod",
+  "latin": [],
+  "ru": [
+   "Нижний Новгород"
+  ],
+  "uk": [
+   "Нижній Новгород"
+  ],
+  "type": "city",
+  "admin1": "Nizhny Novgorod Oblast",
+  "lat": 56.327,
+  "lon": 44.006,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Kazan",
+  "latin": [],
+  "ru": [
+   "Казань"
+  ],
+  "uk": [
+   "Казань"
+  ],
+  "type": "city",
+  "admin1": "Tatarstan",
+  "lat": 55.796,
+  "lon": 49.106,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Samara",
+  "latin": [],
+  "ru": [
+   "Самара"
+  ],
+  "uk": [
+   "Самара"
+  ],
+  "type": "city",
+  "admin1": "Samara Oblast",
+  "lat": 53.195,
+  "lon": 50.1,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Saratov",
+  "latin": [],
+  "ru": [
+   "Саратов"
+  ],
+  "uk": [
+   "Саратов"
+  ],
+  "type": "city",
+  "admin1": "Saratov Oblast",
+  "lat": 51.534,
+  "lon": 46.034,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Engels",
+  "latin": [],
+  "ru": [
+   "Энгельс"
+  ],
+  "uk": [
+   "Енгельс"
+  ],
+  "type": "city",
+  "admin1": "Saratov Oblast",
+  "lat": 51.485,
+  "lon": 46.126,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Yekaterinburg",
+  "latin": [
+   "Ekaterinburg"
+  ],
+  "ru": [
+   "Екатеринбург"
+  ],
+  "uk": [
+   "Єкатеринбург"
+  ],
+  "type": "city",
+  "admin1": "Sverdlovsk Oblast",
+  "lat": 56.838,
+  "lon": 60.605,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Chelyabinsk",
+  "latin": [],
+  "ru": [
+   "Челябинск"
+  ],
+  "uk": [
+   "Челябінськ"
+  ],
+  "type": "city",
+  "admin1": "Chelyabinsk Oblast",
+  "lat": 55.16,
+  "lon": 61.402,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Novosibirsk",
+  "latin": [],
+  "ru": [
+   "Новосибирск"
+  ],
+  "uk": [
+   "Новосибірськ"
+  ],
+  "type": "city",
+  "admin1": "Novosibirsk Oblast",
+  "lat": 55.008,
+  "lon": 82.935,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Grozny",
+  "latin": [],
+  "ru": [
+   "Грозный"
+  ],
+  "uk": [
+   "Грозний"
+  ],
+  "type": "city",
+  "admin1": "Chechnya",
+  "lat": 43.318,
+  "lon": 45.698,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Gudermes",
+  "latin": [],
+  "ru": [
+   "Гудермес"
+  ],
+  "uk": [
+   "Гудермес"
+  ],
+  "type": "town",
+  "admin1": "Chechnya",
+  "lat": 43.351,
+  "lon": 46.104,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Makhachkala",
+  "latin": [],
+  "ru": [
+   "Махачкала"
+  ],
+  "uk": [
+   "Махачкала"
+  ],
+  "type": "city",
+  "admin1": "Dagestan",
+  "lat": 42.983,
+  "lon": 47.504,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Stavropol",
+  "latin": [],
+  "ru": [
+   "Ставрополь"
+  ],
+  "uk": [
+   "Ставрополь"
+  ],
+  "type": "city",
+  "admin1": "Stavropol Krai",
+  "lat": 45.044,
+  "lon": 41.969,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Mozdok",
+  "latin": [],
+  "ru": [
+   "Моздок"
+  ],
+  "uk": [
+   "Моздок"
+  ],
+  "type": "town",
+  "admin1": "North Ossetia",
+  "lat": 43.738,
+  "lon": 44.654,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Vladikavkaz",
+  "latin": [],
+  "ru": [
+   "Владикавказ"
+  ],
+  "uk": [
+   "Владикавказ"
+  ],
+  "type": "city",
+  "admin1": "North Ossetia",
+  "lat": 43.025,
+  "lon": 44.682,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Tula",
+  "latin": [],
+  "ru": [
+   "Тула"
+  ],
+  "uk": [
+   "Тула"
+  ],
+  "type": "city",
+  "admin1": "Tula Oblast",
+  "lat": 54.193,
+  "lon": 37.617,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Oryol",
+  "latin": [
+   "Orel"
+  ],
+  "ru": [
+   "Орёл",
+   "Орел"
+  ],
+  "uk": [
+   "Орел"
+  ],
+  "type": "city",
+  "admin1": "Oryol Oblast",
+  "lat": 52.967,
+  "lon": 36.07,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Lipetsk",
+  "latin": [],
+  "ru": [
+   "Липецк"
+  ],
+  "uk": [
+   "Липецьк"
+  ],
+  "type": "city",
+  "admin1": "Lipetsk Oblast",
+  "lat": 52.603,
+  "lon": 39.571,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Tambov",
+  "latin": [],
+  "ru": [
+   "Тамбов"
+  ],
+  "uk": [
+   "Тамбов"
+  ],
+  "type": "city",
+  "admin1": "Tambov Oblast",
+  "lat": 52.721,
+  "lon": 41.452,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Ryazan",
+  "latin": [],
+  "ru": [
+   "Рязань"
+  ],
+  "uk": [
+   "Рязань"
+  ],
+  "type": "city",
+  "admin1": "Ryazan Oblast",
+  "lat": 54.629,
+  "lon": 39.736,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Tver",
+  "latin": [],
+  "ru": [
+   "Тверь"
+  ],
+  "uk": [
+   "Твер"
+  ],
+  "type": "city",
+  "admin1": "Tver Oblast",
+  "lat": 56.859,
+  "lon": 35.912,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Yaroslavl",
+  "latin": [],
+  "ru": [
+   "Ярославль"
+  ],
+  "uk": [
+   "Ярославль"
+  ],
+  "type": "city",
+  "admin1": "Yaroslavl Oblast",
+  "lat": 57.626,
+  "lon": 39.894,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Murmansk",
+  "latin": [],
+  "ru": [
+   "Мурманск"
+  ],
+  "uk": [
+   "Мурманськ"
+  ],
+  "type": "city",
+  "admin1": "Murmansk Oblast",
+  "lat": 68.97,
+  "lon": 33.075,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Sevastopol",
+  "latin": [],
+  "ru": [
+   "Севастополь"
+  ],
+  "uk": [
+   "Севастополь"
+  ],
+  "type": "city",
+  "admin1": "Sevastopol (occupied Crimea)",
+  "lat": 44.617,
+  "lon": 33.525,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Valuyki",
+  "latin": [],
+  "ru": [
+   "Валуйки"
+  ],
+  "uk": [
+   "Валуйки"
+  ],
+  "type": "town",
+  "admin1": "Belgorod Oblast",
+  "lat": 50.211,
+  "lon": 38.1,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Rylsk",
+  "latin": [],
+  "ru": [
+   "Рыльск"
+  ],
+  "uk": [
+   "Рильськ"
+  ],
+  "type": "town",
+  "admin1": "Kursk Oblast",
+  "lat": 51.568,
+  "lon": 34.679,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Lgov",
+  "latin": [],
+  "ru": [
+   "Льгов"
+  ],
+  "uk": [
+   "Льгов"
+  ],
+  "type": "town",
+  "admin1": "Kursk Oblast",
+  "lat": 51.659,
+  "lon": 35.263,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Rostov Oblast",
+  "latin": [],
+  "ru": [
+   "Ростовская область"
+  ],
+  "uk": [
+   "Ростовська область"
+  ],
+  "type": "region",
+  "admin1": "Rostov Oblast",
+  "lat": 47.7,
+  "lon": 41.0,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Krasnodar Krai",
+  "latin": [
+   "Kuban"
+  ],
+  "ru": [
+   "Краснодарский край",
+   "Кубань"
+  ],
+  "uk": [
+   "Краснодарський край",
+   "Кубань"
+  ],
+  "type": "region",
+  "admin1": "Krasnodar Krai",
+  "lat": 45.3,
+  "lon": 39.0,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Chechnya",
+  "latin": [
+   "Chechen Republic"
+  ],
+  "ru": [
+   "Чечня",
+   "Чеченская Республика"
+  ],
+  "uk": [
+   "Чечня"
+  ],
+  "type": "region",
+  "admin1": "Chechnya",
+  "lat": 43.4,
+  "lon": 45.7,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Dagestan",
+  "latin": [],
+  "ru": [
+   "Дагестан"
+  ],
+  "uk": [
+   "Дагестан"
+  ],
+  "type": "region",
+  "admin1": "Dagestan",
+  "lat": 42.9,
+  "lon": 47.0,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Mulino",
+  "latin": [],
+  "ru": [
+   "Мулино"
+  ],
+  "uk": [
+   "Мулине"
+  ],
+  "type": "village",
+  "admin1": "Nizhny Novgorod Oblast",
+  "lat": 56.301,
+  "lon": 42.945,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Kerch",
+  "latin": [],
+  "ru": [
+   "Керчь"
+  ],
+  "uk": [
+   "Керч"
+  ],
+  "type": "city",
+  "admin1": "Crimea (occupied)",
+  "lat": 45.357,
+  "lon": 36.468,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Yeysk",
+  "latin": [],
+  "ru": [
+   "Ейск"
+  ],
+  "uk": [
+   "Єйськ"
+  ],
+  "type": "town",
+  "admin1": "Krasnodar Krai",
+  "lat": 46.711,
+  "lon": 38.276,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Millerovo",
+  "latin": [],
+  "ru": [
+   "Миллерово"
+  ],
+  "uk": [
+   "Міллерово"
+  ],
+  "type": "town",
+  "admin1": "Rostov Oblast",
+  "lat": 48.922,
+  "lon": 40.393,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Morozovsk",
+  "latin": [],
+  "ru": [
+   "Морозовск"
+  ],
+  "uk": [
+   "Морозовськ"
+  ],
+  "type": "town",
+  "admin1": "Rostov Oblast",
+  "lat": 48.352,
+  "lon": 41.831,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "RU",
+  "en": "Primorsko-Akhtarsk",
+  "latin": [],
+  "ru": [
+   "Приморско-Ахтарск"
+  ],
+  "uk": [
+   "Приморсько-Ахтарськ"
+  ],
+  "type": "town",
+  "admin1": "Krasnodar Krai",
+  "lat": 46.049,
+  "lon": 38.171,
+  "confidence": "high",
+  "notes": ""
+ }
+]

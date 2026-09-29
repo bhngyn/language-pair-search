@@ -1,0 +1,4439 @@
+[
+ {
+  "country": "SD",
+  "en": "Khartoum State",
+  "latin": [
+   "Khartoum State",
+   "Al-Khartoum"
+  ],
+  "ar": [
+   "ولاية الخرطوم",
+   "الخرطوم"
+  ],
+  "type": "state",
+  "admin1": "Khartoum",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Gezira State",
+  "latin": [
+   "Al Jazirah",
+   "Al-Jazira",
+   "El Gezira",
+   "Aj Jazirah",
+   "Gezira State"
+  ],
+  "ar": [
+   "ولاية الجزيرة",
+   "الجزيرة"
+  ],
+  "type": "state",
+  "admin1": "Gezira",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "White Nile State",
+  "latin": [
+   "White Nile State",
+   "An Nil al Abyad",
+   "Al-Nil al-Abyad"
+  ],
+  "ar": [
+   "ولاية النيل الابيض",
+   "النيل الابيض"
+  ],
+  "type": "state",
+  "admin1": "White Nile",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Blue Nile State",
+  "latin": [
+   "Blue Nile State",
+   "An Nil al Azraq",
+   "Al-Nil al-Azraq"
+  ],
+  "ar": [
+   "ولاية النيل الازرق",
+   "النيل الازرق"
+  ],
+  "type": "state",
+  "admin1": "Blue Nile",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Sennar State",
+  "latin": [
+   "Sinnar",
+   "Sennar State",
+   "Sinar"
+  ],
+  "ar": [
+   "ولاية سنار",
+   "سنار"
+  ],
+  "type": "state",
+  "admin1": "Sennar",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Gedaref State",
+  "latin": [
+   "Al Qadarif",
+   "Al-Qadarif",
+   "Gadarif",
+   "El Gedaref",
+   "Gedarif"
+  ],
+  "ar": [
+   "ولاية القضارف",
+   "القضارف"
+  ],
+  "type": "state",
+  "admin1": "Gedaref",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Kassala State",
+  "latin": [
+   "Kassala State",
+   "Kasala"
+  ],
+  "ar": [
+   "ولاية كسلا",
+   "كسلا"
+  ],
+  "type": "state",
+  "admin1": "Kassala",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Red Sea State",
+  "latin": [
+   "Red Sea State",
+   "Al Bahr al Ahmar"
+  ],
+  "ar": [
+   "ولاية البحر الاحمر",
+   "البحر الاحمر"
+  ],
+  "type": "state",
+  "admin1": "Red Sea",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "River Nile State",
+  "latin": [
+   "River Nile State",
+   "Nahr an Nil",
+   "Nahr al-Nil"
+  ],
+  "ar": [
+   "ولاية نهر النيل",
+   "نهر النيل"
+  ],
+  "type": "state",
+  "admin1": "River Nile",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Northern State",
+  "latin": [
+   "Northern State",
+   "Ash Shamaliyah",
+   "Al-Shamaliya"
+  ],
+  "ar": [
+   "الولاية الشمالية",
+   "الشمالية"
+  ],
+  "type": "state",
+  "admin1": "Northern",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "North Kordofan State",
+  "latin": [
+   "Shamal Kurdufan",
+   "North Kurdufan",
+   "N. Kordofan"
+  ],
+  "ar": [
+   "ولاية شمال كردفان",
+   "شمال كردفان"
+  ],
+  "type": "state",
+  "admin1": "North Kordofan",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "South Kordofan State",
+  "latin": [
+   "Janub Kurdufan",
+   "South Kurdufan",
+   "S. Kordofan"
+  ],
+  "ar": [
+   "ولاية جنوب كردفان",
+   "جنوب كردفان"
+  ],
+  "type": "state",
+  "admin1": "South Kordofan",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "West Kordofan State",
+  "latin": [
+   "Gharb Kurdufan",
+   "West Kurdufan",
+   "W. Kordofan"
+  ],
+  "ar": [
+   "ولاية غرب كردفان",
+   "غرب كردفان"
+  ],
+  "type": "state",
+  "admin1": "West Kordofan",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "North Darfur State",
+  "latin": [
+   "Shamal Darfur",
+   "N. Darfur"
+  ],
+  "ar": [
+   "ولاية شمال دارفور",
+   "شمال دارفور"
+  ],
+  "type": "state",
+  "admin1": "North Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "South Darfur State",
+  "latin": [
+   "Janub Darfur",
+   "S. Darfur"
+  ],
+  "ar": [
+   "ولاية جنوب دارفور",
+   "جنوب دارفور"
+  ],
+  "type": "state",
+  "admin1": "South Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "West Darfur State",
+  "latin": [
+   "Gharb Darfur",
+   "W. Darfur"
+  ],
+  "ar": [
+   "ولاية غرب دارفور",
+   "غرب دارفور"
+  ],
+  "type": "state",
+  "admin1": "West Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Central Darfur State",
+  "latin": [
+   "Wasat Darfur",
+   "C. Darfur"
+  ],
+  "ar": [
+   "ولاية وسط دارفور",
+   "وسط دارفور"
+  ],
+  "type": "state",
+  "admin1": "Central Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "East Darfur State",
+  "latin": [
+   "Sharq Darfur",
+   "E. Darfur"
+  ],
+  "ar": [
+   "ولاية شرق دارفور",
+   "شرق دارفور"
+  ],
+  "type": "state",
+  "admin1": "East Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Darfur",
+  "latin": [
+   "Darfour",
+   "Dar Fur"
+  ],
+  "ar": [
+   "دارفور",
+   "اقليم دارفور"
+  ],
+  "type": "region",
+  "admin1": "",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Kordofan",
+  "latin": [
+   "Kurdufan",
+   "Kordufan"
+  ],
+  "ar": [
+   "كردفان",
+   "اقليم كردفان"
+  ],
+  "type": "region",
+  "admin1": "",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Nuba Mountains",
+  "latin": [
+   "Jebel Nuba",
+   "Jibal al-Nuba",
+   "Nuba Hills"
+  ],
+  "ar": [
+   "جبال النوبة"
+  ],
+  "type": "region",
+  "admin1": "South Kordofan",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Jebel Marra",
+  "latin": [
+   "Jabal Marra",
+   "Jebel Mara",
+   "Marra Mountains"
+  ],
+  "ar": [
+   "جبل مرة"
+  ],
+  "type": "mountain",
+  "admin1": "Central Darfur",
+  "lat": 13.0,
+  "lon": 24.3,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Butana",
+  "latin": [
+   "Al-Butana",
+   "El Butana"
+  ],
+  "ar": [
+   "البطانة",
+   "سهل البطانة"
+  ],
+  "type": "region",
+  "admin1": "",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "plain spanning Gezira/Gedaref/Kassala"
+ },
+ {
+  "country": "SD",
+  "en": "Gezira Scheme",
+  "latin": [
+   "Gezira Agricultural Scheme",
+   "Mashru al-Jazira"
+  ],
+  "ar": [
+   "مشروع الجزيرة"
+  ],
+  "type": "region",
+  "admin1": "Gezira",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Fashaga",
+  "latin": [
+   "Fashaga",
+   "El Fashaga",
+   "al-Fashqa"
+  ],
+  "ar": [
+   "الفشقة"
+  ],
+  "type": "region",
+  "admin1": "Gedaref",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "disputed border area with Ethiopia"
+ },
+ {
+  "country": "SD",
+  "en": "Eastern Sudan",
+  "latin": [
+   "East Sudan",
+   "Sharq al-Sudan"
+  ],
+  "ar": [
+   "شرق السودان"
+  ],
+  "type": "region",
+  "admin1": "",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Khartoum",
+  "latin": [
+   "Al-Khartoum",
+   "El Khartoum",
+   "Khartum"
+  ],
+  "ar": [
+   "الخرطوم"
+  ],
+  "type": "city",
+  "admin1": "Khartoum",
+  "lat": 15.6,
+  "lon": 32.53,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Omdurman",
+  "latin": [
+   "Umm Durman",
+   "Um Durman",
+   "Omdurman City"
+  ],
+  "ar": [
+   "امدرمان",
+   "ام درمان"
+  ],
+  "type": "city",
+  "admin1": "Khartoum",
+  "lat": 15.64,
+  "lon": 32.48,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Khartoum North (Bahri)",
+  "latin": [
+   "Bahri",
+   "Bahry",
+   "Al-Bahri",
+   "Khartoum Bahri",
+   "North Khartoum"
+  ],
+  "ar": [
+   "بحري",
+   "الخرطوم بحري"
+  ],
+  "type": "city",
+  "admin1": "Khartoum",
+  "lat": 15.64,
+  "lon": 32.55,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Tuti Island",
+  "latin": [
+   "Tuti",
+   "Tutti",
+   "Jazirat Tuti"
+  ],
+  "ar": [
+   "توتي",
+   "جزيرة توتي"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.62,
+  "lon": 32.52,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Jebel Aulia",
+  "latin": [
+   "Jabal Awliya",
+   "Jebel Awlia",
+   "Jabal al-Awliya",
+   "Jebel Aulia Dam"
+  ],
+  "ar": [
+   "جبل اولياء",
+   "خزان جبل اولياء"
+  ],
+  "type": "town",
+  "admin1": "Khartoum",
+  "lat": 15.24,
+  "lon": 32.5,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Soba",
+  "latin": [
+   "Soba East",
+   "Soba West"
+  ],
+  "ar": [
+   "سوبا",
+   "سوبا شرق"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.52,
+  "lon": 32.65,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "East Nile (Sharq al-Nil)",
+  "latin": [
+   "Sharq al-Nil",
+   "Sharg El Nil",
+   "East Nile",
+   "Sharq an Nil"
+  ],
+  "ar": [
+   "شرق النيل"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.62,
+  "lon": 32.65,
+  "confidence": "medium",
+  "notes": "locality east of the Blue Nile"
+ },
+ {
+  "country": "SD",
+  "en": "Kafouri",
+  "latin": [
+   "Kafuri",
+   "Kafoury",
+   "Kafori"
+  ],
+  "ar": [
+   "كافوري"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.66,
+  "lon": 32.57,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Haj Yousif",
+  "latin": [
+   "Hajj Yusuf",
+   "Haj Yusif",
+   "Al-Haj Yousif",
+   "Hag Yousif"
+  ],
+  "ar": [
+   "الحاج يوسف",
+   "حاج يوسف"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.63,
+  "lon": 32.6,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Kalakla",
+  "latin": [
+   "Al-Kalakla",
+   "Kalakla Gubba",
+   "Kalakla al-Qubba"
+  ],
+  "ar": [
+   "الكلاكلة",
+   "كلاكلة"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.49,
+  "lon": 32.5,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Shajara",
+  "latin": [
+   "Shajara",
+   "Shajarah",
+   "Al-Shagara"
+  ],
+  "ar": [
+   "الشجرة",
+   "الشجرة العسكرية"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.53,
+  "lon": 32.51,
+  "confidence": "medium",
+  "notes": "site of Armoured Corps HQ"
+ },
+ {
+  "country": "SD",
+  "en": "Armoured Corps HQ",
+  "latin": [
+   "Armored Corps",
+   "Armoured Corps base",
+   "Silah al-Mudar'at",
+   "al-Shajara camp"
+  ],
+  "ar": [
+   "سلاح المدرعات",
+   "المدرعات"
+  ],
+  "type": "military",
+  "admin1": "Khartoum",
+  "lat": 15.53,
+  "lon": 32.51,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Wadi Seidna Air Base",
+  "latin": [
+   "Wadi Sayyidna",
+   "Wadi Saidna",
+   "Wadi Seidna"
+  ],
+  "ar": [
+   "وادي سيدنا",
+   "قاعدة وادي سيدنا"
+  ],
+  "type": "military",
+  "admin1": "Khartoum",
+  "lat": 15.82,
+  "lon": 32.52,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Kerari",
+  "latin": [
+   "Karari",
+   "Kararri",
+   "Karary"
+  ],
+  "ar": [
+   "كرري"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.75,
+  "lon": 32.47,
+  "confidence": "medium",
+  "notes": "northern Omdurman locality; also Karari military area"
+ },
+ {
+  "country": "SD",
+  "en": "Engineers Corps HQ",
+  "latin": [
+   "Engineers Corps",
+   "Silah al-Muhandisin",
+   "Sillah al-Mohandiseen"
+  ],
+  "ar": [
+   "سلاح المهندسين"
+  ],
+  "type": "military",
+  "admin1": "Khartoum",
+  "lat": 15.6,
+  "lon": 32.48,
+  "confidence": "medium",
+  "notes": "Omdurman"
+ },
+ {
+  "country": "SD",
+  "en": "Signal Corps HQ",
+  "latin": [
+   "Signal Corps",
+   "Silah al-Ishara",
+   "Signals Corps"
+  ],
+  "ar": [
+   "سلاح الاشارة"
+  ],
+  "type": "military",
+  "admin1": "Khartoum",
+  "lat": 15.62,
+  "lon": 32.54,
+  "confidence": "medium",
+  "notes": "Bahri"
+ },
+ {
+  "country": "SD",
+  "en": "SAF General Command",
+  "latin": [
+   "General Command",
+   "Army Headquarters",
+   "al-Qiyada al-Amma",
+   "Army HQ"
+  ],
+  "ar": [
+   "القيادة العامة",
+   "القيادة العامة للقوات المسلحة"
+  ],
+  "type": "military",
+  "admin1": "Khartoum",
+  "lat": 15.6,
+  "lon": 32.55,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Republican Palace",
+  "latin": [
+   "Presidential Palace",
+   "al-Qasr al-Jumhuri"
+  ],
+  "ar": [
+   "القصر الجمهوري"
+  ],
+  "type": "landmark",
+  "admin1": "Khartoum",
+  "lat": 15.61,
+  "lon": 32.53,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Khartoum International Airport",
+  "latin": [
+   "Khartoum Airport",
+   "KRT",
+   "Mataar al-Khartoum"
+  ],
+  "ar": [
+   "مطار الخرطوم",
+   "مطار الخرطوم الدولي"
+  ],
+  "type": "airport",
+  "admin1": "Khartoum",
+  "lat": 15.59,
+  "lon": 32.55,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Jaili Refinery",
+  "latin": [
+   "Al-Jaili",
+   "Jaili",
+   "El Jaili",
+   "Al-Jeili",
+   "Khartoum Refinery"
+  ],
+  "ar": [
+   "مصفاة الجيلي",
+   "الجيلي"
+  ],
+  "type": "landmark",
+  "admin1": "Khartoum",
+  "lat": 16.03,
+  "lon": 32.62,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Halfaya Bridge",
+  "latin": [
+   "Halfaya",
+   "Al-Halfaya Bridge",
+   "Halfaya bridge"
+  ],
+  "ar": [
+   "كبري الحلفايا",
+   "جسر الحلفايا"
+  ],
+  "type": "bridge",
+  "admin1": "Khartoum",
+  "lat": 15.72,
+  "lon": 32.54,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Shambat Bridge",
+  "latin": [
+   "Shambat"
+  ],
+  "ar": [
+   "كبري شمبات",
+   "جسر شمبات"
+  ],
+  "type": "bridge",
+  "admin1": "Khartoum",
+  "lat": 15.64,
+  "lon": 32.51,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Mansheya Bridge",
+  "latin": [
+   "Manshiya Bridge",
+   "Al-Manshiya Bridge",
+   "Mansheya"
+  ],
+  "ar": [
+   "كبري المنشية",
+   "جسر المنشية"
+  ],
+  "type": "bridge",
+  "admin1": "Khartoum",
+  "lat": 15.58,
+  "lon": 32.58,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Mak Nimir Bridge",
+  "latin": [
+   "Mak Nimir Bridge",
+   "Al-Makk Nimir"
+  ],
+  "ar": [
+   "كبري المك نمر",
+   "جسر المك نمر"
+  ],
+  "type": "bridge",
+  "admin1": "Khartoum",
+  "lat": 15.61,
+  "lon": 32.54,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "White Nile Bridge (Omdurman Bridge)",
+  "latin": [
+   "Omdurman Bridge",
+   "Old Omdurman Bridge",
+   "White Nile Bridge"
+  ],
+  "ar": [
+   "كبري امدرمان",
+   "كبري النيل الابيض",
+   "جسر النيل الابيض"
+  ],
+  "type": "bridge",
+  "admin1": "Khartoum",
+  "lat": 15.62,
+  "lon": 32.5,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Fitihab Bridge",
+  "latin": [
+   "Fitihab Bridge",
+   "Al-Fetihab"
+  ],
+  "ar": [
+   "كبري الفتيحاب",
+   "جسر الفتيحاب"
+  ],
+  "type": "bridge",
+  "admin1": "Khartoum",
+  "lat": 15.58,
+  "lon": 32.49,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Soba Bridge",
+  "latin": [
+   "Soba bridge"
+  ],
+  "ar": [
+   "كبري سوبا",
+   "جسر سوبا"
+  ],
+  "type": "bridge",
+  "admin1": "Khartoum",
+  "lat": 15.52,
+  "lon": 32.63,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Tuti Bridge",
+  "latin": [
+   "Tuti bridge"
+  ],
+  "ar": [
+   "كبري توتي",
+   "جسر توتي"
+  ],
+  "type": "bridge",
+  "admin1": "Khartoum",
+  "lat": 15.61,
+  "lon": 32.51,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Fitihab",
+  "latin": [
+   "Fitihab",
+   "Fetihab"
+  ],
+  "ar": [
+   "الفتيحاب"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.58,
+  "lon": 32.48,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Ombada",
+  "latin": [
+   "Umbada",
+   "Um Badda",
+   "Umm Badda",
+   "Omdbada"
+  ],
+  "ar": [
+   "امبدة",
+   "ام بدة"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.65,
+  "lon": 32.4,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Thawra (Omdurman)",
+  "latin": [
+   "Al-Thawra",
+   "Thawra",
+   "Althawra",
+   "El Thawra"
+  ],
+  "ar": [
+   "الثورة",
+   "الثورات"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.68,
+  "lon": 32.47,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Abu Seid",
+  "latin": [
+   "Abu Saeed",
+   "Abu Said",
+   "Abusaeed",
+   "Abu Si'id"
+  ],
+  "ar": [
+   "ابوسعد",
+   "ابو سعد"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.58,
+  "lon": 32.46,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Salha",
+  "latin": [
+   "Salha",
+   "El Salha"
+  ],
+  "ar": [
+   "الصالحة"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.49,
+  "lon": 32.44,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Mohandiseen",
+  "latin": [
+   "Muhandisin",
+   "Mohandiseen",
+   "Al-Muhandisin"
+  ],
+  "ar": [
+   "المهندسين"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.61,
+  "lon": 32.47,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Bait al-Mal",
+  "latin": [
+   "Beit al-Mal",
+   "Bayt al-Mal",
+   "Beit El Mal"
+  ],
+  "ar": [
+   "بيت المال"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.65,
+  "lon": 32.49,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Mulazmin",
+  "latin": [
+   "Mulazmin",
+   "Al-Mulazimeen",
+   "Molazmeen"
+  ],
+  "ar": [
+   "الملازمين"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.63,
+  "lon": 32.49,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Wad Nubawi",
+  "latin": [
+   "Wad Nubawi",
+   "Wadnubawi",
+   "Wad Nobawi"
+  ],
+  "ar": [
+   "ود نوباوي",
+   "ودنوباوي"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.66,
+  "lon": 32.49,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Abbasiya (Omdurman)",
+  "latin": [
+   "Abbasiya",
+   "Al-Abbasiyya"
+  ],
+  "ar": [
+   "العباسية"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.63,
+  "lon": 32.47,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Libya Market",
+  "latin": [
+   "Souq Libya",
+   "Suq Libya",
+   "Libya Souq"
+  ],
+  "ar": [
+   "سوق ليبيا"
+  ],
+  "type": "landmark",
+  "admin1": "Khartoum",
+  "lat": 15.66,
+  "lon": 32.43,
+  "confidence": "medium",
+  "notes": "Omdurman"
+ },
+ {
+  "country": "SD",
+  "en": "Sabreen Market",
+  "latin": [
+   "Souq Sabreen",
+   "Sabrin Market"
+  ],
+  "ar": [
+   "سوق صابرين"
+  ],
+  "type": "landmark",
+  "admin1": "Khartoum",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": "Omdurman; shelled Feb 2025"
+ },
+ {
+  "country": "SD",
+  "en": "Omdurman Grand Market",
+  "latin": [
+   "Souq Omdurman",
+   "Omdurman Souq"
+  ],
+  "ar": [
+   "سوق امدرمان"
+  ],
+  "type": "landmark",
+  "admin1": "Khartoum",
+  "lat": 15.64,
+  "lon": 32.48,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Nao Hospital",
+  "latin": [
+   "Al Nau Hospital",
+   "Al-Naw Hospital",
+   "El Nao Hospital"
+  ],
+  "ar": [
+   "مستشفى النو"
+  ],
+  "type": "landmark",
+  "admin1": "Khartoum",
+  "lat": 15.68,
+  "lon": 32.47,
+  "confidence": "medium",
+  "notes": "Omdurman"
+ },
+ {
+  "country": "SD",
+  "en": "Omdurman Military Hospital",
+  "latin": [
+   "Military Hospital",
+   "al-Silah al-Tibbi",
+   "Medical Corps"
+  ],
+  "ar": [
+   "السلاح الطبي",
+   "مستشفى السلاح الطبي"
+  ],
+  "type": "military",
+  "admin1": "Khartoum",
+  "lat": 15.64,
+  "lon": 32.48,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Kober Prison",
+  "latin": [
+   "Kober",
+   "Kobar",
+   "Kober prison"
+  ],
+  "ar": [
+   "سجن كوبر",
+   "كوبر"
+  ],
+  "type": "landmark",
+  "admin1": "Khartoum",
+  "lat": 15.63,
+  "lon": 32.55,
+  "confidence": "medium",
+  "notes": "Bahri"
+ },
+ {
+  "country": "SD",
+  "en": "Al-Kadaro",
+  "latin": [
+   "Kadaro",
+   "El Kadaro"
+  ],
+  "ar": [
+   "الكدرو"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.75,
+  "lon": 32.56,
+  "confidence": "medium",
+  "notes": "Bahri; also military camp"
+ },
+ {
+  "country": "SD",
+  "en": "Al-Samrab",
+  "latin": [
+   "Samrab",
+   "El Samrab"
+  ],
+  "ar": [
+   "السامراب"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.72,
+  "lon": 32.55,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Halfaya",
+  "latin": [
+   "Halfaya",
+   "Halfayat al-Muluk"
+  ],
+  "ar": [
+   "الحلفايا",
+   "حلفاية الملوك"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.71,
+  "lon": 32.55,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Shambat",
+  "latin": [
+   "Shambat"
+  ],
+  "ar": [
+   "شمبات"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.66,
+  "lon": 32.52,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Droshab",
+  "latin": [
+   "Droshab",
+   "Al-Dirushab"
+  ],
+  "ar": [
+   "الدروشاب"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.7,
+  "lon": 32.55,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Hillat Kuku",
+  "latin": [
+   "Hillat Koko",
+   "Hilat Kuku"
+  ],
+  "ar": [
+   "حلة كوكو"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.6,
+  "lon": 32.61,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Ailafoon",
+  "latin": [
+   "Ailafoon",
+   "Eilafun",
+   "Al-Eilafoon"
+  ],
+  "ar": [
+   "العيلفون"
+  ],
+  "type": "town",
+  "admin1": "Khartoum",
+  "lat": 15.52,
+  "lon": 32.73,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Um Dawanban",
+  "latin": [
+   "Umm Dawwanban",
+   "Um Dawan Ban",
+   "Umm Dawanban"
+  ],
+  "ar": [
+   "ام ضوابان",
+   "ام ضوا بان"
+  ],
+  "type": "town",
+  "admin1": "Khartoum",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Hattab",
+  "latin": [
+   "Hatab"
+  ],
+  "ar": [
+   "حطاب"
+  ],
+  "type": "town",
+  "admin1": "Khartoum",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": "East Nile"
+ },
+ {
+  "country": "SD",
+  "en": "Al-Riyadh (Khartoum)",
+  "latin": [
+   "Riyadh",
+   "Al Riyad"
+  ],
+  "ar": [
+   "الرياض"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.57,
+  "lon": 32.58,
+  "confidence": "medium",
+  "notes": "ambiguous with Saudi capital"
+ },
+ {
+  "country": "SD",
+  "en": "Al-Amarat",
+  "latin": [
+   "Amarat",
+   "El Amarat"
+  ],
+  "ar": [
+   "العمارات"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.58,
+  "lon": 32.55,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Burri",
+  "latin": [
+   "Buri",
+   "Burri al-Daraisa",
+   "Burri Mahas"
+  ],
+  "ar": [
+   "بري",
+   "بري المحس",
+   "بري الدرايسة"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.6,
+  "lon": 32.57,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Jabra",
+  "latin": [
+   "Jebra",
+   "Gabra"
+  ],
+  "ar": [
+   "جبرة"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.52,
+  "lon": 32.53,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Sahafa",
+  "latin": [
+   "Sahafa",
+   "El Sahafa"
+  ],
+  "ar": [
+   "الصحافة"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.54,
+  "lon": 32.54,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Arkaweet",
+  "latin": [
+   "Arkawit",
+   "Arkawet"
+  ],
+  "ar": [
+   "اركويت"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.56,
+  "lon": 32.57,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Mayo",
+  "latin": [
+   "Mayo"
+  ],
+  "ar": [
+   "مايو"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.49,
+  "lon": 32.53,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Azhari",
+  "latin": [
+   "Azhari",
+   "El Azhari"
+  ],
+  "ar": [
+   "الازهري"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.5,
+  "lon": 32.54,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Deim",
+  "latin": [
+   "Deim",
+   "El Diem",
+   "Al-Diem"
+  ],
+  "ar": [
+   "الديم"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.58,
+  "lon": 32.53,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Yarmouk Military Industrial Complex",
+  "latin": [
+   "Yarmouk",
+   "Al-Yarmouk",
+   "Yarmouk factory"
+  ],
+  "ar": [
+   "مجمع اليرموك",
+   "اليرموك"
+  ],
+  "type": "military",
+  "admin1": "Khartoum",
+  "lat": 15.54,
+  "lon": 32.51,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Jebel Aulia (bridge/dam)",
+  "latin": [
+   "Jebel Aulia Dam",
+   "Jabal Awliya bridge"
+  ],
+  "ar": [
+   "كبري جبل اولياء",
+   "خزان جبل اولياء"
+  ],
+  "type": "bridge",
+  "admin1": "Khartoum",
+  "lat": 15.24,
+  "lon": 32.49,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Kalakla Gubba",
+  "latin": [
+   "Kalakla Qubba"
+  ],
+  "ar": [
+   "الكلاكلة القبة"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Omdurman Islamic University",
+  "latin": [],
+  "ar": [
+   "جامعة امدرمان الاسلامية"
+  ],
+  "type": "landmark",
+  "admin1": "Khartoum",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Khartoum University",
+  "latin": [
+   "University of Khartoum"
+  ],
+  "ar": [
+   "جامعة الخرطوم"
+  ],
+  "type": "landmark",
+  "admin1": "Khartoum",
+  "lat": 15.61,
+  "lon": 32.54,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Jazirat Aslang",
+  "latin": [
+   "Aslang Island",
+   "Jazirat Islang"
+  ],
+  "ar": [
+   "جزيرة اسلانج"
+  ],
+  "type": "village",
+  "admin1": "Khartoum",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": "north of Omdurman"
+ },
+ {
+  "country": "SD",
+  "en": "Al-Gaili",
+  "latin": [
+   "Al-Jaili town",
+   "Al-Geili"
+  ],
+  "ar": [
+   "الجيلي"
+  ],
+  "type": "town",
+  "admin1": "Khartoum",
+  "lat": 16.03,
+  "lon": 32.62,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Maamoura",
+  "latin": [
+   "Mamoura",
+   "Al-Mamura"
+  ],
+  "ar": [
+   "المعمورة"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.56,
+  "lon": 32.57,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Jereif",
+  "latin": [
+   "Jereif",
+   "Al-Jiraif",
+   "Jereif West",
+   "Jereif East"
+  ],
+  "ar": [
+   "الجريف",
+   "الجريف غرب",
+   "الجريف شرق"
+  ],
+  "type": "neighbourhood",
+  "admin1": "Khartoum",
+  "lat": 15.58,
+  "lon": 32.59,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Wad Madani",
+  "latin": [
+   "Wad Medani",
+   "Madani",
+   "Medani",
+   "Wad Madni"
+  ],
+  "ar": [
+   "ود مدني"
+  ],
+  "type": "city",
+  "admin1": "Gezira",
+  "lat": 14.4,
+  "lon": 33.52,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Wad al-Nourah",
+  "latin": [
+   "Wad al-Noura",
+   "Wad Al Nourah",
+   "Wad Elnoura",
+   "Wad Al-Noura"
+  ],
+  "ar": [
+   "ود النورة"
+  ],
+  "type": "village",
+  "admin1": "Gezira",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "massacre June 2024"
+ },
+ {
+  "country": "SD",
+  "en": "Al-Hasaheisa",
+  "latin": [
+   "Hasaheisa",
+   "Hassaheisa",
+   "El Hasaheisa",
+   "Al-Hasahisa"
+  ],
+  "ar": [
+   "الحصاحيصا"
+  ],
+  "type": "town",
+  "admin1": "Gezira",
+  "lat": 14.75,
+  "lon": 33.3,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Rufa'a",
+  "latin": [
+   "Rufaa",
+   "Rufa'ah",
+   "Rufa",
+   "Rufaa'"
+  ],
+  "ar": [
+   "رفاعة"
+  ],
+  "type": "town",
+  "admin1": "Gezira",
+  "lat": 14.77,
+  "lon": 33.35,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Tamboul",
+  "latin": [
+   "Tambul",
+   "Tamboul",
+   "Tambool"
+  ],
+  "ar": [
+   "تمبول"
+  ],
+  "type": "town",
+  "admin1": "Gezira",
+  "lat": 14.94,
+  "lon": 33.48,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Managil",
+  "latin": [
+   "Managil",
+   "El Managil",
+   "Al-Manaqil"
+  ],
+  "ar": [
+   "المناقل"
+  ],
+  "type": "town",
+  "admin1": "Gezira",
+  "lat": 14.25,
+  "lon": 32.99,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Kamlin",
+  "latin": [
+   "Kamlin",
+   "El Kamlin",
+   "Al-Kamleen"
+  ],
+  "ar": [
+   "الكاملين"
+  ],
+  "type": "town",
+  "admin1": "Gezira",
+  "lat": 15.07,
+  "lon": 33.18,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Abu Haraz",
+  "latin": [
+   "Abu Harraz"
+  ],
+  "ar": [
+   "ابوحراز",
+   "ابو حراز"
+  ],
+  "type": "town",
+  "admin1": "Gezira",
+  "lat": 14.45,
+  "lon": 33.57,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Sireha",
+  "latin": [
+   "Sariha",
+   "As-Sireha",
+   "Al-Sareeha",
+   "Seriha"
+  ],
+  "ar": [
+   "السريحة"
+  ],
+  "type": "village",
+  "admin1": "Gezira",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": "RSF killings Oct 2024"
+ },
+ {
+  "country": "SD",
+  "en": "Al-Hilaliya",
+  "latin": [
+   "Hilaliya",
+   "Hilalia",
+   "El Hilaliya"
+  ],
+  "ar": [
+   "الهلالية"
+  ],
+  "type": "town",
+  "admin1": "Gezira",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": "siege Oct-Nov 2024"
+ },
+ {
+  "country": "SD",
+  "en": "Um Al-Qura (Gezira)",
+  "latin": [
+   "Umm al-Qura",
+   "Um Algura"
+  ],
+  "ar": [
+   "ام القرى"
+  ],
+  "type": "town",
+  "admin1": "Gezira",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Fadasi",
+  "latin": [
+   "Fadasi Al-Halimab"
+  ],
+  "ar": [
+   "فداسي"
+  ],
+  "type": "town",
+  "admin1": "Gezira",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Masoudiya",
+  "latin": [
+   "Masoudiya",
+   "Masudiya"
+  ],
+  "ar": [
+   "المسعودية"
+  ],
+  "type": "town",
+  "admin1": "Gezira",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Maseed",
+  "latin": [
+   "Maseed",
+   "El Messeid",
+   "Al-Masid"
+  ],
+  "ar": [
+   "المسيد"
+  ],
+  "type": "village",
+  "admin1": "Gezira",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "24 Al-Qurashi",
+  "latin": [
+   "Al-Qurashi",
+   "24 Gurashi"
+  ],
+  "ar": [
+   "24 القرشي",
+   "القرشي"
+  ],
+  "type": "town",
+  "admin1": "Gezira",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Hosh",
+  "latin": [
+   "Hosh",
+   "El Hosh"
+  ],
+  "ar": [
+   "الحوش"
+  ],
+  "type": "town",
+  "admin1": "Gezira",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Fao",
+  "latin": [
+   "Fao",
+   "El Fao",
+   "Al Faw"
+  ],
+  "ar": [
+   "الفاو"
+  ],
+  "type": "town",
+  "admin1": "Gedaref",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Sennar",
+  "latin": [
+   "Sinnar",
+   "Sinar",
+   "Sennar town"
+  ],
+  "ar": [
+   "سنار",
+   "مدينة سنار"
+  ],
+  "type": "city",
+  "admin1": "Sennar",
+  "lat": 13.55,
+  "lon": 33.63,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Sennar Dam",
+  "latin": [
+   "Sinnar Dam",
+   "Khazan Sennar"
+  ],
+  "ar": [
+   "خزان سنار"
+  ],
+  "type": "landmark",
+  "admin1": "Sennar",
+  "lat": 13.55,
+  "lon": 33.63,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Singa",
+  "latin": [
+   "Sinja",
+   "Sinjah",
+   "Sunja",
+   "Singa town"
+  ],
+  "ar": [
+   "سنجة"
+  ],
+  "type": "city",
+  "admin1": "Sennar",
+  "lat": 13.15,
+  "lon": 33.93,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Dinder",
+  "latin": [
+   "Ad Dindar",
+   "Al-Dinder",
+   "Dindar"
+  ],
+  "ar": [
+   "الدندر"
+  ],
+  "type": "town",
+  "admin1": "Sennar",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Abu Hujar",
+  "latin": [
+   "Abu Hojar",
+   "Abu Hugar"
+  ],
+  "ar": [
+   "ابوحجار",
+   "ابو حجار"
+  ],
+  "type": "town",
+  "admin1": "Sennar",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Mayurno",
+  "latin": [
+   "Maiurno",
+   "Mayorno",
+   "Mairno"
+  ],
+  "ar": [
+   "مايرنو"
+  ],
+  "type": "town",
+  "admin1": "Sennar",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Jebel Moya",
+  "latin": [
+   "Jabal Moya",
+   "Jebel Muya",
+   "Jabal Muya"
+  ],
+  "ar": [
+   "جبل موية"
+  ],
+  "type": "mountain",
+  "admin1": "Sennar",
+  "lat": 13.48,
+  "lon": 33.35,
+  "confidence": "medium",
+  "notes": "strategic junction"
+ },
+ {
+  "country": "SD",
+  "en": "Al-Suki",
+  "latin": [
+   "Suki",
+   "Es Suki",
+   "As Suki"
+  ],
+  "ar": [
+   "السوكي"
+  ],
+  "type": "town",
+  "admin1": "Sennar",
+  "lat": 13.33,
+  "lon": 33.9,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Ed Damazin",
+  "latin": [
+   "Ad Damazin",
+   "Al-Damazin",
+   "Damazin"
+  ],
+  "ar": [
+   "الدمازين"
+  ],
+  "type": "city",
+  "admin1": "Blue Nile",
+  "lat": 11.79,
+  "lon": 34.36,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Roseires",
+  "latin": [
+   "Al-Roseires",
+   "Er Roseires",
+   "Rusayris"
+  ],
+  "ar": [
+   "الروصيرص"
+  ],
+  "type": "town",
+  "admin1": "Blue Nile",
+  "lat": 11.85,
+  "lon": 34.39,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Kurmuk",
+  "latin": [
+   "Al-Kurmuk",
+   "Kurmuk"
+  ],
+  "ar": [
+   "الكرمك"
+  ],
+  "type": "town",
+  "admin1": "Blue Nile",
+  "lat": 10.55,
+  "lon": 34.28,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Kosti",
+  "latin": [
+   "Kusti",
+   "Kosti town"
+  ],
+  "ar": [
+   "كوستي"
+  ],
+  "type": "city",
+  "admin1": "White Nile",
+  "lat": 13.16,
+  "lon": 32.66,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Rabak",
+  "latin": [
+   "Rabak"
+  ],
+  "ar": [
+   "ربك"
+  ],
+  "type": "city",
+  "admin1": "White Nile",
+  "lat": 13.18,
+  "lon": 32.74,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Ed Dueim",
+  "latin": [
+   "Ad Duwaym",
+   "Al-Dueim",
+   "El Dueim",
+   "Dueim"
+  ],
+  "ar": [
+   "الدويم"
+  ],
+  "type": "town",
+  "admin1": "White Nile",
+  "lat": 14.0,
+  "lon": 32.31,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Gitaina",
+  "latin": [
+   "Geteina",
+   "Al-Qitaynah",
+   "El Gutaina",
+   "Gitaina"
+  ],
+  "ar": [
+   "القطينة"
+  ],
+  "type": "town",
+  "admin1": "White Nile",
+  "lat": 14.86,
+  "lon": 32.37,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Jebelein",
+  "latin": [
+   "Al-Jabalain",
+   "Jabalein",
+   "El Jebelein"
+  ],
+  "ar": [
+   "الجبلين"
+  ],
+  "type": "town",
+  "admin1": "White Nile",
+  "lat": 12.58,
+  "lon": 32.8,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Tendalti",
+  "latin": [
+   "Tandalti",
+   "Tendelti"
+  ],
+  "ar": [
+   "تندلتي"
+  ],
+  "type": "town",
+  "admin1": "White Nile",
+  "lat": 13.02,
+  "lon": 31.87,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Um Rimta",
+  "latin": [
+   "Umm Rimta"
+  ],
+  "ar": [
+   "ام رمتة"
+  ],
+  "type": "town",
+  "admin1": "White Nile",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Gedaref",
+  "latin": [
+   "Al Qadarif",
+   "Al-Qadarif",
+   "Gadarif",
+   "El Gedaref",
+   "Gedarif"
+  ],
+  "ar": [
+   "القضارف"
+  ],
+  "type": "city",
+  "admin1": "Gedaref",
+  "lat": 14.03,
+  "lon": 35.38,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Galabat",
+  "latin": [
+   "Gallabat",
+   "Qallabat",
+   "Galabat"
+  ],
+  "ar": [
+   "القلابات"
+  ],
+  "type": "town",
+  "admin1": "Gedaref",
+  "lat": 12.97,
+  "lon": 36.15,
+  "confidence": "medium",
+  "notes": "Ethiopia border crossing"
+ },
+ {
+  "country": "SD",
+  "en": "Kassala",
+  "latin": [
+   "Kasala",
+   "Kassala town"
+  ],
+  "ar": [
+   "كسلا"
+  ],
+  "type": "city",
+  "admin1": "Kassala",
+  "lat": 15.45,
+  "lon": 36.4,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "New Halfa",
+  "latin": [
+   "Halfa al-Jadida",
+   "Halfa Jadida",
+   "New Halfa"
+  ],
+  "ar": [
+   "حلفا الجديدة"
+  ],
+  "type": "town",
+  "admin1": "Kassala",
+  "lat": 15.32,
+  "lon": 35.6,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Khashm el Girba",
+  "latin": [
+   "Khashm al-Qirbah",
+   "Khashm el-Girba"
+  ],
+  "ar": [
+   "خشم القربة"
+  ],
+  "type": "town",
+  "admin1": "Kassala",
+  "lat": 14.97,
+  "lon": 35.9,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Port Sudan",
+  "latin": [
+   "Bur Sudan",
+   "Port-Soudan",
+   "Bor Sudan"
+  ],
+  "ar": [
+   "بورتسودان",
+   "بورت سودان"
+  ],
+  "type": "city",
+  "admin1": "Red Sea",
+  "lat": 19.62,
+  "lon": 37.22,
+  "confidence": "high",
+  "notes": "de facto wartime SAF seat"
+ },
+ {
+  "country": "SD",
+  "en": "Port Sudan Airport",
+  "latin": [
+   "Port Sudan International Airport"
+  ],
+  "ar": [
+   "مطار بورتسودان"
+  ],
+  "type": "airport",
+  "admin1": "Red Sea",
+  "lat": 19.43,
+  "lon": 37.23,
+  "confidence": "medium",
+  "notes": "drone strikes May 2025"
+ },
+ {
+  "country": "SD",
+  "en": "Suakin",
+  "latin": [
+   "Sawakin",
+   "Swakin"
+  ],
+  "ar": [
+   "سواكن"
+  ],
+  "type": "town",
+  "admin1": "Red Sea",
+  "lat": 19.1,
+  "lon": 37.33,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Tokar",
+  "latin": [
+   "Tawkar"
+  ],
+  "ar": [
+   "طوكر"
+  ],
+  "type": "town",
+  "admin1": "Red Sea",
+  "lat": 18.43,
+  "lon": 37.73,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Flamingo Naval Base",
+  "latin": [
+   "Flamingo base"
+  ],
+  "ar": [
+   "قاعدة فلامنجو"
+  ],
+  "type": "military",
+  "admin1": "Red Sea",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Atbara",
+  "latin": [
+   "Atbarah",
+   "Atbra"
+  ],
+  "ar": [
+   "عطبرة"
+  ],
+  "type": "city",
+  "admin1": "River Nile",
+  "lat": 17.7,
+  "lon": 33.99,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Ed Damer",
+  "latin": [
+   "Ad Damir",
+   "Al-Damer",
+   "El Damer",
+   "Damer"
+  ],
+  "ar": [
+   "الدامر"
+  ],
+  "type": "city",
+  "admin1": "River Nile",
+  "lat": 17.59,
+  "lon": 33.97,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Shendi",
+  "latin": [
+   "Shandi",
+   "Shendy"
+  ],
+  "ar": [
+   "شندي"
+  ],
+  "type": "town",
+  "admin1": "River Nile",
+  "lat": 16.69,
+  "lon": 33.43,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Berber",
+  "latin": [
+   "Barbar"
+  ],
+  "ar": [
+   "بربر"
+  ],
+  "type": "town",
+  "admin1": "River Nile",
+  "lat": 18.02,
+  "lon": 33.98,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Abu Hamad",
+  "latin": [
+   "Abu Hamed"
+  ],
+  "ar": [
+   "ابوحمد",
+   "ابو حمد"
+  ],
+  "type": "town",
+  "admin1": "River Nile",
+  "lat": 19.54,
+  "lon": 33.33,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Matamma",
+  "latin": [
+   "Metemma",
+   "Al-Mitamma"
+  ],
+  "ar": [
+   "المتمة"
+  ],
+  "type": "town",
+  "admin1": "River Nile",
+  "lat": 16.71,
+  "lon": 33.37,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Dongola",
+  "latin": [
+   "Dunqulah",
+   "Dongala",
+   "Dungula"
+  ],
+  "ar": [
+   "دنقلا"
+  ],
+  "type": "city",
+  "admin1": "Northern",
+  "lat": 19.17,
+  "lon": 30.48,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Merowe",
+  "latin": [
+   "Marawi",
+   "Merowe town",
+   "Merawi"
+  ],
+  "ar": [
+   "مروي"
+  ],
+  "type": "town",
+  "admin1": "Northern",
+  "lat": 18.48,
+  "lon": 31.82,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Merowe Airport / Air Base",
+  "latin": [
+   "Merowe Airport",
+   "Merowe airbase"
+  ],
+  "ar": [
+   "مطار مروي"
+  ],
+  "type": "airport",
+  "admin1": "Northern",
+  "lat": 18.44,
+  "lon": 31.84,
+  "confidence": "medium",
+  "notes": "RSF seized it Apr 2023"
+ },
+ {
+  "country": "SD",
+  "en": "Merowe Dam",
+  "latin": [
+   "Hamdab Dam",
+   "Merowe dam"
+  ],
+  "ar": [
+   "سد مروي"
+  ],
+  "type": "landmark",
+  "admin1": "Northern",
+  "lat": 18.67,
+  "lon": 32.05,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Karima",
+  "latin": [
+   "Kareima",
+   "Kuraymah"
+  ],
+  "ar": [
+   "كريمة"
+  ],
+  "type": "town",
+  "admin1": "Northern",
+  "lat": 18.55,
+  "lon": 31.85,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Debba",
+  "latin": [
+   "Debba",
+   "Ad Dabbah",
+   "Al-Dabba",
+   "El Debba"
+  ],
+  "ar": [
+   "الدبة"
+  ],
+  "type": "town",
+  "admin1": "Northern",
+  "lat": 18.05,
+  "lon": 30.95,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Wadi Halfa",
+  "latin": [
+   "Wadi Halfa"
+  ],
+  "ar": [
+   "وادي حلفا"
+  ],
+  "type": "town",
+  "admin1": "Northern",
+  "lat": 21.8,
+  "lon": 31.35,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "El Obeid",
+  "latin": [
+   "Al-Ubayyid",
+   "Al Obeid",
+   "El-Obeid",
+   "Obeid",
+   "Al-Ubayyiḍ"
+  ],
+  "ar": [
+   "الابيض"
+  ],
+  "type": "city",
+  "admin1": "North Kordofan",
+  "lat": 13.18,
+  "lon": 30.22,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "El Obeid Airport",
+  "latin": [
+   "Al-Ubayyid Airport"
+  ],
+  "ar": [
+   "مطار الابيض"
+  ],
+  "type": "airport",
+  "admin1": "North Kordofan",
+  "lat": 13.15,
+  "lon": 30.23,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Bara",
+  "latin": [
+   "Bara town"
+  ],
+  "ar": [
+   "بارا"
+  ],
+  "type": "town",
+  "admin1": "North Kordofan",
+  "lat": 13.7,
+  "lon": 30.37,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Um Rawaba",
+  "latin": [
+   "Umm Ruwaba",
+   "Um Ruwaba",
+   "Umm Rawaba"
+  ],
+  "ar": [
+   "ام روابة"
+  ],
+  "type": "town",
+  "admin1": "North Kordofan",
+  "lat": 12.9,
+  "lon": 31.22,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Er Rahad",
+  "latin": [
+   "Al-Rahad",
+   "Ar Rahad",
+   "El Rahad"
+  ],
+  "ar": [
+   "الرهد"
+  ],
+  "type": "town",
+  "admin1": "North Kordofan",
+  "lat": 12.72,
+  "lon": 30.65,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Um Sumeima",
+  "latin": [
+   "Umm Sumaymah"
+  ],
+  "ar": [
+   "ام صميمة"
+  ],
+  "type": "village",
+  "admin1": "North Kordofan",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Kazgil",
+  "latin": [
+   "Kazgeil",
+   "Kazgel"
+  ],
+  "ar": [
+   "كازقيل"
+  ],
+  "type": "village",
+  "admin1": "North Kordofan",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Khuwei",
+  "latin": [
+   "Khuwei",
+   "El Khowei",
+   "Al-Khiwai"
+  ],
+  "ar": [
+   "الخوي"
+  ],
+  "type": "town",
+  "admin1": "West Kordofan",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "En Nahud",
+  "latin": [
+   "An Nuhud",
+   "Al-Nahud",
+   "El Nahud",
+   "Nuhud"
+  ],
+  "ar": [
+   "النهود"
+  ],
+  "type": "city",
+  "admin1": "West Kordofan",
+  "lat": 12.7,
+  "lon": 28.43,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "El Fula",
+  "latin": [
+   "Al-Fulah",
+   "Al Fula",
+   "El Foula"
+  ],
+  "ar": [
+   "الفولة"
+  ],
+  "type": "city",
+  "admin1": "West Kordofan",
+  "lat": 11.72,
+  "lon": 28.35,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Babanusa",
+  "latin": [
+   "Babanousa",
+   "Babanosa"
+  ],
+  "ar": [
+   "بابنوسة"
+  ],
+  "type": "town",
+  "admin1": "West Kordofan",
+  "lat": 11.33,
+  "lon": 27.81,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Muglad",
+  "latin": [
+   "Al-Muglad",
+   "El Muglad",
+   "Al Mujlad"
+  ],
+  "ar": [
+   "المجلد"
+  ],
+  "type": "town",
+  "admin1": "West Kordofan",
+  "lat": 11.03,
+  "lon": 27.73,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Heglig",
+  "latin": [
+   "Hijlij",
+   "Higlig",
+   "Heglig oil field"
+  ],
+  "ar": [
+   "هجليج"
+  ],
+  "type": "town",
+  "admin1": "West Kordofan",
+  "lat": 10.0,
+  "lon": 29.4,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Abu Zabad",
+  "latin": [
+   "Abu Zabad"
+  ],
+  "ar": [
+   "ابوزبد",
+   "ابو زبد"
+  ],
+  "type": "town",
+  "admin1": "West Kordofan",
+  "lat": 12.35,
+  "lon": 29.25,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Kadugli",
+  "latin": [
+   "Kaduqli",
+   "Kadugle",
+   "Kadogli"
+  ],
+  "ar": [
+   "كادقلي"
+  ],
+  "type": "city",
+  "admin1": "South Kordofan",
+  "lat": 11.01,
+  "lon": 29.72,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Dilling",
+  "latin": [
+   "Ad Dilling",
+   "Al-Dilling",
+   "Delling",
+   "Dalang"
+  ],
+  "ar": [
+   "الدلنج"
+  ],
+  "type": "city",
+  "admin1": "South Kordofan",
+  "lat": 12.05,
+  "lon": 29.65,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Abu Kershola",
+  "latin": [
+   "Abu Karshola",
+   "Abukarshola"
+  ],
+  "ar": [
+   "ابوكرشولا",
+   "ابو كرشولا"
+  ],
+  "type": "town",
+  "admin1": "South Kordofan",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Talodi",
+  "latin": [
+   "Taludi"
+  ],
+  "ar": [
+   "تلودي"
+  ],
+  "type": "town",
+  "admin1": "South Kordofan",
+  "lat": 10.63,
+  "lon": 30.38,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Kauda",
+  "latin": [
+   "Kawda",
+   "Kaouda"
+  ],
+  "ar": [
+   "كاودا"
+  ],
+  "type": "town",
+  "admin1": "South Kordofan",
+  "lat": 11.1,
+  "lon": 30.52,
+  "confidence": "medium",
+  "notes": "SPLM-N (al-Hilu) stronghold"
+ },
+ {
+  "country": "SD",
+  "en": "Al-Dibeibat",
+  "latin": [
+   "Dibeibat",
+   "Ad Dubaybat",
+   "El Dibeibat"
+  ],
+  "ar": [
+   "الدبيبات"
+  ],
+  "type": "town",
+  "admin1": "South Kordofan",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Habila (South Kordofan)",
+  "latin": [
+   "Habila"
+  ],
+  "ar": [
+   "هبيلا"
+  ],
+  "type": "town",
+  "admin1": "South Kordofan",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "El Fasher",
+  "latin": [
+   "Al-Fashir",
+   "Alfashir",
+   "El Fashir",
+   "Al Fasher",
+   "Fasher",
+   "Al-Fasher"
+  ],
+  "ar": [
+   "الفاشر"
+  ],
+  "type": "city",
+  "admin1": "North Darfur",
+  "lat": 13.63,
+  "lon": 25.35,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "El Fasher 6th Division HQ",
+  "latin": [
+   "Sixth Division HQ",
+   "6th Infantry Division HQ"
+  ],
+  "ar": [
+   "رئاسة الفرقة السادسة",
+   "قيادة الفرقة السادسة"
+  ],
+  "type": "military",
+  "admin1": "North Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Saudi Hospital (El Fasher)",
+  "latin": [
+   "Saudi Maternity Hospital",
+   "Al-Saudi Hospital",
+   "Saudi Teaching Hospital"
+  ],
+  "ar": [
+   "المستشفى السعودي",
+   "مستشفى السعودي"
+  ],
+  "type": "landmark",
+  "admin1": "North Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "high",
+  "notes": "repeatedly attacked 2024-25"
+ },
+ {
+  "country": "SD",
+  "en": "El Fasher South Hospital",
+  "latin": [
+   "South Hospital"
+  ],
+  "ar": [
+   "مستشفى الفاشر الجنوبي",
+   "المستشفى الجنوبي"
+  ],
+  "type": "landmark",
+  "admin1": "North Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "El Fasher Airport",
+  "latin": [
+   "Al-Fashir Airport"
+  ],
+  "ar": [
+   "مطار الفاشر"
+  ],
+  "type": "airport",
+  "admin1": "North Darfur",
+  "lat": 13.61,
+  "lon": 25.32,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Abu Shouk Camp",
+  "latin": [
+   "Abu Shouk",
+   "Abu Shok",
+   "Abushouk",
+   "Abu Shawk"
+  ],
+  "ar": [
+   "معسكر ابوشوك",
+   "ابوشوك",
+   "ابو شوك"
+  ],
+  "type": "camp",
+  "admin1": "North Darfur",
+  "lat": 13.66,
+  "lon": 25.33,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Zamzam Camp",
+  "latin": [
+   "Zamzam",
+   "Zam Zam",
+   "Zamzam IDP camp"
+  ],
+  "ar": [
+   "معسكر زمزم",
+   "زمزم"
+  ],
+  "type": "camp",
+  "admin1": "North Darfur",
+  "lat": 13.49,
+  "lon": 25.28,
+  "confidence": "medium",
+  "notes": "overrun by RSF Apr 2025"
+ },
+ {
+  "country": "SD",
+  "en": "Al-Salam Camp (El Fasher)",
+  "latin": [
+   "El Salam camp",
+   "As Salam",
+   "Salam camp"
+  ],
+  "ar": [
+   "معسكر السلام"
+  ],
+  "type": "camp",
+  "admin1": "North Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": "same name exists in Nyala"
+ },
+ {
+  "country": "SD",
+  "en": "Naivasha (El Fasher)",
+  "latin": [
+   "Nivasha",
+   "Naifasha"
+  ],
+  "ar": [
+   "نيفاشا"
+  ],
+  "type": "neighbourhood",
+  "admin1": "North Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Daraja al-Oula (El Fasher)",
+  "latin": [
+   "Daraja Oula",
+   "Al-Daraja al-Ula"
+  ],
+  "ar": [
+   "الدرجة الاولى"
+  ],
+  "type": "neighbourhood",
+  "admin1": "North Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Awlad al-Reef (El Fasher)",
+  "latin": [
+   "Awlad el Rif",
+   "Awlad al-Rif"
+  ],
+  "ar": [
+   "اولاد الريف"
+  ],
+  "type": "neighbourhood",
+  "admin1": "North Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Tawila",
+  "latin": [
+   "Tawilah",
+   "Tawila town",
+   "Tawilla"
+  ],
+  "ar": [
+   "طويلة"
+  ],
+  "type": "town",
+  "admin1": "North Darfur",
+  "lat": 13.45,
+  "lon": 24.83,
+  "confidence": "medium",
+  "notes": "main refuge for people fleeing El Fasher/Zamzam"
+ },
+ {
+  "country": "SD",
+  "en": "Mellit",
+  "latin": [
+   "Malit",
+   "Mellit town",
+   "Mellite"
+  ],
+  "ar": [
+   "مليط"
+  ],
+  "type": "town",
+  "admin1": "North Darfur",
+  "lat": 14.13,
+  "lon": 25.55,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Kutum",
+  "latin": [
+   "Kuttum",
+   "Kutum town",
+   "Kotum"
+  ],
+  "ar": [
+   "كتم"
+  ],
+  "type": "town",
+  "admin1": "North Darfur",
+  "lat": 14.2,
+  "lon": 24.66,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Kassab Camp",
+  "latin": [
+   "Kassab",
+   "Kasab"
+  ],
+  "ar": [
+   "معسكر كساب",
+   "كساب"
+  ],
+  "type": "camp",
+  "admin1": "North Darfur",
+  "lat": 14.21,
+  "lon": 24.66,
+  "confidence": "medium",
+  "notes": "near Kutum"
+ },
+ {
+  "country": "SD",
+  "en": "Fata Borno Camp",
+  "latin": [
+   "Fata Borno",
+   "Fataborno"
+  ],
+  "ar": [
+   "فتابرنو",
+   "فتا برنو"
+  ],
+  "type": "camp",
+  "admin1": "North Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": "near Kutum"
+ },
+ {
+  "country": "SD",
+  "en": "Kabkabiya",
+  "latin": [
+   "Kebkabiya",
+   "Kabkabia",
+   "Kebkabia"
+  ],
+  "ar": [
+   "كبكابية"
+  ],
+  "type": "town",
+  "admin1": "North Darfur",
+  "lat": 13.65,
+  "lon": 24.08,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Saraf Omra",
+  "latin": [
+   "Saraf Umra",
+   "Seraf Omra"
+  ],
+  "ar": [
+   "سرف عمرة"
+  ],
+  "type": "town",
+  "admin1": "North Darfur",
+  "lat": 13.45,
+  "lon": 23.27,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Um Kadada",
+  "latin": [
+   "Umm Keddada",
+   "Um Keddada",
+   "Umm Kaddadah",
+   "Um Kaddada"
+  ],
+  "ar": [
+   "ام كدادة"
+  ],
+  "type": "town",
+  "admin1": "North Darfur",
+  "lat": 13.6,
+  "lon": 26.69,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Tina",
+  "latin": [
+   "Tine",
+   "Tiné",
+   "Al-Tina",
+   "Tine Sudan"
+  ],
+  "ar": [
+   "الطينة",
+   "طينة"
+  ],
+  "type": "town",
+  "admin1": "North Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": "border town facing Tiné, Chad"
+ },
+ {
+  "country": "SD",
+  "en": "Um Baru",
+  "latin": [
+   "Umm Baru",
+   "Um Barro",
+   "Umm Barru"
+  ],
+  "ar": [
+   "ام برو"
+  ],
+  "type": "town",
+  "admin1": "North Darfur",
+  "lat": 15.05,
+  "lon": 23.72,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Karnoi",
+  "latin": [
+   "Kornoi",
+   "Karnoy",
+   "Kornoy"
+  ],
+  "ar": [
+   "كرنوي"
+  ],
+  "type": "town",
+  "admin1": "North Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Malha",
+  "latin": [
+   "Al-Malha",
+   "Malha town",
+   "El Malha"
+  ],
+  "ar": [
+   "المالحة"
+  ],
+  "type": "town",
+  "admin1": "North Darfur",
+  "lat": 15.13,
+  "lon": 26.2,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Um Sidir",
+  "latin": [
+   "Umm Sidir",
+   "Um Sedir"
+  ],
+  "ar": [
+   "ام سدر"
+  ],
+  "type": "village",
+  "admin1": "North Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Koma",
+  "latin": [
+   "Koma",
+   "El Koma"
+  ],
+  "ar": [
+   "الكومة"
+  ],
+  "type": "town",
+  "admin1": "North Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Shangil Tobaya",
+  "latin": [
+   "Shangil Tubaya",
+   "Shangil Tobay"
+  ],
+  "ar": [
+   "شنقل طوباية",
+   "شنقلي طوباية"
+  ],
+  "type": "town",
+  "admin1": "North Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Tabit",
+  "latin": [
+   "Thabit",
+   "Tabet"
+  ],
+  "ar": [
+   "تابت"
+  ],
+  "type": "village",
+  "admin1": "North Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Dar al-Salam (North Darfur)",
+  "latin": [
+   "Dar es Salam",
+   "Dar As Salam"
+  ],
+  "ar": [
+   "دار السلام"
+  ],
+  "type": "town",
+  "admin1": "North Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": "common name; ambiguous"
+ },
+ {
+  "country": "SD",
+  "en": "Jebel Amer",
+  "latin": [
+   "Jabal Amir",
+   "Jebel Amir",
+   "Jebel Aamer"
+  ],
+  "ar": [
+   "جبل عامر"
+  ],
+  "type": "mountain",
+  "admin1": "North Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": "gold mining area"
+ },
+ {
+  "country": "SD",
+  "en": "Wadi Howar",
+  "latin": [
+   "Wadi Hawar"
+  ],
+  "ar": [
+   "وادي هور"
+  ],
+  "type": "wadi",
+  "admin1": "North Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Tuweisha",
+  "latin": [
+   "Tuweisha",
+   "El Tuweisha",
+   "Al-Tawisha"
+  ],
+  "ar": [
+   "الطويشة"
+  ],
+  "type": "town",
+  "admin1": "North Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Lait",
+  "latin": [
+   "El Lait",
+   "Al-Leit"
+  ],
+  "ar": [
+   "اللعيت",
+   "اللعيت جار النبي"
+  ],
+  "type": "town",
+  "admin1": "North Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Nyala",
+  "latin": [
+   "Niyala",
+   "Nyala town"
+  ],
+  "ar": [
+   "نيالا"
+  ],
+  "type": "city",
+  "admin1": "South Darfur",
+  "lat": 12.05,
+  "lon": 24.88,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Nyala Airport",
+  "latin": [
+   "Nyala airport"
+  ],
+  "ar": [
+   "مطار نيالا"
+  ],
+  "type": "airport",
+  "admin1": "South Darfur",
+  "lat": 12.05,
+  "lon": 24.96,
+  "confidence": "medium",
+  "notes": "RSF drone hub; repeatedly struck"
+ },
+ {
+  "country": "SD",
+  "en": "Kalma Camp",
+  "latin": [
+   "Kalma",
+   "Kalmah"
+  ],
+  "ar": [
+   "معسكر كلمة",
+   "كلمة"
+  ],
+  "type": "camp",
+  "admin1": "South Darfur",
+  "lat": 12.02,
+  "lon": 24.95,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Otash Camp",
+  "latin": [
+   "Otash",
+   "Utash"
+  ],
+  "ar": [
+   "معسكر عطاش",
+   "عطاش"
+  ],
+  "type": "camp",
+  "admin1": "South Darfur",
+  "lat": 12.08,
+  "lon": 24.9,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Salam Camp (Nyala)",
+  "latin": [
+   "El Salam camp Nyala"
+  ],
+  "ar": [
+   "معسكر السلام نيالا"
+  ],
+  "type": "camp",
+  "admin1": "South Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Kas",
+  "latin": [
+   "Kass",
+   "Kas town"
+  ],
+  "ar": [
+   "كاس"
+  ],
+  "type": "town",
+  "admin1": "South Darfur",
+  "lat": 12.5,
+  "lon": 24.28,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Beleil",
+  "latin": [
+   "Bileil",
+   "Belail"
+  ],
+  "ar": [
+   "بليل"
+  ],
+  "type": "town",
+  "admin1": "South Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Buram",
+  "latin": [
+   "Burum"
+  ],
+  "ar": [
+   "برام"
+  ],
+  "type": "town",
+  "admin1": "South Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Tulus",
+  "latin": [
+   "Tullus"
+  ],
+  "ar": [
+   "تلس"
+  ],
+  "type": "town",
+  "admin1": "South Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Rahad al-Berdi",
+  "latin": [
+   "Rehed al-Berdi",
+   "Rahad el Berdi"
+  ],
+  "ar": [
+   "رهيد البردي"
+  ],
+  "type": "town",
+  "admin1": "South Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Ed al-Fursan",
+  "latin": [
+   "Id al-Fursan",
+   "Eid al-Fursan"
+  ],
+  "ar": [
+   "عد الفرسان"
+  ],
+  "type": "town",
+  "admin1": "South Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Gereida",
+  "latin": [
+   "Graida",
+   "Qurayda"
+  ],
+  "ar": [
+   "قريضة"
+  ],
+  "type": "town",
+  "admin1": "South Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Ed Daein",
+  "latin": [
+   "Ad Du'ayn",
+   "El Daein",
+   "Al-Daein",
+   "Ed Da'ein",
+   "Al Du'ayn"
+  ],
+  "ar": [
+   "الضعين"
+  ],
+  "type": "city",
+  "admin1": "East Darfur",
+  "lat": 11.46,
+  "lon": 26.13,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Abu Karinka",
+  "latin": [
+   "Abu Karinka",
+   "Abukarinka"
+  ],
+  "ar": [
+   "ابوكارنكا",
+   "ابو كارنكا"
+  ],
+  "type": "town",
+  "admin1": "East Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Adila",
+  "latin": [
+   "Adeela"
+  ],
+  "ar": [
+   "عديلة"
+  ],
+  "type": "town",
+  "admin1": "East Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Yassin",
+  "latin": [
+   "Yasin"
+  ],
+  "ar": [
+   "ياسين"
+  ],
+  "type": "town",
+  "admin1": "East Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Zalingei",
+  "latin": [
+   "Zalinge",
+   "Zalingay",
+   "Zalingi"
+  ],
+  "ar": [
+   "زالنجي"
+  ],
+  "type": "city",
+  "admin1": "Central Darfur",
+  "lat": 12.91,
+  "lon": 23.47,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Hamidiya Camp",
+  "latin": [
+   "Hamidiya",
+   "Hamadiya",
+   "Al-Hamidiya"
+  ],
+  "ar": [
+   "معسكر الحميدية",
+   "الحميدية"
+  ],
+  "type": "camp",
+  "admin1": "Central Darfur",
+  "lat": 12.9,
+  "lon": 23.49,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Hasahisa Camp (Zalingei)",
+  "latin": [
+   "Hassa Hissa",
+   "Al-Hasahisa camp",
+   "Hasahisa"
+  ],
+  "ar": [
+   "معسكر الحصاحيصا"
+  ],
+  "type": "camp",
+  "admin1": "Central Darfur",
+  "lat": 12.92,
+  "lon": 23.47,
+  "confidence": "medium",
+  "notes": "not the Gezira town"
+ },
+ {
+  "country": "SD",
+  "en": "Khamsa Dagaig Camp",
+  "latin": [
+   "Khamsa Degaig",
+   "Five Minutes camp"
+  ],
+  "ar": [
+   "معسكر خمسة دقائق"
+  ],
+  "type": "camp",
+  "admin1": "Central Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Nertiti",
+  "latin": [
+   "Nertiti",
+   "Nirtiti"
+  ],
+  "ar": [
+   "نيرتتي",
+   "نيرتيتي"
+  ],
+  "type": "town",
+  "admin1": "Central Darfur",
+  "lat": 12.95,
+  "lon": 24.05,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Golo",
+  "latin": [
+   "Golo"
+  ],
+  "ar": [
+   "قولو"
+  ],
+  "type": "town",
+  "admin1": "Central Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": "Jebel Marra; SLA-AW area"
+ },
+ {
+  "country": "SD",
+  "en": "Garsila",
+  "latin": [
+   "Qarsila",
+   "Garsilla"
+  ],
+  "ar": [
+   "قارسيلا"
+  ],
+  "type": "town",
+  "admin1": "Central Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Mukjar",
+  "latin": [
+   "Mukjar"
+  ],
+  "ar": [
+   "مكجر"
+  ],
+  "type": "town",
+  "admin1": "Central Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Um Dukhun",
+  "latin": [
+   "Umm Dukhun"
+  ],
+  "ar": [
+   "ام دخن"
+  ],
+  "type": "town",
+  "admin1": "Central Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Geneina",
+  "latin": [
+   "El Geneina",
+   "Al-Junaynah",
+   "Al Genaina",
+   "Genaina",
+   "El Genaina",
+   "Al-Jenaina"
+  ],
+  "ar": [
+   "الجنينة"
+  ],
+  "type": "city",
+  "admin1": "West Darfur",
+  "lat": 13.45,
+  "lon": 22.45,
+  "confidence": "high",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Ardamata",
+  "latin": [
+   "Ardamatta",
+   "Ard Amata",
+   "Ardamta"
+  ],
+  "ar": [
+   "اردمتا"
+  ],
+  "type": "neighbourhood",
+  "admin1": "West Darfur",
+  "lat": 13.47,
+  "lon": 22.47,
+  "confidence": "medium",
+  "notes": "Geneina suburb; 15th Division base; massacre Nov 2023"
+ },
+ {
+  "country": "SD",
+  "en": "Krinding Camp",
+  "latin": [
+   "Kerending",
+   "Krinding",
+   "Kerinding"
+  ],
+  "ar": [
+   "معسكر كريندنق",
+   "كريندنق",
+   "كريندينق"
+  ],
+  "type": "camp",
+  "admin1": "West Darfur",
+  "lat": 13.43,
+  "lon": 22.46,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Jamarik (Geneina)",
+  "latin": [
+   "Jamarik",
+   "Customs area"
+  ],
+  "ar": [
+   "الجمارك"
+  ],
+  "type": "neighbourhood",
+  "admin1": "West Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Al-Madaris (Geneina)",
+  "latin": [
+   "Madaris"
+  ],
+  "ar": [
+   "المدارس"
+  ],
+  "type": "neighbourhood",
+  "admin1": "West Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Misterei",
+  "latin": [
+   "Masteri",
+   "Mistiri",
+   "Mesteri",
+   "Misteri"
+  ],
+  "ar": [
+   "مستري"
+  ],
+  "type": "town",
+  "admin1": "West Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Kereneik",
+  "latin": [
+   "Krenik",
+   "Kreinik",
+   "Kereinik"
+  ],
+  "ar": [
+   "كرينك"
+  ],
+  "type": "town",
+  "admin1": "West Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Sirba",
+  "latin": [
+   "Sirbeh"
+  ],
+  "ar": [
+   "سربا"
+  ],
+  "type": "town",
+  "admin1": "West Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Kulbus",
+  "latin": [
+   "Kulbus"
+  ],
+  "ar": [
+   "كلبس"
+  ],
+  "type": "town",
+  "admin1": "West Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Foro Baranga",
+  "latin": [
+   "Furbaranga",
+   "Foro Burunga"
+  ],
+  "ar": [
+   "فوربرنقا",
+   "فور برنقا"
+  ],
+  "type": "town",
+  "admin1": "West Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Murnei",
+  "latin": [
+   "Mornei",
+   "Murni"
+  ],
+  "ar": [
+   "مورني"
+  ],
+  "type": "town",
+  "admin1": "West Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Beida",
+  "latin": [
+   "Bayda"
+  ],
+  "ar": [
+   "بيضة"
+  ],
+  "type": "town",
+  "admin1": "West Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Habila (West Darfur)",
+  "latin": [
+   "Habila"
+  ],
+  "ar": [
+   "هبيلا"
+  ],
+  "type": "town",
+  "admin1": "West Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "SD",
+  "en": "Jebel Moon",
+  "latin": [
+   "Jabal Mun",
+   "Jebel Mun"
+  ],
+  "ar": [
+   "جبل مون"
+  ],
+  "type": "mountain",
+  "admin1": "West Darfur",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": ""
+ },
+ {
+  "country": "TD",
+  "en": "Adré",
+  "latin": [
+   "Adre",
+   "Adré crossing",
+   "Adre border crossing"
+  ],
+  "ar": [
+   "ادري",
+   "ادرى",
+   "معبر ادري"
+  ],
+  "type": "town",
+  "admin1": "Ouaddaï",
+  "lat": 13.47,
+  "lon": 22.2,
+  "confidence": "high",
+  "notes": "Chad; main crossing into West Darfur"
+ },
+ {
+  "country": "TD",
+  "en": "Tiné (Chad)",
+  "latin": [
+   "Tine Chad"
+  ],
+  "ar": [
+   "الطينة التشادية"
+  ],
+  "type": "town",
+  "admin1": "Wadi Fira",
+  "lat": null,
+  "lon": null,
+  "confidence": "medium",
+  "notes": "Chad side of Tina"
+ }
+]
