@@ -167,6 +167,25 @@ check("index_text without meta", hits(textnorm.fts_query("قصف"), "plain_fts")
 check("index_row shape", index.index_row("в а г н е р", ["Chan"])[0] == "вагнер" and index.index_row("x")[2] == "")
 check("KEY_VERSION", translit.KEY_VERSION == 2 and index.FTS_VERSION == "3")
 
+# contentless tables: same matches and ranking, no stored text, rows still replaceable
+if sqlite3.sqlite_version_info >= index.CONTENTLESS_MIN_SQLITE:
+    con.execute(index.fts_ddl("cl_fts", meta=True, contentless=True))
+    docs = {1: "Wagner attacked the base near Bakhmut", 2: "обстрелы Бахмута", 3: "قصفت الطائرات الفاشر"}
+    for rid, t in docs.items():
+        index.index_text(con, "cl_fts", rid, t, ["chan"])
+        index.index_text(con, "posts_fts", 1000 + rid, t, ["chan"])
+    for q in ("Bakhmut", "обстрел", "قصف", "wagner NEAR/5 bakhmut"):
+        e = textnorm.fts_scoped(lexicon.expand(q)["fts"])
+        check(f"contentless: same hits as content table ({q})",
+              hits(e, "cl_fts") == {r - 1000 for r in hits(e) if r > 1000})
+    check("contentless: no stored text", con.execute("SELECT norm FROM cl_fts WHERE rowid = 1").fetchone()[0] is None)
+    check("contentless: bm25 available", con.execute("SELECT bm25(cl_fts) FROM cl_fts WHERE cl_fts MATCH 'bakhmut'").fetchone()[0] is not None)
+    index.index_text(con, "cl_fts", 2, "replaced text", ["chan"])
+    check("contentless: index_text replaces the row", hits('"replaced"*', "cl_fts") == {2}
+          and 2 not in hits(textnorm.fts_scoped(lexicon.expand("обстрел")["fts"]), "cl_fts")
+          and con.execute("SELECT COUNT(*) FROM cl_fts").fetchone()[0] == 3)
+    check("contentless: meta not matched by a text search", hits(textnorm.fts_scoped('"chan"*'), "cl_fts") == set())
+
 # ---------------------------------------------------------------- #8 find_places
 FP = lambda t, **k: lexicon.find_places(N(t), doc_freq=DF, **k)
 r = FP("Обстрел El Fasher и alfashir, الفاشر, Хартума")
