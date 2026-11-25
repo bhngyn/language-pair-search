@@ -258,7 +258,7 @@ function scriptOf(word) {
 
 // Arabic / Persian personal names (KEY_VERSION 3): translit._name_fold / join_keys. Applied to word keys in
 // wordKey / matchKey only, never in latinKey / cyKey (those also make the index's ROMAN_PREFIX tokens).
-const NAME_FOLDS = [["mu?[gq]am[aiu]d", "mugamad"], ["a[gq]m[ai]d", "agmad"], ["[gq]usa?in", "gusin"],
+const NAME_FOLDS = [["mu?[gq]am[ai]d", "mugamad"], ["a[gq]m[ai]d", "agmad"], ["[gq]usa?in", "gusin"],
   ["ius[iu]f", "iusuf"]];
 const NAME_FOLDS_RX = NAME_FOLDS.map(([p, c]) => [new RegExp(`^(?:${p})$`, "u"), c]);
 const ABD_WORDS = new Set(["abd", "abdil", "abdul", "abdal", "abdur", "abdus"]);
@@ -296,7 +296,7 @@ function joinKeys(toks, keys) {
     let k = keys[i];
     if (!k) continue;
     if (prev === "abd" && (scriptOf(t) === "la" || scriptOf(t) === "cy")) {
-      if (isArticle(t)) continue;
+      if (isArticle(t) && keys.slice(i + 1).some((x) => x)) continue;   // only when a name follows
       if (ALLAH_RX.test(k)) k = "lag";
     } else if (out.length && NAME_ARTICLES.has(stripMarks(t).toLowerCase())) {
       k = "al";
