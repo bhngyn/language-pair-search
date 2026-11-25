@@ -234,4 +234,14 @@ check("common list: never tagged", lexicon._tag_common("мирные") and lexic
 check("places: multiword name", [x["entry_id"] for x in FP("Луганская Народная")] == ["p:7"])
 check("places: no dictionary -> []", (lexicon.set_dictionary("/nonexistent") or FP("Бахмут")) == [])
 lexicon.set_dictionary(dbp)
+# Latin-script query stemming (U2): plural/inflected query -> also its stripped prefix; short words untouched
+check("lat_stem plural/participle", textnorm.lat_stem("arrests") == "arrest" and textnorm.lat_stem("arrested") == "arrest"
+      and textnorm.lat_stem("desaparecidos") == "desaparecido" and textnorm.lat_stem("détenues") == "détenu"
+      and textnorm.lat_stem("parties") == "party" and textnorm.lat_stem("disappearances") == "disappearanc")
+check("lat_stem leaves short / unsuffixed words", textnorm.lat_stem("cases") == "cases" and textnorm.lat_stem("killed") == "killed"
+      and textnorm.lat_stem("torture") == "torture" and textnorm.lat_stem("united") == "united")
+check("lat_stem: non-Latin untouched", textnorm.lat_stem("арестов") == "арестов" and textnorm.lat_stem("12345s") == "12345s")
+check("fts_word adds the Latin stem", textnorm.fts_word("arrests") == '("arrests"* OR "arrest"*)')
+check("fts_word stem=False (exclusion) keeps the typed word only", textnorm.fts_word("arrests", stem=False) == '"arrests"*')
+check("phrase is not stemmed", "arrest\"*" not in textnorm.fts_query('"mass arrests"'))
 print("PASS", sum(ok for _, ok in results), "/", len(results))
