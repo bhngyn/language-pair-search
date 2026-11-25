@@ -23,7 +23,8 @@ import unicodedata
 ROMAN_PREFIX = "zz"            # marks romanised tokens in the FTS `stems` column
 # Bump whenever match_key output can change (here or in textnorm.normalize): dictionary.db records the
 # version it was built with, and a mismatch means its names.key values are stale -> rebuild.
-KEY_VERSION = 2      # 2: textnorm.normalize gained obfuscation folding (leet, homoglyphs, Persian letters, repeats)
+KEY_VERSION = 3      # 2: textnorm.normalize gained obfuscation folding (leet, homoglyphs, Persian letters, repeats)
+                     # 3: match_key folds Arabic/Persian personal-name variants (_name_fold, join_keys)
 
 _CY = {
     "а": "a", "б": "b", "в": "v", "г": "g", "ґ": "g", "д": "d", "е": "e", "ё": "e", "є": "ie",
@@ -94,13 +95,94 @@ def script_of(word):
     return ""
 
 
+# --------------------------------------------------------------------------- #
+# Arabic / Persian personal names (KEY_VERSION 3)
+#
+# Applied to the KEY of a Latin or Cyrillic word in word_key / match_key, never in latin_key / cy_key themselves:
+# those also make the ROMAN_PREFIX tokens stored in the search index and the Latin -> Cyrillic query alternative,
+# which stay exactly as before (no FTS_VERSION bump, no reindex). Both scripts get the same folds, so a Latin and
+# a Cyrillic spelling that agreed before still agree (Yusuf = Юсуф, Iosif = Иосиф), and some now meet
+# (Hussein = Хусейн, Ahmed = Ахмед).
+#
+# Precision first: whole-key patterns for a handful of very frequent names, not a general vowel fold. Folding a/e/i
+# (or all vowels) would close these too, but merges unrelated names and places wholesale (Hamid ~ Hamad ~ Hamud,
+# Salim ~ Salam ~ Salum); see the KEY_VERSION 3 notes in the README for the measurement.
+# --------------------------------------------------------------------------- #
+
+_NAME_FOLDS = (
+    (re.compile(r"mu?[gq]am[aiu]d"), "mugamad"),     # Muhammad Mohamed Mohammed Mohamad Muhammed Mhamed Мухаммед
+    (re.compile(r"a[gq]m[ai]d"), "agmad"),           # Ahmad Ahmed Akhmed Ахмед Ахмад
+    (re.compile(r"[gq]usa?in"), "gusin"),            # Hussein Husayn Hossein Husein Hussain Хусейн Хусайн
+    (re.compile(r"ius[iu]f"), "iusuf"),              # Yusuf Youssef Yousef Yousif Youssouf Iosif Юсуф Иосиф
+)
+# "Abd" (servant of) as its own word: Abd, Abdel/Abdil, Abdul/Abdol/Abdoul, Abdal, Abdur, Abdus -> "abd"
+_ABD_WORDS = frozenset(("abd", "abdil", "abdul", "abdal", "abdur", "abdus"))
+# ... and joined to the name: Abdulrahman, Abdelaziz (abd + vowel + l), Abdurrahman, Abdirahman, Abdussalam
+# (abd + vowel + an assimilated sun letter; the doubled letter is already collapsed). Requiring l or a sun letter
+# after the vowel keeps abduction, abdomen, abdicate out. Abdallah / Abdullah / Abdulla / Abd Allah -> "abd lag".
+_ABD_ALLAH = re.compile(r"abd[aiu]?la[gq]?")
+_ABD_JOINED = re.compile(r"abd[aiu]l([a-z]{3,})|abd[aiu]([rstdznl][a-z]{2,})")
+_ALLAH = re.compile(r"[aiu]?la[gq]?")
+# Interior Arabic article (Mohamed El-Masri = Mohamed al-Masri = Mohamed ul Masri): al / el / ul -> "al". It is kept,
+# not dropped: "X al-Y" and "X Y" stay distinct. A leading article is dropped as before (match_key).
+_NAME_ARTICLES = frozenset(("al", "el", "ul", "аль", "эль", "ель", "уль", "ал", "эл"))
+
+
+def _name_fold(key):
+    """Canonical key for a few frequent Arabic/Persian given names and the Abd- prefix. key: one word's
+    latin_key / cy_key. May return two words ("abd ragman") for a joined Abd- name."""
+    if not key.startswith(("a", "m", "g", "q", "i")):
+        return key
+    for rx, canon in _NAME_FOLDS:
+        if rx.fullmatch(key):
+            return canon
+    if key.startswith("abd"):
+        if key in _ABD_WORDS:
+            return "abd"
+        if _ABD_ALLAH.fullmatch(key):
+            return "abd lag"
+        m = _ABD_JOINED.fullmatch(key)
+        if m:
+            return "abd " + (m.group(1) or m.group(2))
+    return key
+
+
+def join_keys(toks, keys):
+    """Join per-token keys (word_key of each token) into one name key, with the multi-word name rules: after an
+    Abd word, one Arabic article token is dropped (Abd al-Rahman = Abdel Rahman = Abdulrahman = "abd ragman") and
+    Allah is folded (Abd Allah = Abdullah); a non-initial al/el/ul becomes "al". Shared by match_key and
+    lexicon.find_places, so name keys and text-span keys agree."""
+    out, prev = [], ""
+    for i, (t, k) in enumerate(zip(toks, keys)):
+        if not k:
+            continue
+        if prev == "abd" and script_of(t) in ("la", "cy"):
+            if _is_article(t):
+                continue                                   # Abd al- / Abd el- / Abd ar- / Абд аль-
+            if _ALLAH.fullmatch(k):
+                k = "lag"
+        elif out and strip_marks(t).lower() in _NAME_ARTICLES:
+            k = "al"
+        out.append(k)
+        prev = k.rsplit(" ", 1)[-1]
+    return " ".join(out)
+
+
+_CY_ARTICLE = frozenset(("аль", "ал", "эль", "ель", "эд", "ас", "аш", "ад", "ар", "ат", "ан", "аз", "уль", "ур"))
+
+
+def _is_article(t):
+    t = strip_marks(t).lower()
+    return t in _LAT_ARTICLE or t in _CY_ARTICLE
+
+
 def word_key(word):
     """Key for one token of any script."""
     s = script_of(word)
     if s == "cy":
-        return cy_key(word)
+        return _name_fold(cy_key(word))
     if s == "la":
-        return latin_key(word)
+        return _name_fold(latin_key(word))
     if s == "ar":
         for p in _AR_ARTICLE:
             if word.startswith(p) and len(word) - len(p) >= 2:
@@ -124,7 +206,7 @@ def match_key(name):
     toks = tokens(name)
     if len(toks) > 1 and script_of(toks[0]) == "la" and toks[0] in _LAT_ARTICLE:
         toks = toks[1:]
-    return " ".join(k for k in (word_key(t) for t in toks) if k)
+    return join_keys(toks, [word_key(t) for t in toks])
 
 
 def romanised_tokens(norm_text):
