@@ -664,7 +664,7 @@ def _place_map(ed=None):
             if r["entry_id"] in ed.hidden_entries or (r["entry_id"], _nk(r["name"])) in ed.hidden_names or not r["key"]:
                 continue
             keys.setdefault(r["key"], []).append(r["entry_id"])
-            if " " not in r["key"] and translit.script_of(r["name"]) == "cy":     # exact spellings, see find_places
+            if translit.script_of(r["name"]) == "cy" and len(textnorm.TOKEN.findall(_nk(r["name"]))) == 1:   # exact spellings, see find_places
                 exact.setdefault(_nk(r["name"]), set()).add(r["entry_id"])
         for eid, ue in ed.user_entries.items():
             if ue["kind"] == "place" and eid not in ed.hidden_entries:
@@ -852,9 +852,9 @@ def find_places(norm_text, edits=None, doc_freq=None):
                     hit = (j, ok) if ok else None
                 break
             lo = i + 1 if translit.script_of(toks[i]) == "la" and toks[i] in translit._LAT_ARTICLE else i
-            if wk[lo] not in firsts:                            # a leading Latin al-/el- is dropped, as in match_key
+            if wk[lo].split(" ", 1)[0] not in firsts:           # a leading Latin al-/el- is dropped, as in match_key
                 continue
-            cands = keys.get(" ".join(k for k in wk[lo:j] if k))
+            cands = keys.get(translit.join_keys(toks[lo:j], wk[lo:j]))
             ok = _select(cands or (), False, pm)
             if ok:
                 hit = (j, ok)
