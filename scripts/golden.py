@@ -233,7 +233,7 @@ def add_tashkeel(w, rnd):
 
 
 # Arabic/Persian personal names in Latin and Cyrillic spellings (KEY_VERSION 3 name folds), plus near misses
-NAMES_AR = """Mohamed Muhammad Mohammed Mohammad Muhammed Mohamad Mouhamed Mhamed Mahmoud Mahmud Magomed Mehmet Hamid Hamed
+NAMES_AR = """Mohamed Muhammad Mohammed Mohammad Muhammed Mohamad Mouhamed Mhamed Mohamud Mahmoud Mahmud Magomed Mehmet Hamid Hamed
 Hamad Ahmed Ahmad Akhmed Hussein Husayn Hossein Husein Hussain Houssein Husain Hassan Hasan Husni Youssef Yusuf Yousef
 Yousif Youssouf Iosif Yosef Joseph Khaled Khalid Abd Abdel Abdul Abdal Abdil Abdol Abdoul Abdur Abdus Abdi Abdou Abdu
 Abdulrahman Abdelrahman Abdurrahman Abdirahman Abdallah Abdullah Abdulla Abdellah Abdelaziz Abdulaziz Abdussalam
