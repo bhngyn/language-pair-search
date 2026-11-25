@@ -144,9 +144,32 @@ def _star(x):
     return f'"{x}"*' if len(x) >= 4 else f'"{x}"'
 
 
+# Light query-side inflection stripping for Latin-script words (EN/FR/ES/PT): prefix matching already covers
+# singular -> plural ("arrest" finds "arrests"), this covers the other direction ("arrests" -> "arrest", "detained"
+# -> "detain", "disappearances" -> "disappearanc", "desaparecidos" -> "desaparecido", "détenues" -> "détenu").
+# Query side only: the index is unchanged. One stripped form per word; the stem must keep MIN_LAT_STEM letters,
+# so short words ("cases", "based", "killed") are left alone. Not applied to phrases or excluded words.
+_LAT_WORD = re.compile(r"[a-zà-ɏ]+")
+_LAT_SUFFIXES = (("ies", "y"), ("ings", ""), ("ing", ""), ("ed", ""), ("es", ""), ("s", ""))
+MIN_LAT_WORD = 6
+MIN_LAT_STEM = 5
+
+
+def lat_stem(w):
+    """One inflection-stripped prefix for a lower-case Latin-script word, or w itself when none applies."""
+    if len(w) < MIN_LAT_WORD or not _LAT_WORD.fullmatch(w):
+        return w
+    for suf, rep in _LAT_SUFFIXES:
+        if w.endswith(suf):
+            st = w[: -len(suf)] + rep
+            if len(st) >= MIN_LAT_STEM:
+                return st
+    return w
+
+
 def word_forms(w, stem=True):
     """Query forms of one plain word: [typed word, article-stripped Arabic, suffix-stripped Arabic / Russian or
-    Ukrainian stem], each an FTS term. Same stemming as the `stems` column, so inflected forms meet."""
+    Ukrainian stem / Latin-script inflection-stripped prefix], each an FTS term. Same stemming as the `stems` column, so inflected forms meet."""
     forms = [f'"{w}"*']
     if _ARABIC.match(w):
         s = strip_prefix(w)
@@ -159,6 +182,10 @@ def word_forms(w, stem=True):
             forms.append(_star(x))
     elif stem and _CYR_WORD.fullmatch(w):
         st = translit.cy_stem(w)
+        if st != w:
+            forms.append(_star(st))
+    elif stem:
+        st = lat_stem(w)
         if st != w:
             forms.append(_star(st))
     return forms
