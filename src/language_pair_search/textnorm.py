@@ -222,7 +222,8 @@ def fts_parts(q):
 
 
 def _fold_near(parts):
-    """Fold `a NEAR/n b [NEAR/m c]` into one "near" part. A NEAR without two plain operands is dropped."""
+    """Fold `a NEAR/n b [NEAR/m c]` into one "near" part. A NEAR without two plain operands is dropped, including
+    one next to an operator (`a OR NEAR b`, `a NEAR OR b`): an {"op"} part has no "kind"."""
     out, i = [], 0
     while i < len(parts):
         p = parts[i]
@@ -230,7 +231,7 @@ def _fold_near(parts):
             prev = out[-1] if out else None
             nxt = parts[i + 1] if i + 1 < len(parts) else None
             if prev and nxt and "kind" in nxt and not nxt["neg"] and nxt["kind"] != "near" \
-                    and prev["kind"] in ("word", "phrase", "near") and not prev["neg"]:
+                    and prev.get("kind") in ("word", "phrase", "near") and not prev["neg"]:
                 if prev["kind"] != "near":
                     out[-1] = prev = {"kind": "near", "neg": False, "operands": [prev], "n": p["n"], "words": list(prev["words"])}
                 prev["operands"].append(nxt)
