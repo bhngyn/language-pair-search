@@ -110,7 +110,7 @@ def script_of(word):
 # --------------------------------------------------------------------------- #
 
 _NAME_FOLDS = (
-    (re.compile(r"mu?[gq]am[aiu]d"), "mugamad"),     # Muhammad Mohamed Mohammed Mohamad Muhammed Mhamed Мухаммед
+    (re.compile(r"mu?[gq]am[ai]d"), "mugamad"),      # Muhammad Mohamed Mohammed Mohamad Muhammed Mhamed Мухаммед
     (re.compile(r"a[gq]m[ai]d"), "agmad"),           # Ahmad Ahmed Akhmed Ахмед Ахмад
     (re.compile(r"[gq]usa?in"), "gusin"),            # Hussein Husayn Hossein Husein Hussain Хусейн Хусайн
     (re.compile(r"ius[iu]f"), "iusuf"),              # Yusuf Youssef Yousef Yousif Youssouf Iosif Юсуф Иосиф
@@ -149,7 +149,8 @@ def _name_fold(key):
 
 def join_keys(toks, keys):
     """Join per-token keys (word_key of each token) into one name key, with the multi-word name rules: after an
-    Abd word, one Arabic article token is dropped (Abd al-Rahman = Abdel Rahman = Abdulrahman = "abd ragman") and
+    Abd word, one Arabic article token is dropped when a name follows it (Abd al-Rahman = Abdel Rahman =
+    Abdulrahman = "abd ragman"; a trailing "Abd al" keeps its article, so it never keys like a bare "Abd") and
     Allah is folded (Abd Allah = Abdullah); a non-initial al/el/ul becomes "al". Shared by match_key and
     lexicon.find_places, so name keys and text-span keys agree."""
     out, prev = [], ""
@@ -157,7 +158,7 @@ def join_keys(toks, keys):
         if not k:
             continue
         if prev == "abd" and script_of(t) in ("la", "cy"):
-            if _is_article(t):
+            if _is_article(t) and any(keys[i + 1:]):
                 continue                                   # Abd al- / Abd el- / Abd ar- / Абд аль-
             if _ALLAH.fullmatch(k):
                 k = "lag"
