@@ -68,6 +68,16 @@ purpose, marked in each entry's notes.
 - Python's `sqlite3` must be built with FTS5 (`python -c "import sqlite3; sqlite3.connect(':memory:').execute('create virtual table t using fts5(a)')"`).
 - Changing `textnorm.normalize`, the stemmers or `translit.match_key` changes stored index contents: bump
   `translit.KEY_VERSION` / `index.FTS_VERSION`, rebuild the dictionary and reindex stored text.
+- **KEY_VERSION 3** (personal names): `match_key` folds a few very frequent Arabic/Persian given names and the
+  Abd- prefix, in Latin and Cyrillic: Mohamed/Muhammad/Mohammed/Мухаммед, Ahmed/Ahmad/Akhmed, Hussein/Husayn/Hossein,
+  Youssef/Yusuf/Yousif/Iosif, and Abdel Rahman = Abd al-Rahman = Abdul Rahman = Abdulrahman = Abdurrahman
+  (Abdallah = Abdullah = Abd Allah). A non-initial al/el/ul is kept but spelled one way (Mohamed El-Masri =
+  Mohammed al-Masri, which stays distinct from Mohamed Masri); a leading article is dropped as before. The folds
+  are whole-key patterns (`translit._name_fold`, `translit.join_keys`), not a general vowel fold: over the 322k names
+  of a UA+SD `dictionary.db` they add 102 Latin fold pairs (+0.15%; mostly Wadi el X = Wadi al X), where folding
+  a/e/i would add +80% and a single vowel class +264%. `latin_key` / `cy_key` are unchanged, so the index's
+  romanised tokens are too: no `FTS_VERSION` bump or reindex, but `dictionary.db` must be rebuilt.
+  `python scripts/key_report.py dictionary.db` measures any key change against a built file.
 - `find_places` tuning (rank thresholds, guards, curated ambiguity list) is precision-first: a mention is a claim in
   the text, not an identification.
 

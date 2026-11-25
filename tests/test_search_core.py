@@ -109,6 +109,13 @@ check("near lowercase is a word", textnorm.fts_query("near the border") == '"nea
 check("NEAR inside a phrase is text", textnorm.fts_query('"the NEAR east"') == '"the near east"')
 check("near dangling dropped", textnorm.fts_query("a NEAR") == '"a"*' and textnorm.fts_query("NEAR/4 a") == '"a"*')
 check("near with OR/AND", textnorm.fts_query("x NEAR y OR z") == 'NEAR("x"* "y"*, 10) OR "z"*')
+# U7: a NEAR next to an operator is dropped like a lone marker (used to raise KeyError('kind'))
+check("near after OR dropped", textnorm.fts_query("a OR NEAR b") == '"a"* OR "b"*' and textnorm.fts_query("x OR NEAR/5 y") == '"x"* OR "y"*')
+check("near before OR dropped", textnorm.fts_query("a NEAR OR b") == '"a"* OR "b"*')
+check("near alone at either end dropped", textnorm.fts_query("NEAR b") == '"b"*' and textnorm.fts_query("a NEAR") == '"a"*'
+      and textnorm.fts_query("OR NEAR z") == '"z"*')
+check("near after OR: chain still folds", textnorm.fts_query("a OR NEAR b NEAR c") == '"a"* OR NEAR("b"* "c"*, 10)')
+check("near after OR: expand", lexicon.expand("a OR NEAR b")["fts"] == '"a"* OR "b"*' and lexicon.expand('"x y" OR NEAR/2 z')["fts"].startswith('"x y" OR'))
 check("near executes", p["n1"] in hits(textnorm.fts_query("wagner NEAR/5 bakhmut")) and p["n2"] not in hits(textnorm.fts_query("wagner NEAR/5 bakhmut")))
 check("near execution wide", p["n2"] in hits(textnorm.fts_query("wagner NEAR/30 bakhmut")))
 check("near phrase executes", p["n3"] in hits(textnorm.fts_query('"the airstrike" NEAR/5 wagner')))
@@ -165,7 +172,27 @@ con.execute(index.fts_ddl("plain_fts"))
 index.index_text(con, "plain_fts", 1, "قصفت الطائرات")
 check("index_text without meta", hits(textnorm.fts_query("قصف"), "plain_fts") == {1})
 check("index_row shape", index.index_row("в а г н е р", ["Chan"])[0] == "вагнер" and index.index_row("x")[2] == "")
-check("KEY_VERSION", translit.KEY_VERSION == 2 and index.FTS_VERSION == "3")
+check("KEY_VERSION", translit.KEY_VERSION == 3 and index.FTS_VERSION == "3")
+# U5 (KEY_VERSION 3): Arabic/Persian personal-name variants share a match key; the index alphabet does not move
+MK = translit.match_key
+same = lambda *ns: len({MK(n) for n in ns}) == 1
+check("names: Muhammad family", same("Mohamed", "Muhammad", "Mohammed", "Mohammad", "Muhammed", "Mohamad", "Мухаммед"))
+check("names: Ahmed / Ahmad", same("Ahmed", "Ahmad", "Akhmed", "Ахмед"))
+check("names: Hussein family", same("Hussein", "Husayn", "Hossein", "Husein", "Hussain", "Хусейн"))
+check("names: Yusuf family", same("Youssef", "Yusuf", "Yousef", "Yousif", "Youssouf", "Юсуф"))
+check("names: Khaled / Khalid", same("Khaled", "Khalid"))
+check("names: Abd- prefix", same("Abdel Rahman", "Abd al-Rahman", "Abdul Rahman", "Abdulrahman", "Abd el Rahman", "Abd ar-Rahman",
+      "Abdurrahman", "Abdelrahman") and MK("Abdulrahman") == "abd ragman")
+check("names: Abd Allah", same("Abdallah", "Abdullah", "Abd Allah", "Abdulla", "Abdellah") and same("Abdelaziz", "Abd al-Aziz"))
+check("names: interior article kept, spelling folded", same("Mohamed El-Masri", "Mohammed al Masri", "Muhammad ul-Masri")
+      and MK("Mohamed Masri") != MK("Mohamed El-Masri") and same("Al-Masri", "El Masri", "Masri"))
+check("names: distinct names stay apart", len({MK(n) for n in ("Muhammad", "Mahmoud", "Mohamud", "Hamid", "Hassan", "Hussein",
+      "Ahmed", "Hamad", "Joseph")}) == 9)
+check("names: trailing article after Abd kept", MK("Abd al") == "abd al" and MK("Abd al-Fattah") == "abd fatag")
+check("names: ordinary abd- words untouched", MK("abduction") == "abduktiun" and MK("abdomen") == "abdumin"
+      and MK("abdicate") == "abdikati" and MK("Abdi") == "abdi")
+check("names: index alphabet unchanged", translit.latin_key("Mohamed") == "mugamid" and translit.cy_key("Хусейн") == "qusin"
+      and textnorm.index_stems(N("Мухаммед")) == "zzmuqamid")
 
 # contentless tables: same matches and ranking, no stored text, rows still replaceable
 if sqlite3.sqlite_version_info >= index.CONTENTLESS_MIN_SQLITE:
@@ -219,7 +246,8 @@ for sql in ("CREATE TABLE meta(key TEXT PRIMARY KEY, value TEXT)",
 dc.execute("INSERT INTO meta VALUES ('version', 'big1'), ('key_version', '2'), ('counts', '{\"sd_ar\": 5}')")
 for eid, label, rank, nm, lang in (("p:1", "Ржавка", 3, "Ржавка", "ru"), ("p:2", "Днепр", 9, "Днепр", "ru"), ("p:3", "Ий", 2, "Ий", "ru"),
                                    ("p:4", "Соль", 3, "Соль", "ru"), ("p:5", "Zaporizhzhia", 8, "Zaporizhzhia", "en"),
-                                   ("p:6", "Rare place", 5, "Vuhledar", "en"), ("p:7", "Луганск обл", 9, "Луганская Народная", "ru")):
+                                   ("p:6", "Rare place", 5, "Vuhledar", "en"), ("p:7", "Луганск обл", 9, "Луганская Народная", "ru"),
+                                   ("p:8", "Abd al-Rahman", 9, "Abd al-Rahman", "en")):
     dc.execute("INSERT INTO entries(id, kind, label, rank) VALUES (?, 'place', ?, ?)", (eid, label, rank))
     dc.execute("INSERT INTO names VALUES (?,?,?,0,1,'t',?)", (eid, nm, lang, translit.match_key(nm)))
 for eid, nm, lang in (("p:1", "Rzhavka", "en"), ("p:2", "Dnipro", "en")):
@@ -251,6 +279,19 @@ check("alt guard: lexicon terms never suppressed", not any(a.get("reason") for g
 check("select: rank<5 single word not tagged (rule 1)", FP("Ржавка") == [] and FP("Ржавка ржавка") == [])
 check("common list: never tagged", lexicon._tag_common("мирные") and lexicon._tag_common("الحاله") and lexicon._tag_common("центре") and not lexicon._tag_common("бахмут"))
 check("places: multiword name", [x["entry_id"] for x in FP("Луганская Народная")] == ["p:7"])
+check("places: Abd- name spellings meet (KEY_VERSION 3)", [x["entry_id"] for x in FP("in Abdel Rahman")] == ["p:8"]
+      and [(x["entry_id"], x["start_tok"], x["end_tok"]) for x in FP("near Abdulrahman town")] == [("p:8", 1, 2)]
+      and [x["end_tok"] for x in FP("abd el rahman")] == [3])
 check("places: no dictionary -> []", (lexicon.set_dictionary("/nonexistent") or FP("Бахмут")) == [])
 lexicon.set_dictionary(dbp)
+# Latin-script query stemming (U2): plural/inflected query -> also its stripped prefix; short words untouched
+check("lat_stem plural/participle", textnorm.lat_stem("arrests") == "arrest" and textnorm.lat_stem("arrested") == "arrest"
+      and textnorm.lat_stem("desaparecidos") == "desaparecido" and textnorm.lat_stem("détenues") == "détenu"
+      and textnorm.lat_stem("parties") == "party" and textnorm.lat_stem("disappearances") == "disappearanc")
+check("lat_stem leaves short / unsuffixed words", textnorm.lat_stem("cases") == "cases" and textnorm.lat_stem("killed") == "killed"
+      and textnorm.lat_stem("torture") == "torture" and textnorm.lat_stem("united") == "united")
+check("lat_stem: non-Latin untouched", textnorm.lat_stem("арестов") == "арестов" and textnorm.lat_stem("12345s") == "12345s")
+check("fts_word adds the Latin stem", textnorm.fts_word("arrests") == '("arrests"* OR "arrest"*)')
+check("fts_word stem=False (exclusion) keeps the typed word only", textnorm.fts_word("arrests", stem=False) == '"arrests"*')
+check("phrase is not stemmed", "arrest\"*" not in textnorm.fts_query('"mass arrests"'))
 print("PASS", sum(ok for _, ok in results), "/", len(results))
