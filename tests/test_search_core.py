@@ -186,8 +186,9 @@ check("names: Abd- prefix", same("Abdel Rahman", "Abd al-Rahman", "Abdul Rahman"
 check("names: Abd Allah", same("Abdallah", "Abdullah", "Abd Allah", "Abdulla", "Abdellah") and same("Abdelaziz", "Abd al-Aziz"))
 check("names: interior article kept, spelling folded", same("Mohamed El-Masri", "Mohammed al Masri", "Muhammad ul-Masri")
       and MK("Mohamed Masri") != MK("Mohamed El-Masri") and same("Al-Masri", "El Masri", "Masri"))
-check("names: distinct names stay apart", len({MK(n) for n in ("Muhammad", "Mahmoud", "Hamid", "Hassan", "Hussein", "Ahmed",
-      "Hamad", "Joseph")}) == 8)
+check("names: distinct names stay apart", len({MK(n) for n in ("Muhammad", "Mahmoud", "Mohamud", "Hamid", "Hassan", "Hussein",
+      "Ahmed", "Hamad", "Joseph")}) == 9)
+check("names: trailing article after Abd kept", MK("Abd al") == "abd al" and MK("Abd al-Fattah") == "abd fatag")
 check("names: ordinary abd- words untouched", MK("abduction") == "abduktiun" and MK("abdomen") == "abdumin"
       and MK("abdicate") == "abdikati" and MK("Abdi") == "abdi")
 check("names: index alphabet unchanged", translit.latin_key("Mohamed") == "mugamid" and translit.cy_key("Хусейн") == "qusin"
