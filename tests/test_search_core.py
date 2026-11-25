@@ -109,6 +109,13 @@ check("near lowercase is a word", textnorm.fts_query("near the border") == '"nea
 check("NEAR inside a phrase is text", textnorm.fts_query('"the NEAR east"') == '"the near east"')
 check("near dangling dropped", textnorm.fts_query("a NEAR") == '"a"*' and textnorm.fts_query("NEAR/4 a") == '"a"*')
 check("near with OR/AND", textnorm.fts_query("x NEAR y OR z") == 'NEAR("x"* "y"*, 10) OR "z"*')
+# U7: a NEAR next to an operator is dropped like a lone marker (used to raise KeyError('kind'))
+check("near after OR dropped", textnorm.fts_query("a OR NEAR b") == '"a"* OR "b"*' and textnorm.fts_query("x OR NEAR/5 y") == '"x"* OR "y"*')
+check("near before OR dropped", textnorm.fts_query("a NEAR OR b") == '"a"* OR "b"*')
+check("near alone at either end dropped", textnorm.fts_query("NEAR b") == '"b"*' and textnorm.fts_query("a NEAR") == '"a"*'
+      and textnorm.fts_query("OR NEAR z") == '"z"*')
+check("near after OR: chain still folds", textnorm.fts_query("a OR NEAR b NEAR c") == '"a"* OR NEAR("b"* "c"*, 10)')
+check("near after OR: expand", lexicon.expand("a OR NEAR b")["fts"] == '"a"* OR "b"*' and lexicon.expand('"x y" OR NEAR/2 z')["fts"].startswith('"x y" OR'))
 check("near executes", p["n1"] in hits(textnorm.fts_query("wagner NEAR/5 bakhmut")) and p["n2"] not in hits(textnorm.fts_query("wagner NEAR/5 bakhmut")))
 check("near execution wide", p["n2"] in hits(textnorm.fts_query("wagner NEAR/30 bakhmut")))
 check("near phrase executes", p["n3"] in hits(textnorm.fts_query('"the airstrike" NEAR/5 wagner')))
