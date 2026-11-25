@@ -45,6 +45,9 @@ rows = con.execute("SELECT rowid FROM posts_fts WHERE posts_fts MATCH ?", (lps.t
 - Without a dictionary, `expand()` still adds the Cyrillic-romanisation alternatives; `find_places()` returns `[]`.
 - `lps.fts_query("wagner NEAR/5 bakhmut")` gives the literal expression with no expansion.
 - The `meta` column (`fts_ddl(table, meta=True)`) is for names such as channel or author; `fts_scoped` keeps a text search from matching it.
+- `fts_ddl(table, contentless=True)` builds the same index without storing a copy of the text (about half the size;
+  needs SQLite ≥ 3.43). Matching, `bm25()` and `index_text` replacement work as before; `snippet()`/`highlight()` and
+  reading the columns back do not, so keep the original text in your own table.
 - `expand(q, edits=Edits(rows), doc_freq=fn)`: `edits` are your extra/hidden names and entries (row dicts with `id`, `action` in `add_entry | add_name | hide_name | hide_entry`, `entry_id`, `name`, `lang`, `kind`, `country`, `category`, `label`); `doc_freq(token) -> 0..1` (share of your documents containing the token) lets the ordinary-word guard also suppress place names that are common in *your* corpus.
 - Store the `expansion` with a saved search or alert rule if it must not change when the dictionary is edited later.
 
